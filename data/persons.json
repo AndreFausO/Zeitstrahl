@@ -1,0 +1,100 @@
+[
+  {
+    "id": "P0001",
+    "name": "James Watt",
+    "birth_year": 1736,
+    "death_year": 1819,
+    "short_description": "Schottischer Ingenieur; seine Verbesserungen steigerten die Effizienz der Dampfmaschine."
+  },
+  {
+    "id": "P0002",
+    "name": "Johannes Gutenberg",
+    "birth_year": 1400,
+    "death_year": 1468,
+    "short_description": "Mainzer Drucker; sein Geburtsjahr ist nur ungefähr bekannt."
+  },
+  {
+    "id": "P0003",
+    "name": "Nikolaus Kopernikus",
+    "birth_year": 1473,
+    "death_year": 1543,
+    "short_description": "Astronom und Verfasser eines heliozentrischen Weltmodells."
+  },
+  {
+    "id": "P0004",
+    "name": "Martin Luther",
+    "birth_year": 1483,
+    "death_year": 1546,
+    "short_description": "Theologe und wichtiger Akteur der Reformation."
+  },
+  {
+    "id": "P0005",
+    "name": "Charles Darwin",
+    "birth_year": 1809,
+    "death_year": 1882,
+    "short_description": "Naturforscher und Mitbegründer der Theorie evolutionärer Veränderung durch natürliche Selektion."
+  },
+  {
+    "id": "P0006",
+    "name": "Karl Marx",
+    "birth_year": 1818,
+    "death_year": 1883,
+    "short_description": "Philosoph, Gesellschaftstheoretiker und Kritiker der politischen Ökonomie."
+  },
+  {
+    "id": "P0007",
+    "name": "Friedrich Engels",
+    "birth_year": 1820,
+    "death_year": 1895,
+    "short_description": "Gesellschaftstheoretiker und enger Mitarbeiter von Karl Marx."
+  },
+  {
+    "id": "P0008",
+    "name": "Albert Einstein",
+    "birth_year": 1879,
+    "death_year": 1955,
+    "short_description": "Physiker; entwickelte die spezielle und die allgemeine Relativitätstheorie."
+  },
+  {
+    "id": "P0009",
+    "name": "Walter Gropius",
+    "birth_year": 1883,
+    "death_year": 1969,
+    "short_description": "Architekt und Gründungsdirektor des Bauhauses."
+  },
+  {
+    "id": "P0010",
+    "name": "Isaac Newton",
+    "birth_year": 1643,
+    "death_year": 1727,
+    "short_description": "Mathematiker und Naturforscher; die Lebensdaten folgen dem gregorianischen Kalender."
+  },
+  {
+    "id": "P0011",
+    "name": "Denis Diderot",
+    "birth_year": 1713,
+    "death_year": 1784,
+    "short_description": "Philosoph und Mitherausgeber der Encyclopédie."
+  },
+  {
+    "id": "P0012",
+    "name": "Edward Jenner",
+    "birth_year": 1749,
+    "death_year": 1823,
+    "short_description": "Arzt und Wegbereiter der Pockenimpfung."
+  },
+  {
+    "id": "P0013",
+    "name": "Max Planck",
+    "birth_year": 1858,
+    "death_year": 1947,
+    "short_description": "Physiker; seine Quantenhypothese gab einen Ausgangspunkt für die Quantenphysik."
+  },
+  {
+    "id": "P0014",
+    "name": "Mary Shelley",
+    "birth_year": 1797,
+    "death_year": 1851,
+    "short_description": "Britische Schriftstellerin und Autorin von Frankenstein."
+  }
+]

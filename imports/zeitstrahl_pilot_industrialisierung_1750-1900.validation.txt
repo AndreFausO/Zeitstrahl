@@ -1,0 +1,64 @@
+Finalization date: 2026-10-26
+Runtime: official Node.js v22.14.0 darwin-arm64, checksum verified.
+All operations use the existing importer/test code. Application/data files are unchanged.
+
+$ node scripts/import-data.mjs preview imports/zeitstrahl_pilot_industrialisierung_1750-1900.reviewed.json
+Exit code: 0
+events: 18 proposed addition(s)
+persons: 0 proposed addition(s)
+institutions: 0 proposed addition(s)
+relationships: 2 proposed addition(s)
+sources: 21 proposed addition(s)
+Validation passed. No files changed. Use apply to add these records.
+
+
+
+$ node tests/unit.mjs
+Exit code: 0
+✓ Alle Beispieldatensätze und Referenzen sind gültig
+✓ Ereignisvalidierung erkennt Pflichtfelder, Werte und verkehrte Zeiträume
+✓ Beziehungsvalidierung erkennt Referenzen, Selbstbezug und Duplikate
+✓ Filter sind über Kategorien kombinierbar, innerhalb einer Kategorie ODER
+✓ Gleichzeitigkeit nutzt inklusive Intervalle, priorisiert andere Disziplinen
+✓ Abgeleitete Werte werden berechnet, nicht in Ereignissen gespeichert
+✓ Zoomschwellen reduzieren Beziehungen
+✓ Reaktionsbeziehungen haben die richtige logische Richtung
+✓ Loader überspringt fehlerhafte Referenzen und beschädigte Einzelobjekte
+✓ Loader meldet nicht erreichbare JSON-Dateien verständlich
+
+Gesamt: 10 Testgruppen bestanden.
+
+Zeitstrahl: Ungültige Einträge wurden übersprungen. [
+  'Ungültiger Ereignisdatensatz.',
+  'RBROKEN: Das Zielereignis existiert nicht.',
+  'Ungültiger Beziehungsdatensatz.'
+]
+
+
+$ node tests/import.mjs
+Exit code: 0
+✓ Preview resolves references within the batch and writes nothing
+Verified backup: backups/import-8TKdju
+✓ Apply appends all five collections and verifies all six backup files
+✓ Duplicate IDs within a batch reject every addition
+✓ Existing IDs never overwrite records
+✓ Missing references and invalid vocabularies reject the whole import
+✓ Malformed records, missing fields and wrong collection names reject safely
+✓ Invalid dates and relationship pairs are rejected
+Verified backup: backups/import-3F9lf5
+✓ Omitted collections are allowed; untouched files retain their exact bytes
+Verified backup: backups/import-9dLt8Z
+✓ Write failure rolls back files already replaced
+✓ Backup failure prevents changes
+✓ A competing import lock prevents changes
+✓ Input symlinks escaping the selected project are rejected before reading
+✓ Invalid JSON and empty imports do not change content
+
+13 import test groups passed.
+
+
+
+Additional checks: unique IDs; valid endpoints; nonempty, resolving source references; no duplicate normalized source URLs/title-author pairs; English geography labels; no unused proposed sources; prior duplicate omissions preserved.
+Existing data, app, scripts and tests match pre-finalization SHA-256 hashes.
+Importer regression tests used disposable fixture copies only. No live import applied.
+Reviewed JSON SHA-256: 6948f93ad6aa52da64565a641bdaf3e8fdab0e3caa6f0988b37a0214bd2d5b1b

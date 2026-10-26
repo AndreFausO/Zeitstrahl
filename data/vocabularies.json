@@ -1,0 +1,429 @@
+{
+  "disciplines": [
+    {
+      "id": "politics_society",
+      "label": "Politik & Gesellschaft",
+      "color": "#835a46",
+      "tint": "#f3e9e2"
+    },
+    {
+      "id": "science",
+      "label": "Wissenschaft",
+      "color": "#466b82",
+      "tint": "#e8eff3"
+    },
+    {
+      "id": "technology_economy",
+      "label": "Technik & Wirtschaft",
+      "color": "#896127",
+      "tint": "#f5eedf"
+    },
+    {
+      "id": "philosophy_religion",
+      "label": "Philosophie & Religion",
+      "color": "#716087",
+      "tint": "#eee9f3"
+    },
+    {
+      "id": "art_culture",
+      "label": "Kunst & Kultur",
+      "color": "#935460",
+      "tint": "#f5e8ea"
+    },
+    {
+      "id": "environment_nature",
+      "label": "Umwelt & Natur",
+      "color": "#506b53",
+      "tint": "#e8efe7"
+    }
+  ],
+  "topics": [
+    {
+      "id": "energy",
+      "label": "Energie"
+    },
+    {
+      "id": "mobility",
+      "label": "Mobilität"
+    },
+    {
+      "id": "production",
+      "label": "Produktion"
+    },
+    {
+      "id": "industrialisation",
+      "label": "Industrialisierung"
+    },
+    {
+      "id": "urbanisation",
+      "label": "Urbanisierung"
+    },
+    {
+      "id": "work",
+      "label": "Arbeit"
+    },
+    {
+      "id": "trade",
+      "label": "Handel"
+    },
+    {
+      "id": "communication",
+      "label": "Kommunikation"
+    },
+    {
+      "id": "knowledge",
+      "label": "Wissen"
+    },
+    {
+      "id": "religion",
+      "label": "Religion"
+    },
+    {
+      "id": "state",
+      "label": "Staat"
+    },
+    {
+      "id": "rights",
+      "label": "Rechte"
+    },
+    {
+      "id": "war",
+      "label": "Krieg"
+    },
+    {
+      "id": "health",
+      "label": "Gesundheit"
+    },
+    {
+      "id": "nature",
+      "label": "Natur"
+    },
+    {
+      "id": "climate",
+      "label": "Klima"
+    },
+    {
+      "id": "resources",
+      "label": "Ressourcen"
+    },
+    {
+      "id": "media",
+      "label": "Medien"
+    },
+    {
+      "id": "technology",
+      "label": "Technik"
+    },
+    {
+      "id": "science",
+      "label": "Wissenschaft"
+    },
+    {
+      "id": "education",
+      "label": "Bildung"
+    }
+  ],
+  "entry_types": [
+    {
+      "id": "event",
+      "label": "Ereignis"
+    },
+    {
+      "id": "process",
+      "label": "Entwicklung / Prozess"
+    },
+    {
+      "id": "idea_theory",
+      "label": "Idee / Theorie"
+    },
+    {
+      "id": "movement",
+      "label": "Bewegung / Strömung"
+    },
+    {
+      "id": "technical_innovation",
+      "label": "Technische Innovation"
+    },
+    {
+      "id": "work_publication",
+      "label": "Werk / Veröffentlichung"
+    },
+    {
+      "id": "institution",
+      "label": "Institution"
+    },
+    {
+      "id": "political_legal_change",
+      "label": "Politische / rechtliche Veränderung"
+    },
+    {
+      "id": "natural_environmental_event",
+      "label": "Natur-/Umweltereignis"
+    }
+  ],
+  "relationship_types": [
+    {
+      "id": "influenced",
+      "label": "beeinflusste",
+      "category": "causal"
+    },
+    {
+      "id": "enabled",
+      "label": "ermöglichte",
+      "category": "causal"
+    },
+    {
+      "id": "contributed_to",
+      "label": "trug bei zu",
+      "category": "causal"
+    },
+    {
+      "id": "accelerated",
+      "label": "beschleunigte",
+      "category": "causal"
+    },
+    {
+      "id": "inspired",
+      "label": "inspirierte",
+      "category": "causal"
+    },
+    {
+      "id": "reaction_to",
+      "label": "entstand als Reaktion auf",
+      "category": "reaction"
+    },
+    {
+      "id": "conflicted_with",
+      "label": "stand im Konflikt mit",
+      "category": "reaction"
+    },
+    {
+      "id": "developed_from",
+      "label": "entwickelte sich aus",
+      "category": "development"
+    },
+    {
+      "id": "part_of",
+      "label": "ist Teil von",
+      "category": "structural"
+    }
+  ],
+  "relationship_categories": [
+    {
+      "id": "causal",
+      "label": "Einfluss & Wirkung"
+    },
+    {
+      "id": "reaction",
+      "label": "Reaktion & Konflikt"
+    },
+    {
+      "id": "development",
+      "label": "Entwicklung"
+    },
+    {
+      "id": "structural",
+      "label": "Teil eines Ganzen"
+    }
+  ],
+  "date_precisions": [
+    {
+      "id": "exact",
+      "label": "Genau"
+    },
+    {
+      "id": "approximate",
+      "label": "Ungefähr"
+    },
+    {
+      "id": "decade",
+      "label": "Jahrzehnt"
+    },
+    {
+      "id": "century",
+      "label": "Jahrhundert"
+    },
+    {
+      "id": "uncertain",
+      "label": "Unsicher"
+    }
+  ],
+  "confidence": [
+    {
+      "id": "high",
+      "label": "Hoch"
+    },
+    {
+      "id": "medium",
+      "label": "Mittel"
+    },
+    {
+      "id": "low",
+      "label": "Gering"
+    }
+  ],
+  "scopes": [
+    {
+      "id": "local",
+      "label": "Lokal"
+    },
+    {
+      "id": "regional",
+      "label": "Regional"
+    },
+    {
+      "id": "national",
+      "label": "National"
+    },
+    {
+      "id": "continental",
+      "label": "Kontinental"
+    },
+    {
+      "id": "global",
+      "label": "Global"
+    }
+  ],
+  "subdisciplines": [
+    {
+      "id": "architecture",
+      "label": "Architektur",
+      "discipline_id": "art_culture"
+    },
+    {
+      "id": "literature",
+      "label": "Literatur",
+      "discipline_id": "art_culture"
+    },
+    {
+      "id": "painting",
+      "label": "Malerei",
+      "discipline_id": "art_culture"
+    },
+    {
+      "id": "music",
+      "label": "Musik",
+      "discipline_id": "art_culture"
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "discipline_id": "art_culture"
+    },
+    {
+      "id": "physics",
+      "label": "Physik",
+      "discipline_id": "science"
+    },
+    {
+      "id": "biology",
+      "label": "Biologie",
+      "discipline_id": "science"
+    },
+    {
+      "id": "chemistry",
+      "label": "Chemie",
+      "discipline_id": "science"
+    },
+    {
+      "id": "astronomy",
+      "label": "Astronomie",
+      "discipline_id": "science"
+    },
+    {
+      "id": "medicine",
+      "label": "Medizin",
+      "discipline_id": "science"
+    },
+    {
+      "id": "energy",
+      "label": "Energie",
+      "discipline_id": "technology_economy"
+    },
+    {
+      "id": "mechanical_engineering",
+      "label": "Maschinenbau",
+      "discipline_id": "technology_economy"
+    },
+    {
+      "id": "communication",
+      "label": "Kommunikation",
+      "discipline_id": "technology_economy"
+    },
+    {
+      "id": "transport",
+      "label": "Verkehr",
+      "discipline_id": "technology_economy"
+    },
+    {
+      "id": "production",
+      "label": "Produktion",
+      "discipline_id": "technology_economy"
+    },
+    {
+      "id": "trade",
+      "label": "Handel",
+      "discipline_id": "technology_economy"
+    },
+    {
+      "id": "social_history",
+      "label": "Sozialgeschichte",
+      "discipline_id": "politics_society"
+    },
+    {
+      "id": "political_history",
+      "label": "Politische Geschichte",
+      "discipline_id": "politics_society"
+    },
+    {
+      "id": "philosophy",
+      "label": "Philosophie",
+      "discipline_id": "philosophy_religion"
+    },
+    {
+      "id": "theology",
+      "label": "Theologie",
+      "discipline_id": "philosophy_religion"
+    },
+    {
+      "id": "climate_history",
+      "label": "Klimageschichte",
+      "discipline_id": "environment_nature"
+    },
+    {
+      "id": "ecology",
+      "label": "Ökologie",
+      "discipline_id": "environment_nature"
+    }
+  ],
+  "source_types": [
+    {
+      "id": "book",
+      "label": "book"
+    },
+    {
+      "id": "academic_article",
+      "label": "academic_article"
+    },
+    {
+      "id": "reference_work",
+      "label": "reference_work"
+    },
+    {
+      "id": "museum",
+      "label": "museum"
+    },
+    {
+      "id": "archive",
+      "label": "archive"
+    },
+    {
+      "id": "official_source",
+      "label": "official_source"
+    },
+    {
+      "id": "reputable_website",
+      "label": "reputable_website"
+    }
+  ]
+}

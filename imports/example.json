@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "E0045",
+      "title": "BEISPIEL – neues Ereignis",
+      "entry_type": "event",
+      "start_year": 1800,
+      "end_year": null,
+      "date_precision": "approximate",
+      "date_label": "1800",
+      "primary_discipline": "technology_economy",
+      "secondary_disciplines": [],
+      "subdisciplines": [
+        "communication"
+      ],
+      "topics": [
+        "knowledge",
+        "media",
+        "communication",
+        "education"
+      ],
+      "geography": [
+        "Germany",
+        "Europe"
+      ],
+      "scope": "continental",
+      "importance": 5,
+      "short_description": "Vor dem Import durch geprüften historischen Inhalt ersetzen.",
+      "long_description": "Dieses Beispiel zeigt nur das Importformat.",
+      "persons": [
+        "P0015"
+      ],
+      "institutions": [
+        "I0003"
+      ],
+      "source_ids": [
+        "S0010"
+      ],
+      "confidence": "medium",
+      "notes": "Vorlage, keine historische Aussage."
+    }
+  ],
+  "persons": [
+    {
+      "id": "P0015",
+      "name": "BEISPIEL – Person",
+      "birth_year": 1750,
+      "death_year": 1820,
+      "short_description": "Vorlage, durch eine historische Person ersetzen."
+    }
+  ],
+  "institutions": [
+    {
+      "id": "I0003",
+      "name": "BEISPIEL – Institution",
+      "founded_year": 1790,
+      "dissolved_year": null,
+      "place": "Beispielort",
+      "short_description": "Vorlage, keine historische Aussage."
+    }
+  ],
+  "relationships": [
+    {
+      "id": "R0061",
+      "source_id": "E0045",
+      "target_id": "E0001",
+      "relationship_type": "influenced",
+      "strength": 1,
+      "confidence": "low",
+      "description": "BEISPIEL – durch eine belegte Beziehung ersetzen.",
+      "start_year": null,
+      "end_year": null,
+      "geography": [],
+      "source_ids": [
+        "S0010"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0010",
+      "title": "BEISPIEL – Quellenangabe ersetzen",
+      "author": "",
+      "year": null,
+      "source_type": "book",
+      "publisher": "",
+      "url": null,
+      "notes": "Vorlage; keine echte Quelle."
+    }
+  ]
+}

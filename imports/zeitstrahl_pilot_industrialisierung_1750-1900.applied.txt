@@ -1,0 +1,76 @@
+Local pilot import completed: 2026-10-26
+
+PREVIEW
+events: 18 proposed addition(s)
+persons: 0 proposed addition(s)
+institutions: 0 proposed addition(s)
+relationships: 2 proposed addition(s)
+sources: 21 proposed addition(s)
+Validation passed. No files changed. Use apply to add these records.
+
+APPLY
+Verified backup: backups/import-qDTZp0
+events: 18 proposed addition(s)
+persons: 0 proposed addition(s)
+institutions: 0 proposed addition(s)
+relationships: 2 proposed addition(s)
+sources: 21 proposed addition(s)
+Import applied. Reload the website.
+
+VERIFICATION
+{
+  "date": "2026-10-26",
+  "status": "applied_locally",
+  "import_file": "imports/zeitstrahl_pilot_industrialisierung_1750-1900.reviewed.json",
+  "import_sha256": "6948f93ad6aa52da64565a641bdaf3e8fdab0e3caa6f0988b37a0214bd2d5b1b",
+  "added": {
+    "events": 18,
+    "relationships": 2,
+    "sources": 21
+  },
+  "final_counts": {
+    "events": 62,
+    "relationships": 62,
+    "sources": 30,
+    "persons": 14,
+    "institutions": 2
+  },
+  "backup_directory": "backups/import-qDTZp0",
+  "backup_verified": true,
+  "existing_records_preserved": true,
+  "application_unchanged": true,
+  "tests": {
+    "unit_groups_passed": 10,
+    "import_groups_passed": 13,
+    "failures": 0,
+    "expected_test_warnings": "Unit tests intentionally exercise malformed records; the actual application loader reports zero warnings."
+  },
+  "deployed": false,
+  "committed": false,
+  "local_website_checks": {
+    "http_files_served": 22,
+    "application_loader_warnings": 0,
+    "new_events_search_filter_checks_passed": 18,
+    "new_events_detail_markup_and_source_links_passed": 18,
+    "new_relationships_verified": 2,
+    "new_relationship_visibility": "Im Detail zoom; their strength is below the default Entdecken threshold.",
+    "browser_visual_interaction_checks": "Not run: browser automation unavailable. Detail markup was generated with a minimal document stub, not a browser."
+  },
+  "remaining_warnings": [
+    "Existing browser.js harness hardcodes original 44-event and 60-relationship counts; it was not run or changed.",
+    "Browser-local Datenwerkstatt drafts were not modified; an old draft export could overwrite newly imported content if manually used to replace data files."
+  ],
+  "post_import_sha256": {
+    "data/sources.json": "adc30442a2165d2718f6a5c91971d99898a4c3c70682cacfe7d0deb45f965dad",
+    "data/relationship.schema.json": "757a30831f8c3b6781e7e800d9cfa699352faeadc05c55cefeab6651a8f80574",
+    "data/events.json": "d554fc97dcc0ebe8677024f3f528e15d62055357b23e23e714843b99156aab17",
+    "data/persons.json": "005282df271ae3e9ad709f628013bb343315a24bfd22e592f21056400777d4a8",
+    "data/institutions.json": "604e62762d64ffcc079cc258129bc50ac0934fc888d9f0a1a9910a1b17590c74",
+    "data/vocabularies.json": "4e90028d5d1dda106ed964758e892cfaec26dcd9908eee26d2d468dfc84c6ac5",
+    "data/relationships.json": "ade4eb1f504a419c49f68187473ba99b31b298629d9b73d48252567e8d89f492",
+    "data/event.schema.json": "c63124548b2642e3075748cdbe26e492659534d56783724a08cb3f1a0e0b1f15"
+  }
+}
+
+All existing records preserved in order and value; untouched collections and website code remain byte-for-byte unchanged.
+No deploy or commit. Temporary runtime and test server removed/stopped.

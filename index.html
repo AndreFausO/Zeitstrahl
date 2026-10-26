@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Entdecke Geschichte im Zusammenhang: ein interaktiver Zeitstrahl über sechs Disziplinen.">
+  <title>Zeitstrahl — Geschichte im Zusammenhang</title>
+  <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/timeline.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Zum Inhalt</a>
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="Zeitstrahl Startseite"><span class="brand-mark" aria-hidden="true">z<span>·</span></span>zeitstrahl<span class="brand-dot">.</span></a>
+    <nav aria-label="Hauptnavigation"><a href="index.html" class="active" aria-current="page">Zeitstrahl</a><button type="button" data-nav="topics">Themen</button><button type="button" data-nav="persons">Personen</button><button type="button" data-nav="search">Suche <span aria-hidden="true">⌕</span></button></nav>
+    <a class="header-link" href="admin.html">Datenwerkstatt <span aria-hidden="true">↗</span></a>
+  </header>
+  <main id="main">
+    <section class="intro">
+      <div><p class="eyebrow"><span class="tiny-line"></span> GESCHICHTE IM ZUSAMMENHANG</p><h1>Nichts geschieht <em>für sich allein.</em></h1><p class="intro-copy">Geschichte entsteht dort, wo Entwicklungen aufeinandertreffen.</p></div>
+      <div class="intro-aside"><span class="edition">EINE REISE DURCH DIE NEUZEIT</span><span class="intro-years" id="intro-years">1450 <span>—</span> 1950</span><span id="data-stats" class="muted">Sechs Perspektiven. Eine Geschichte.</span></div>
+    </section>
+    <div id="app"><p class="loading" role="status">Der Zeitstrahl wird vorbereitet …</p></div>
+  </main>
+  <footer class="site-footer"><span>Vergangenheit verstehen. Zusammenhänge entdecken.</span><span>Ein offener Blick auf Geschichte <span class="footer-dot">·</span> Prototyp 01</span></footer>
+  <dialog id="explore-dialog" aria-labelledby="dialog-title"><div class="dialog-top"><p class="eyebrow">WEITER ENTDECKEN</p><button class="icon-button" id="close-dialog" aria-label="Fenster schließen">×</button></div><h2 id="dialog-title"></h2><div id="dialog-content"></div></dialog>
+</body>
+</html>

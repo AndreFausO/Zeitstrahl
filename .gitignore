@@ -1,0 +1,8 @@
+.DS_Store
+~$*
+/backups/
+/.import-data.lock
+/.import-test-*/
+/.import-review-runtime/
+/.import-finalize-runtime/
+/.pilot-import-runtime/

@@ -1,0 +1,401 @@
+{
+  "review_date": "2026-10-26",
+  "status": "applied_locally",
+  "event_reuse_map": {
+    "E9013": "E0022",
+    "E9018": "E0020"
+  },
+  "relationship_reference_changes": [
+    {
+      "id": "R9006",
+      "field": "target_id",
+      "from": "E9013",
+      "to": "E0022"
+    },
+    {
+      "id": "R9007",
+      "field": "target_id",
+      "from": "E9018",
+      "to": "E0020"
+    },
+    {
+      "id": "R9007",
+      "field": "source_id",
+      "from": "E9014",
+      "to": "E0019"
+    }
+  ],
+  "omitted_duplicate_relationships": [
+    {
+      "incoming_id": "R9007",
+      "existing_id": "R0030",
+      "resolved_relationship": {
+        "id": "R9007",
+        "source_id": "E0019",
+        "target_id": "E0020",
+        "relationship_type": "influenced",
+        "strength": 3,
+        "confidence": "high",
+        "description": "Die elektrische Telegraphie schuf technische Verfahren und Infrastrukturen zur Nachrichtenübertragung über Leitungen. Bells Telefon entstand vor diesem Hintergrund der Telegraphentechnik, verfolgte aber das neue Ziel, Sprache elektrisch zu übertragen.",
+        "start_year": null,
+        "end_year": null,
+        "geography": [],
+        "source_ids": [
+          "S9013",
+          "S9017",
+          "S9022"
+        ]
+      }
+    }
+  ],
+  "sources_omitted_as_unreferenced_not_duplicates": [
+    "S9017",
+    "S9022"
+  ],
+  "input_counts": {
+    "events": 20,
+    "relationships": 8,
+    "sources": 24
+  },
+  "proposed_counts": {
+    "events": 18,
+    "relationships": 2,
+    "sources": 21
+  },
+  "existing_records_modified": [],
+  "reviewed_input_counts": {
+    "events": 18,
+    "relationships": 7,
+    "sources": 22
+  },
+  "finalization": {
+    "date": "2026-10-26",
+    "geography_changes": [
+      {
+        "collection": "events",
+        "id": "E9001",
+        "before": [
+          "Großbritannien"
+        ],
+        "after": [
+          "Great Britain"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9002",
+        "before": [
+          "Großbritannien"
+        ],
+        "after": [
+          "Great Britain"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9003",
+        "before": [
+          "Saint-Domingue",
+          "Haiti",
+          "Karibik"
+        ],
+        "after": [
+          "Saint-Domingue",
+          "Haiti",
+          "Caribbean"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9004",
+        "before": [
+          "USA"
+        ],
+        "after": [
+          "United States"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9005",
+        "before": [
+          "Großbritannien",
+          "Atlantikraum"
+        ],
+        "after": [
+          "Great Britain",
+          "Atlantic World"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9006",
+        "before": [
+          "Großbritannien"
+        ],
+        "after": [
+          "Great Britain"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9007",
+        "before": [
+          "Großbritannien"
+        ],
+        "after": [
+          "Great Britain"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9008",
+        "before": [
+          "Großbritannien"
+        ],
+        "after": [
+          "Great Britain"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9009",
+        "before": [
+          "China",
+          "Großbritannien",
+          "Indien"
+        ],
+        "after": [
+          "China",
+          "Great Britain",
+          "India"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9010",
+        "before": [
+          "Großbritannien",
+          "London"
+        ],
+        "after": [
+          "Great Britain",
+          "London"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9011",
+        "before": [
+          "Indien",
+          "Bombay",
+          "Thane"
+        ],
+        "after": [
+          "India",
+          "Bombay",
+          "Thane"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9012",
+        "before": [
+          "Großbritannien",
+          "London"
+        ],
+        "after": [
+          "Great Britain",
+          "London"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9014",
+        "before": [
+          "Atlantik",
+          "Großbritannien",
+          "USA"
+        ],
+        "after": [
+          "Atlantic Ocean",
+          "Great Britain",
+          "United States"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9015",
+        "before": [
+          "Deutschland",
+          "Großbritannien"
+        ],
+        "after": [
+          "Germany",
+          "Great Britain"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9017",
+        "before": [
+          "Ägypten",
+          "Suez"
+        ],
+        "after": [
+          "Egypt",
+          "Suez"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9019",
+        "before": [
+          "Großbritannien",
+          "London"
+        ],
+        "after": [
+          "Great Britain",
+          "London"
+        ]
+      },
+      {
+        "collection": "events",
+        "id": "E9020",
+        "before": [
+          "Berlin",
+          "Afrika",
+          "Europa"
+        ],
+        "after": [
+          "Berlin",
+          "Africa",
+          "Europe"
+        ]
+      }
+    ],
+    "relationships_removed_for_insufficient_specific_evidence": [
+      {
+        "record": {
+          "id": "R9003",
+          "source_id": "E9001",
+          "target_id": "E9006",
+          "relationship_type": "influenced",
+          "strength": 2,
+          "confidence": "medium",
+          "description": "Die durch mehrere Erfindungen vorangetriebene Textilmechanisierung änderte die Arbeits- und Lohnbedingungen, gegen die sich die Ludditen wandten. Ihre Angriffe betrafen jedoch vor allem andere konkrete Maschinen; ein unmittelbarer Protest gegen Arkwrights Water Frame wird hier nicht behauptet.",
+          "start_year": null,
+          "end_year": null,
+          "geography": [],
+          "source_ids": [
+            "S9001",
+            "S9005"
+          ]
+        },
+        "reason": "The sources describe Luddite opposition to particular weaving/knitting machinery and wage changes, not a specific influence from Arkwright's Water Frame. Broad textile mechanisation is insufficient evidence for this endpoint pair."
+      },
+      {
+        "record": {
+          "id": "R9004",
+          "source_id": "E9002",
+          "target_id": "E9007",
+          "relationship_type": "influenced",
+          "strength": 2,
+          "confidence": "medium",
+          "description": "Dampfmaschinen und die wachsende Erfahrung mit maschineller Antriebstechnik waren Teil des technischen Umfelds, aus dem später Lokomotiven hervorgingen. Die frühen Bahnlokomotiven nutzten eigene Konstruktionslösungen; Watt entwickelte nicht die Liverpool–Manchester-Lokomotive.",
+          "start_year": null,
+          "end_year": null,
+          "geography": [],
+          "source_ids": [
+            "S9020",
+            "S9006"
+          ]
+        },
+        "reason": "The Watt biography and railway-company record establish separate milestones, not a specific influence of the 1776 commercial installations on the Liverpool–Manchester line."
+      },
+      {
+        "record": {
+          "id": "R9005",
+          "source_id": "E9007",
+          "target_id": "E9011",
+          "relationship_type": "influenced",
+          "strength": 3,
+          "confidence": "medium",
+          "description": "Der bereits in Großbritannien etablierte Eisenbahnbau lieferte technische und organisatorische Vorbilder für die erste Passagierverbindung in Britisch-Indien. Die Übertragung fand unter kolonialen Verwaltungs- und Handelsbedingungen statt.",
+          "start_year": null,
+          "end_year": null,
+          "geography": [],
+          "source_ids": [
+            "S9006",
+            "S9010"
+          ]
+        },
+        "reason": "The British and Indian railway records do not demonstrate a particular transfer from Liverpool–Manchester to Bombay–Thane. A general British railway influence does not verify this specific pair."
+      },
+      {
+        "record": {
+          "id": "R9006",
+          "source_id": "E9007",
+          "target_id": "E0022",
+          "relationship_type": "contributed_to",
+          "strength": 2,
+          "confidence": "medium",
+          "description": "Die schnelle Ausweitung des Eisenbahnwesens schuf erheblichen Bedarf an geeigneten Metallen. Die Nachfrage nach besser verfügbaren und belastbaren Werkstoffen bildete einen wichtigen Markt für das später entwickelte Bessemer-Stahlverfahren; dies erklärt seine Verbreitung, nicht allein seine Erfindung.",
+          "start_year": null,
+          "end_year": null,
+          "geography": [],
+          "source_ids": [
+            "S9006",
+            "S9012"
+          ]
+        },
+        "reason": "The cited Bessemer account supports steel enabling railway expansion, not a specific contribution from the Liverpool–Manchester opening to Bessemer adoption. The relationship to existing E0022 is removed for insufficient evidence, not redirected to an incoming duplicate."
+      },
+      {
+        "record": {
+          "id": "R9008",
+          "source_id": "E9002",
+          "target_id": "E9019",
+          "relationship_type": "influenced",
+          "strength": 2,
+          "confidence": "medium",
+          "description": "Die seit dem späten 18. Jahrhundert verbesserten Dampfmaschinen gehören zur technischen Vorgeschichte dampfgetriebener Stromgeneratoren. Edisons Anlage von 1882 verband die Nutzung von Kohle und Dampf mit elektrischer Energieverteilung; eine direkte konstruktive Abstammung von Watts erster Maschine wird nicht behauptet.",
+          "start_year": null,
+          "end_year": null,
+          "geography": [],
+          "source_ids": [
+            "S9020",
+            "S9018"
+          ]
+        },
+        "reason": "The Watt and Holborn Viaduct records do not establish the specific influence of the 1776 commercial installation on the 1882 power station; generic steam-engine ancestry is insufficient."
+      }
+    ],
+    "retained_relationships": [
+      "R9001",
+      "R9002"
+    ],
+    "confidence_changes": {
+      "R9001": {
+        "from": "high",
+        "to": "medium"
+      },
+      "R9002": {
+        "from": "high",
+        "to": "medium"
+      }
+    },
+    "source_changes": {
+      "S9005": "Same National Archives work: inaccessible HTML replaced with verified official PDF; source identity retained.",
+      "S9025": "Removed from E9006 and proposal: verified lesson PDF S9005 covers the event; indexed proclamation content was identifiable but direct HTML remained inaccessible.",
+      "S9012": "Removed as unused after R9006 removal. No historical duplicate event reintroduced.",
+      "S9026": "Added verified Hansard debate to support R9002; not a new event."
+    },
+    "prior_duplicate_resolutions": {
+      "E9013": "E0022 remains the authoritative existing Bessemer record; R9006 was subsequently removed for evidential reasons.",
+      "E9018": "E0020 remains the authoritative existing telephone record; duplicate R9007 remains omitted in favour of existing R0030."
+    },
+    "national_archives_pdf_sha256": "9e7a36ebe4215eb24cd2b06b352728e2bc84b1b349cf88fbe3a6ef261218808d"
+  },
+  "application_receipt": "zeitstrahl_pilot_industrialisierung_1750-1900.applied.json"
+}

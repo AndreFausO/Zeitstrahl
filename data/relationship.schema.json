@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Zeitstrahl relationship",
+  "description": "Ein einzelner Datensatz. Zeitreihenfolge, ID-Eindeutigkeit, Referenzen und Beziehungspaare werden zusätzlich durch js/validation.js geprüft.",
+  "type": "object",
+  "required": [
+    "id",
+    "source_id",
+    "target_id",
+    "relationship_type",
+    "strength",
+    "confidence",
+    "description",
+    "start_year",
+    "end_year",
+    "geography",
+    "source_ids"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]+$"
+    },
+    "source_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]+$"
+    },
+    "target_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]+$"
+    },
+    "relationship_type": {
+      "type": "string",
+      "enum": [
+        "influenced",
+        "enabled",
+        "contributed_to",
+        "accelerated",
+        "inspired",
+        "reaction_to",
+        "conflicted_with",
+        "developed_from",
+        "part_of"
+      ]
+    },
+    "strength": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "confidence": {
+      "type": "string",
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1
+    },
+    "start_year": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "end_year": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "geography": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9_-]+$"
+      },
+      "uniqueItems": true
+    }
+  }
+}

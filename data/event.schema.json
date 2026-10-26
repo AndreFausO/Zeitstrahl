@@ -1,0 +1,226 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Zeitstrahl event",
+  "description": "Ein einzelner Datensatz. Zeitreihenfolge, ID-Eindeutigkeit, Referenzen und Beziehungspaare werden zusätzlich durch js/validation.js geprüft.",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "entry_type",
+    "start_year",
+    "end_year",
+    "date_precision",
+    "date_label",
+    "primary_discipline",
+    "secondary_disciplines",
+    "subdisciplines",
+    "topics",
+    "geography",
+    "scope",
+    "importance",
+    "short_description",
+    "long_description",
+    "persons",
+    "institutions",
+    "source_ids",
+    "confidence",
+    "notes"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]+$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "entry_type": {
+      "type": "string",
+      "enum": [
+        "event",
+        "process",
+        "idea_theory",
+        "movement",
+        "technical_innovation",
+        "work_publication",
+        "institution",
+        "political_legal_change",
+        "natural_environmental_event"
+      ]
+    },
+    "start_year": {
+      "type": "number"
+    },
+    "end_year": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "date_precision": {
+      "type": "string",
+      "enum": [
+        "exact",
+        "approximate",
+        "decade",
+        "century",
+        "uncertain"
+      ]
+    },
+    "date_label": {
+      "type": "string"
+    },
+    "primary_discipline": {
+      "type": "string",
+      "enum": [
+        "politics_society",
+        "science",
+        "technology_economy",
+        "philosophy_religion",
+        "art_culture",
+        "environment_nature"
+      ]
+    },
+    "secondary_disciplines": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "politics_society",
+          "science",
+          "technology_economy",
+          "philosophy_religion",
+          "art_culture",
+          "environment_nature"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "subdisciplines": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "architecture",
+          "literature",
+          "painting",
+          "music",
+          "design",
+          "physics",
+          "biology",
+          "chemistry",
+          "astronomy",
+          "medicine",
+          "energy",
+          "mechanical_engineering",
+          "communication",
+          "transport",
+          "production",
+          "trade",
+          "social_history",
+          "political_history",
+          "philosophy",
+          "theology",
+          "climate_history",
+          "ecology"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "energy",
+          "mobility",
+          "production",
+          "industrialisation",
+          "urbanisation",
+          "work",
+          "trade",
+          "communication",
+          "knowledge",
+          "religion",
+          "state",
+          "rights",
+          "war",
+          "health",
+          "nature",
+          "climate",
+          "resources",
+          "media",
+          "technology",
+          "science",
+          "education"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "geography": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "scope": {
+      "type": "string",
+      "enum": [
+        "local",
+        "regional",
+        "national",
+        "continental",
+        "global"
+      ]
+    },
+    "importance": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "short_description": {
+      "type": "string"
+    },
+    "long_description": {
+      "type": "string"
+    },
+    "persons": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9_-]+$"
+      },
+      "uniqueItems": true
+    },
+    "institutions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9_-]+$"
+      },
+      "uniqueItems": true
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9_-]+$"
+      },
+      "uniqueItems": true
+    },
+    "confidence": {
+      "type": "string",
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

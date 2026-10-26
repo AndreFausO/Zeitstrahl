@@ -1,0 +1,302 @@
+[
+  {
+    "id": "S0001",
+    "title": "The Age of Revolution: 1789–1848",
+    "author": "Eric Hobsbawm",
+    "year": 1962,
+    "source_type": "book",
+    "publisher": "Weidenfeld & Nicolson",
+    "url": null,
+    "notes": "Orientierungsquelle; die redaktionelle Prüfung der Beispieldaten ist noch nicht abgeschlossen."
+  },
+  {
+    "id": "S0002",
+    "title": "James Watt and the separate condenser",
+    "author": "Science Museum",
+    "year": 2019,
+    "source_type": "museum",
+    "publisher": "Science Museum",
+    "url": "https://blog.sciencemuseum.org.uk/james-watt-and-the-separate-condenser/",
+    "notes": "Orientierungsquelle; die redaktionelle Prüfung der Beispieldaten ist noch nicht abgeschlossen."
+  },
+  {
+    "id": "S0003",
+    "title": "LeMO: Kaiserreich – Industrie und Wirtschaft",
+    "author": "Deutsches Historisches Museum",
+    "year": null,
+    "source_type": "museum",
+    "publisher": "DHM",
+    "url": "https://www.dhm.de/lemo/kapitel/kaiserreich/industrie",
+    "notes": "Orientierungsquelle; die redaktionelle Prüfung der Beispieldaten ist noch nicht abgeschlossen."
+  },
+  {
+    "id": "S0004",
+    "title": "LeMO: Erste Eisenbahnen in Deutschland",
+    "author": "Dorlis Blume",
+    "year": 2010,
+    "source_type": "museum",
+    "publisher": "DHM",
+    "url": "https://www.dhm.de/lemo/rueckblick/lemo-rueckblick-erste-eisenbahnen-in-deutschland",
+    "notes": "Orientierungsquelle; die redaktionelle Prüfung der Beispieldaten ist noch nicht abgeschlossen."
+  },
+  {
+    "id": "S0005",
+    "title": "The Age of Capital: 1848–1875",
+    "author": "Eric Hobsbawm",
+    "year": 1975,
+    "source_type": "book",
+    "publisher": "Weidenfeld & Nicolson",
+    "url": null,
+    "notes": "Orientierungsquelle; die redaktionelle Prüfung der Beispieldaten ist noch nicht abgeschlossen."
+  },
+  {
+    "id": "S0006",
+    "title": "Das Bauhaus, 1919–1933",
+    "author": "Bauhaus-Archiv",
+    "year": null,
+    "source_type": "museum",
+    "publisher": "Bauhaus-Archiv",
+    "url": "https://www.bauhaus.de/de/das_bauhaus/",
+    "notes": "Orientierungsquelle; die redaktionelle Prüfung der Beispieldaten ist noch nicht abgeschlossen."
+  },
+  {
+    "id": "S0007",
+    "title": "The year without a summer",
+    "author": "Jürg Luterbacher und Christian Pfister",
+    "year": 2015,
+    "source_type": "academic_article",
+    "publisher": "Nature Geoscience",
+    "url": "https://www.hist.unibe.ch/unibe/portal/fak_historisch/dga/hist/content/e11168/e52524/e69145/e186327/e1752851/pane1753051/e205440/L-LuterbacherPfister2015_NatureGeosci_Tambora_ger.pdf",
+    "notes": "Orientierungsquelle; die redaktionelle Prüfung der Beispieldaten ist noch nicht abgeschlossen."
+  },
+  {
+    "id": "S0008",
+    "title": "LeMO: Vormärz – Wissenschaft, Forschung und Technik",
+    "author": "Deutsches Historisches Museum",
+    "year": null,
+    "source_type": "museum",
+    "publisher": "DHM",
+    "url": "https://www.dhm.de/lemo/kapitel/vormaerz-und-revolution/wissenschaft-forschung-und-technik",
+    "notes": "Orientierungsquelle; die redaktionelle Prüfung der Beispieldaten ist noch nicht abgeschlossen."
+  },
+  {
+    "id": "S0009",
+    "title": "On the Origin of Species",
+    "author": "Charles Darwin",
+    "year": 1859,
+    "source_type": "book",
+    "publisher": "John Murray",
+    "url": null,
+    "notes": "Orientierungsquelle; die redaktionelle Prüfung der Beispieldaten ist noch nicht abgeschlossen."
+  },
+  {
+    "id": "S9001",
+    "title": "National Park Service: Industrial Revolution in England",
+    "author": "U.S. National Park Service",
+    "year": null,
+    "source_type": "museum",
+    "publisher": "U.S. National Park Service",
+    "url": "https://www.nps.gov/articles/lowell-handbook-industrial-revolution-in-england.htm",
+    "notes": "Institutionelle Darstellung; bibliografische Angaben und konkrete Aussagen vor Veröffentlichung redaktionell prüfen."
+  },
+  {
+    "id": "S9002",
+    "title": "Eli Whitney’s Patent for the Cotton Gin",
+    "author": "U.S. National Archives",
+    "year": null,
+    "source_type": "archive",
+    "publisher": "National Archives and Records Administration",
+    "url": "https://www.archives.gov/education/lessons/cotton-gin-patent",
+    "notes": "Belegt Erfindung, Industrialisierung der Baumwollwirtschaft und die Expansion versklavter Arbeit."
+  },
+  {
+    "id": "S9003",
+    "title": "A Revolutionary World",
+    "author": "Smithsonian National Museum of American History",
+    "year": null,
+    "source_type": "museum",
+    "publisher": "Smithsonian National Museum of American History",
+    "url": "https://www.americanhistory.si.edu/explore/exhibitions/american-democracy/online/great-leap/great-debates/revolutionary-world",
+    "notes": "Institutionelle Darstellung; bibliografische Angaben und konkrete Aussagen vor Veröffentlichung redaktionell prüfen."
+  },
+  {
+    "id": "S9004",
+    "title": "Parliament abolishes the slave trade",
+    "author": "UK Parliament",
+    "year": null,
+    "source_type": "official_source",
+    "publisher": "UK Parliament",
+    "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/slavetrade/overview/parliament-abolishes-the-slave-trade/",
+    "notes": "Institutionelle Darstellung; bibliografische Angaben und konkrete Aussagen vor Veröffentlichung redaktionell prüfen."
+  },
+  {
+    "id": "S9005",
+    "title": "Why did the Luddites protest?",
+    "author": "The National Archives",
+    "year": null,
+    "source_type": "archive",
+    "publisher": "The National Archives (UK)",
+    "url": "https://cdn.nationalarchives.gov.uk/documents/why-did-the-luddites-protest.pdf",
+    "notes": "Offizielles Unterrichtsmaterial mit kommentierten Archivquellen. PDF-Seiten 2 und 4 (gedruckte Seiten 2 sowie 6–7) belegen Beginn 1811, regionale Ausbreitung, Lohn- und Arbeitskonflikte sowie staatliche Repression. Die PDF wurde am 26.10.2026 heruntergeladen und gelesen; die bisherige HTML-Seite war nicht zugänglich."
+  },
+  {
+    "id": "S9006",
+    "title": "Liverpool & Manchester Railway",
+    "author": "Science Museum Group",
+    "year": null,
+    "source_type": "museum",
+    "publisher": "Science Museum Group",
+    "url": "https://collection.sciencemuseumgroup.org.uk/people/cp29532/liverpool-and-manchester-railway",
+    "notes": "Institutionelle Darstellung; bibliografische Angaben und konkrete Aussagen vor Veröffentlichung redaktionell prüfen."
+  },
+  {
+    "id": "S9007",
+    "title": "The 1833 Factory Act",
+    "author": "UK Parliament",
+    "year": null,
+    "source_type": "official_source",
+    "publisher": "UK Parliament",
+    "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/",
+    "notes": "Institutionelle Darstellung; bibliografische Angaben und konkrete Aussagen vor Veröffentlichung redaktionell prüfen."
+  },
+  {
+    "id": "S9008",
+    "title": "First China War",
+    "author": "National Army Museum",
+    "year": null,
+    "source_type": "museum",
+    "publisher": "National Army Museum",
+    "url": "https://www.nam.ac.uk/explore/first-china-war-1839-1842",
+    "notes": "Institutionelle Darstellung; bibliografische Angaben und konkrete Aussagen vor Veröffentlichung redaktionell prüfen."
+  },
+  {
+    "id": "S9009",
+    "title": "The Great Exhibition of 1851",
+    "author": "Victoria and Albert Museum",
+    "year": null,
+    "source_type": "museum",
+    "publisher": "Victoria and Albert Museum",
+    "url": "https://www.vam.ac.uk/articles/the-great-exhibition-of-1851",
+    "notes": "Institutionelle Darstellung; bibliografische Angaben und konkrete Aussagen vor Veröffentlichung redaktionell prüfen."
+  },
+  {
+    "id": "S9010",
+    "title": "A History of Indian Railways",
+    "author": "National Rail Museum (India) via Google Arts & Culture",
+    "year": null,
+    "source_type": "museum",
+    "publisher": "National Rail Museum (India) via Google Arts & Culture",
+    "url": "https://artsandculture.google.com/story/a-history-of-indian-railways-national-rail-museum/cAVh7RwiKiTtKg?hl=en",
+    "notes": "Institutionelle Darstellung; bibliografische Angaben und konkrete Aussagen vor Veröffentlichung redaktionell prüfen."
+  },
+  {
+    "id": "S9011",
+    "title": "John Snow: Cholera and the Broad Street Pump",
+    "author": "London Museum",
+    "year": null,
+    "source_type": "museum",
+    "publisher": "London Museum",
+    "url": "https://www.londonmuseum.org.uk/collections/london-stories/john-snow-cholera-broad-street-pump/",
+    "notes": "Institutionelle Darstellung; bibliografische Angaben und konkrete Aussagen vor Veröffentlichung redaktionell prüfen."
+  },
+  {
+    "id": "S9013",
+    "title": "U.S. Diplomacy and the Telegraph, 1866",
+    "author": "U.S. Department of State, Office of the Historian",
+    "year": null,
+    "source_type": "official_source",
+    "publisher": "U.S. Department of State, Office of the Historian",
+    "url": "https://history.state.gov/milestones/1866-1898/telegraph",
+    "notes": "Institutionelle Darstellung; bibliografische Angaben und konkrete Aussagen vor Veröffentlichung redaktionell prüfen."
+  },
+  {
+    "id": "S9014",
+    "title": "Das Kapital: erster Band, 1867",
+    "author": "Deutsches Historisches Museum",
+    "year": null,
+    "source_type": "museum",
+    "publisher": "Deutsches Historisches Museum",
+    "url": "https://www.dhm.de/lemo/bestand/objekt/karl-marx-das-kapital-1867",
+    "notes": "Institutionelle Darstellung; bibliografische Angaben und konkrete Aussagen vor Veröffentlichung redaktionell prüfen."
+  },
+  {
+    "id": "S9015",
+    "title": "The Meiji Restoration and Modernization",
+    "author": "Columbia University, Asia for Educators",
+    "year": null,
+    "source_type": "reference_work",
+    "publisher": "Columbia University",
+    "url": "https://afe.easia.columbia.edu/special/japan_1750_meiji.htm",
+    "notes": "Universitäres Überblicksmaterial zum politischen Umbruch und zur Industrialisierung Japans."
+  },
+  {
+    "id": "S9016",
+    "title": "Suez Canal History",
+    "author": "Suez Canal Authority",
+    "year": null,
+    "source_type": "official_source",
+    "publisher": "Suez Canal Authority",
+    "url": "https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/CanalHistory.aspx",
+    "notes": "Institutionelle Darstellung; bibliografische Angaben und konkrete Aussagen vor Veröffentlichung redaktionell prüfen."
+  },
+  {
+    "id": "S9018",
+    "title": "How was electricity generated using coal?",
+    "author": "National Energy System Operator",
+    "year": null,
+    "source_type": "official_source",
+    "publisher": "National Energy System Operator (UK)",
+    "url": "https://www.neso.energy/energy-101/electricity-explained/how-electricity-generated/how-was-electricity-generated-using-coal",
+    "notes": "Institutionelle Darstellung der frühen Stromerzeugung an der Holborn Viaduct im Jahr 1882."
+  },
+  {
+    "id": "S9019",
+    "title": "General Act of the Berlin West Africa Conference, 26 February 1885",
+    "author": "German Federal Foreign Office, Political Archive",
+    "year": null,
+    "source_type": "archive",
+    "publisher": "German Federal Foreign Office, Political Archive",
+    "url": "https://archiv.diplo.de/arc-en/the-political-archive/general-act-2684414",
+    "notes": "Institutionelle Darstellung; bibliografische Angaben und konkrete Aussagen vor Veröffentlichung redaktionell prüfen."
+  },
+  {
+    "id": "S9020",
+    "title": "James Watt",
+    "author": "Science Museum Group",
+    "year": null,
+    "source_type": "museum",
+    "publisher": "Science Museum Group",
+    "url": "https://collection.sciencemuseumgroup.org.uk/people/ap24508/watt-james",
+    "notes": "Belegt den getrennten Kondensator und die kommerzielle Installation von Watt-Maschinen 1776."
+  },
+  {
+    "id": "S9023",
+    "title": "Japan’s Meiji Restoration",
+    "author": "Tristan Grunow",
+    "year": null,
+    "source_type": "reference_work",
+    "publisher": "Ohio State University, Origins",
+    "url": "https://origins.osu.edu/read/japans-meiji-restoration?language_content_entity=en",
+    "notes": "Universitäre Darstellung von Reformbewegung, politischem Umbruch und folgender Neuordnung."
+  },
+  {
+    "id": "S9024",
+    "title": "The Cotton Gin and Its Legacies",
+    "author": "Eli Whitney Museum & Workshop",
+    "year": null,
+    "source_type": "museum",
+    "publisher": "Eli Whitney Museum & Workshop",
+    "url": "https://www.eliwhitney.org/cotton-gin-and-its-legacies",
+    "notes": "Vertiefung zu Baumwollverarbeitung, Plantagenwirtschaft und Versklavung."
+  },
+  {
+    "id": "S9026",
+    "title": "Factories’ Regulation Bill — House of Commons debate, 16 March 1832",
+    "author": "UK Parliament, House of Commons",
+    "year": 1832,
+    "source_type": "official_source",
+    "publisher": "UK Parliament (Historic Hansard)",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1832/mar/16/factories-regulation-bill",
+    "notes": "HC Deb 16 March 1832 vol 11 cc340–98, insbesondere cc356–357: Sadlers Argumentation verbindet Arkwrights Spinntechnik ausdrücklich mit der Forderung nach Schutzregeln für Kinder. Primärquelle einer Reformkampagne; zusammen mit S9007 zur Einordnung des Gesetzes von 1833 verwenden, nicht als neutrale Darstellung sämtlicher Arbeitsbedingungen."
+  }
+]

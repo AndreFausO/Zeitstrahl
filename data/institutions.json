@@ -1,0 +1,18 @@
+[
+  {
+    "id": "I0001",
+    "name": "Bauhaus",
+    "founded_year": 1919,
+    "dissolved_year": 1933,
+    "place": "Weimar / Dessau / Berlin",
+    "short_description": "Hochschule für Kunst, Architektur und Design."
+  },
+  {
+    "id": "I0002",
+    "name": "Royal Society",
+    "founded_year": 1660,
+    "dissolved_year": null,
+    "place": "London",
+    "short_description": "Gelehrte Gesellschaft zur Förderung der Naturforschung."
+  }
+]

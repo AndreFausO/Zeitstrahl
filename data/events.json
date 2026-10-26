@@ -1,0 +1,2120 @@
+[
+  {
+    "id": "E0001",
+    "title": "Buchdruck",
+    "entry_type": "technical_innovation",
+    "start_year": 1450,
+    "end_year": null,
+    "date_precision": "approximate",
+    "date_label": "ca. 1450",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "communication"
+    ],
+    "topics": [
+      "knowledge",
+      "media",
+      "communication",
+      "education"
+    ],
+    "geography": [
+      "Germany",
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "Der europäische Buchdruck mit beweglichen Metalllettern machte Texte in größerer Auflage verfügbar.",
+    "long_description": "Der europäische Buchdruck mit beweglichen Metalllettern machte Texte in größerer Auflage verfügbar. Gutenbergs Verfahren veränderte die Verbreitung von Wissen, religiösen Schriften und politischen Ideen.",
+    "persons": [
+      "P0002"
+    ],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0002",
+    "title": "Renaissance",
+    "entry_type": "movement",
+    "start_year": 1450,
+    "end_year": 1600,
+    "date_precision": "approximate",
+    "date_label": "ca. 1450–1600",
+    "primary_discipline": "art_culture",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "painting",
+      "architecture"
+    ],
+    "topics": [
+      "knowledge",
+      "education"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "Antike Vorbilder und neue Vorstellungen vom Menschen prägten Kunst und Gelehrsamkeit.",
+    "long_description": "Antike Vorbilder und neue Vorstellungen vom Menschen prägten Kunst und Gelehrsamkeit. Die hier gezeigte Phase verdichtet einen regional unterschiedlichen, bereits früher einsetzenden Wandel.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0003",
+    "title": "Kopernikanisches Weltbild",
+    "entry_type": "idea_theory",
+    "start_year": 1543,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1543",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "astronomy"
+    ],
+    "topics": [
+      "science",
+      "knowledge"
+    ],
+    "geography": [
+      "Poland",
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "Nikolaus Kopernikus veröffentlichte ein Modell, in dem die Erde um die Sonne kreist.",
+    "long_description": "Nikolaus Kopernikus veröffentlichte ein Modell, in dem die Erde um die Sonne kreist. Seine Schrift wurde zu einem wichtigen Ausgangspunkt späterer astronomischer Debatten.",
+    "persons": [
+      "P0003"
+    ],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0004",
+    "title": "Reformation",
+    "entry_type": "movement",
+    "start_year": 1517,
+    "end_year": 1648,
+    "date_precision": "approximate",
+    "date_label": "ca. 1517–1648",
+    "primary_discipline": "philosophy_religion",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "theology"
+    ],
+    "topics": [
+      "religion",
+      "media",
+      "state"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "Reformbewegungen veränderten die religiöse und politische Ordnung Europas.",
+    "long_description": "Reformbewegungen veränderten die religiöse und politische Ordnung Europas. Gedruckte Flugschriften halfen bei ihrer Verbreitung; der Zeitraum umfasst auch die anschließende Konfessionalisierung.",
+    "persons": [
+      "P0004"
+    ],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0005",
+    "title": "Wissenschaftliche Revolution",
+    "entry_type": "process",
+    "start_year": 1543,
+    "end_year": 1687,
+    "date_precision": "approximate",
+    "date_label": "ca. 1543–1687",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "physics",
+      "astronomy"
+    ],
+    "topics": [
+      "science",
+      "knowledge"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "Neue Beobachtungsverfahren und mathematische Modelle veränderten das Verständnis der Natur.",
+    "long_description": "Neue Beobachtungsverfahren und mathematische Modelle veränderten das Verständnis der Natur. Der Zeitraum von Kopernikus bis Newton ist eine vereinfachende historische Einordnung.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0006",
+    "title": "Aufklärung",
+    "entry_type": "movement",
+    "start_year": 1680,
+    "end_year": 1800,
+    "date_precision": "approximate",
+    "date_label": "ca. 1680–1800",
+    "primary_discipline": "philosophy_religion",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "philosophy"
+    ],
+    "topics": [
+      "knowledge",
+      "rights",
+      "education",
+      "state"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "Vernunft, Kritik und öffentliche Debatte gewannen an Bedeutung.",
+    "long_description": "Vernunft, Kritik und öffentliche Debatte gewannen an Bedeutung. Aufklärerische Ideen beeinflussten Wissenschaft, Bildung und politische Vorstellungen, blieben aber selbst widersprüchlich.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0007",
+    "title": "Dampfmaschine",
+    "entry_type": "technical_innovation",
+    "start_year": 1769,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1769",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [
+      "science",
+      "politics_society"
+    ],
+    "subdisciplines": [
+      "mechanical_engineering",
+      "energy"
+    ],
+    "topics": [
+      "energy",
+      "industrialisation",
+      "production",
+      "mobility"
+    ],
+    "geography": [
+      "Great Britain",
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "James Watts separater Kondensator machte Dampfmaschinen effizienter.",
+    "long_description": "James Watts separater Kondensator machte Dampfmaschinen effizienter. Die Weiterentwicklung der Dampfkraft veränderte Bergbau, Produktion und später den Verkehr.",
+    "persons": [
+      "P0001"
+    ],
+    "institutions": [],
+    "source_ids": [
+      "S0002"
+    ],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0008",
+    "title": "Französische Revolution",
+    "entry_type": "event",
+    "start_year": 1789,
+    "end_year": 1799,
+    "date_precision": "exact",
+    "date_label": "1789–1799",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "state",
+      "war"
+    ],
+    "geography": [
+      "France",
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "Die Revolution stellte die ständische Gesellschaft und die Monarchie infrage.",
+    "long_description": "Die Revolution stellte die ständische Gesellschaft und die Monarchie infrage. Menschenrechte, politische Teilhabe und gewaltsame Machtkämpfe prägten ihre wechselnden Phasen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0009",
+    "title": "Industrialisierung",
+    "entry_type": "process",
+    "start_year": 1760,
+    "end_year": 1900,
+    "date_precision": "approximate",
+    "date_label": "ca. 1760–1900",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [
+      "politics_society",
+      "environment_nature"
+    ],
+    "subdisciplines": [
+      "production"
+    ],
+    "topics": [
+      "industrialisation",
+      "production",
+      "energy",
+      "work"
+    ],
+    "geography": [
+      "Great Britain",
+      "Europe",
+      "North America"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "Maschinen, Fabriken und fossile Energie veränderten Wirtschaft und Alltag.",
+    "long_description": "Maschinen, Fabriken und fossile Energie veränderten Wirtschaft und Alltag. Von Großbritannien aus verbreiteten sich unterschiedliche Formen industrieller Produktion, begleitet von tiefgreifenden sozialen und ökologischen Veränderungen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S0001",
+      "S0003"
+    ],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0010",
+    "title": "Romantik",
+    "entry_type": "movement",
+    "start_year": 1795,
+    "end_year": 1848,
+    "date_precision": "approximate",
+    "date_label": "ca. 1795–1848",
+    "primary_discipline": "art_culture",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "literature",
+      "painting",
+      "music"
+    ],
+    "topics": [
+      "nature",
+      "knowledge"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Romantische Kunst und Literatur erkundeten Natur, Gefühl und Imagination.",
+    "long_description": "Romantische Kunst und Literatur erkundeten Natur, Gefühl und Imagination. Teile der Bewegung reagierten kritisch auf Rationalisierung und die Erfahrungen gesellschaftlichen Wandels.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0011",
+    "title": "Eisenbahn",
+    "entry_type": "technical_innovation",
+    "start_year": 1825,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1825",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "transport"
+    ],
+    "topics": [
+      "mobility",
+      "industrialisation",
+      "trade",
+      "energy"
+    ],
+    "geography": [
+      "Great Britain",
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "Mit Strecken wie Stockton–Darlington begann eine neue Phase des Eisenbahnverkehrs.",
+    "long_description": "Mit Strecken wie Stockton–Darlington begann eine neue Phase des Eisenbahnverkehrs. Der Ausbau der Netze beschleunigte den Transport von Menschen, Rohstoffen und Waren.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S0004"
+    ],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0012",
+    "title": "Urbanisierung",
+    "entry_type": "process",
+    "start_year": 1800,
+    "end_year": 1914,
+    "date_precision": "approximate",
+    "date_label": "ca. 1800–1914",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "social_history"
+    ],
+    "topics": [
+      "urbanisation",
+      "work",
+      "health",
+      "industrialisation"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Wachsende Städte wurden zu Zentren von Industrie, Handel und Kultur.",
+    "long_description": "Wachsende Städte wurden zu Zentren von Industrie, Handel und Kultur. Zuwanderung und Bevölkerungswachstum verschärften zugleich Wohnungsnot und die Herausforderungen städtischer Versorgung.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S0003"
+    ],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0013",
+    "title": "Evolutionstheorie",
+    "entry_type": "idea_theory",
+    "start_year": 1859,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1859",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "biology"
+    ],
+    "topics": [
+      "science",
+      "nature",
+      "knowledge"
+    ],
+    "geography": [
+      "Great Britain",
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "Charles Darwins Buch über die Entstehung der Arten erklärte evolutionären Wandel wesentlich durch natürliche Selektion.",
+    "long_description": "Charles Darwins Buch über die Entstehung der Arten erklärte evolutionären Wandel wesentlich durch natürliche Selektion. Es veränderte die Biologie und löste Debatten über das Verhältnis von Mensch und Natur aus.",
+    "persons": [
+      "P0005"
+    ],
+    "institutions": [],
+    "source_ids": [
+      "S0009"
+    ],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0014",
+    "title": "Marxismus",
+    "entry_type": "idea_theory",
+    "start_year": 1848,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1848",
+    "primary_discipline": "philosophy_religion",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "philosophy"
+    ],
+    "topics": [
+      "work",
+      "rights",
+      "industrialisation"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Karl Marx und Friedrich Engels analysierten Klassenverhältnisse und kapitalistische Produktion.",
+    "long_description": "Karl Marx und Friedrich Engels analysierten Klassenverhältnisse und kapitalistische Produktion. Das Kommunistische Manifest von 1848 steht hier als Orientierungspunkt für eine sich weiterentwickelnde Denktradition.",
+    "persons": [
+      "P0006",
+      "P0007"
+    ],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0015",
+    "title": "Arbeiterbewegung",
+    "entry_type": "movement",
+    "start_year": 1830,
+    "end_year": 1914,
+    "date_precision": "approximate",
+    "date_label": "ca. 1830–1914",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "social_history"
+    ],
+    "topics": [
+      "work",
+      "rights",
+      "industrialisation"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Beschäftigte organisierten sich in Vereinen, Gewerkschaften und Parteien.",
+    "long_description": "Beschäftigte organisierten sich in Vereinen, Gewerkschaften und Parteien. Unterschiedliche Strömungen kämpften um politische Teilhabe, bessere Arbeitsbedingungen und soziale Absicherung.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S0005"
+    ],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0016",
+    "title": "Fotografie",
+    "entry_type": "technical_innovation",
+    "start_year": 1839,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1839",
+    "primary_discipline": "art_culture",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "painting"
+    ],
+    "topics": [
+      "media",
+      "technology"
+    ],
+    "geography": [
+      "France",
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Die öffentliche Vorstellung früher fotografischer Verfahren markierte einen Wandel der Bildproduktion.",
+    "long_description": "Die öffentliche Vorstellung früher fotografischer Verfahren markierte einen Wandel der Bildproduktion. Fotografie wurde zum Mittel der Dokumentation, zum Massenmedium und zur eigenständigen Kunstform.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0017",
+    "title": "Impressionismus",
+    "entry_type": "movement",
+    "start_year": 1874,
+    "end_year": 1886,
+    "date_precision": "approximate",
+    "date_label": "ca. 1874–1886",
+    "primary_discipline": "art_culture",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "painting"
+    ],
+    "topics": [
+      "urbanisation",
+      "nature",
+      "media"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Die impressionistischen Gruppenausstellungen machten eine neue Malerei sichtbar.",
+    "long_description": "Die impressionistischen Gruppenausstellungen machten eine neue Malerei sichtbar. Licht, flüchtige Wahrnehmung und das moderne Stadtleben gehörten zu ihren zentralen Themen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0018",
+    "title": "Elektrifizierung",
+    "entry_type": "process",
+    "start_year": 1880,
+    "end_year": 1930,
+    "date_precision": "approximate",
+    "date_label": "ca. 1880–1930",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "energy"
+    ],
+    "topics": [
+      "energy",
+      "production",
+      "technology"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Stromnetze, elektrische Antriebe und Beleuchtung veränderten Produktion und Alltag.",
+    "long_description": "Stromnetze, elektrische Antriebe und Beleuchtung veränderten Produktion und Alltag. Die Verbreitung verlief regional und sozial sehr unterschiedlich.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S0003"
+    ],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0019",
+    "title": "Elektrische Telegraphie",
+    "entry_type": "technical_innovation",
+    "start_year": 1837,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1837",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "communication"
+    ],
+    "topics": [
+      "communication",
+      "media",
+      "trade"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Elektrische Telegraphen ermöglichten Nachrichten über große Entfernungen.",
+    "long_description": "Elektrische Telegraphen ermöglichten Nachrichten über große Entfernungen. Ihr Ausbau war eng mit Eisenbahnen, Handel und staatlichen Kommunikationsnetzen verbunden.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S0008"
+    ],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0020",
+    "title": "Telefon",
+    "entry_type": "technical_innovation",
+    "start_year": 1876,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1876",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "communication"
+    ],
+    "topics": [
+      "communication",
+      "technology"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 3,
+    "short_description": "Die Entwicklung praxistauglicher Telefone ermöglichte die Übertragung von Sprache.",
+    "long_description": "Die Entwicklung praxistauglicher Telefone ermöglichte die Übertragung von Sprache. Das Jahr verweist auf Bells Patent; an der Technik waren mehrere Erfinder beteiligt.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0021",
+    "title": "Verbrennungsmotor",
+    "entry_type": "technical_innovation",
+    "start_year": 1876,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1876",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "mechanical_engineering"
+    ],
+    "topics": [
+      "energy",
+      "mobility",
+      "production"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 3,
+    "short_description": "Verbesserte Verbrennungsmotoren erschlossen neue Antriebsformen.",
+    "long_description": "Verbesserte Verbrennungsmotoren erschlossen neue Antriebsformen. Der Viertaktmotor von 1876 steht hier für eine Entwicklung, die später auch den Automobilverkehr prägte.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0022",
+    "title": "Moderne Stahlproduktion",
+    "entry_type": "technical_innovation",
+    "start_year": 1856,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1856",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "production"
+    ],
+    "topics": [
+      "production",
+      "resources",
+      "industrialisation"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Das Bessemerverfahren erlaubte die Herstellung von Stahl in größeren Mengen.",
+    "long_description": "Das Bessemerverfahren erlaubte die Herstellung von Stahl in größeren Mengen. Weitere Verfahren verbesserten die industrielle Stahlproduktion und erweiterten ihre Anwendungen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0023",
+    "title": "Eisen- und Glasarchitektur",
+    "entry_type": "movement",
+    "start_year": 1851,
+    "end_year": null,
+    "date_precision": "approximate",
+    "date_label": "ca. 1851",
+    "primary_discipline": "art_culture",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "architecture"
+    ],
+    "topics": [
+      "technology",
+      "urbanisation",
+      "production"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Der Crystal Palace demonstrierte die Möglichkeiten vorgefertigter Eisen- und Glaselemente.",
+    "long_description": "Der Crystal Palace demonstrierte die Möglichkeiten vorgefertigter Eisen- und Glaselemente. Solche Bauweisen eröffneten neue Räume für Bahnhöfe, Markthallen und Ausstellungen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S0005"
+    ],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0024",
+    "title": "Relativitätstheorie",
+    "entry_type": "idea_theory",
+    "start_year": 1905,
+    "end_year": 1915,
+    "date_precision": "exact",
+    "date_label": "1905–1915",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "physics"
+    ],
+    "topics": [
+      "science",
+      "knowledge"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "Albert Einstein entwickelte neue Vorstellungen von Raum, Zeit und Gravitation.",
+    "long_description": "Albert Einstein entwickelte neue Vorstellungen von Raum, Zeit und Gravitation. Die spezielle Theorie von 1905 und die allgemeine Theorie von 1915 veränderten die Grundlagen der Physik.",
+    "persons": [
+      "P0008"
+    ],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0025",
+    "title": "Erster Weltkrieg",
+    "entry_type": "event",
+    "start_year": 1914,
+    "end_year": 1918,
+    "date_precision": "exact",
+    "date_label": "1914–1918",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "war",
+      "state",
+      "technology"
+    ],
+    "geography": [
+      "Europe",
+      "Global"
+    ],
+    "scope": "global",
+    "importance": 5,
+    "short_description": "Der Krieg mobilisierte industrielle Produktion und ganze Gesellschaften.",
+    "long_description": "Der Krieg mobilisierte industrielle Produktion und ganze Gesellschaften. Millionen Menschen starben; Imperien zerfielen und neue politische Ordnungen entstanden.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0026",
+    "title": "Bauhaus",
+    "entry_type": "institution",
+    "start_year": 1919,
+    "end_year": 1933,
+    "date_precision": "exact",
+    "date_label": "1919–1933",
+    "primary_discipline": "art_culture",
+    "secondary_disciplines": [
+      "technology_economy"
+    ],
+    "subdisciplines": [
+      "architecture",
+      "design"
+    ],
+    "topics": [
+      "education",
+      "technology",
+      "production"
+    ],
+    "geography": [
+      "Germany",
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Das Bauhaus verband Kunst, Handwerk und Gestaltung.",
+    "long_description": "Das Bauhaus verband Kunst, Handwerk und Gestaltung. Die Schule in Weimar, Dessau und Berlin suchte nach Formen für das moderne Leben und wurde 1933 unter nationalsozialistischem Druck geschlossen.",
+    "persons": [
+      "P0009"
+    ],
+    "institutions": [
+      "I0001"
+    ],
+    "source_ids": [
+      "S0006"
+    ],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0027",
+    "title": "Radio",
+    "entry_type": "technical_innovation",
+    "start_year": 1920,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1920",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "communication"
+    ],
+    "topics": [
+      "communication",
+      "media",
+      "technology"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Regelmäßiger Rundfunk machte drahtlose Kommunikation zum Massenmedium.",
+    "long_description": "Regelmäßiger Rundfunk machte drahtlose Kommunikation zum Massenmedium. Musik, Nachrichten und politische Botschaften konnten nun viele Haushalte gleichzeitig erreichen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0028",
+    "title": "Fließbandproduktion",
+    "entry_type": "technical_innovation",
+    "start_year": 1913,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1913",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "production"
+    ],
+    "topics": [
+      "production",
+      "work",
+      "industrialisation"
+    ],
+    "geography": [
+      "United States",
+      "North America"
+    ],
+    "scope": "continental",
+    "importance": 3,
+    "short_description": "Ford führte in der Automobilproduktion bewegte Montagelinien ein.",
+    "long_description": "Ford führte in der Automobilproduktion bewegte Montagelinien ein. Sie steigerten den Ausstoß, standardisierten Produkte und veränderten Arbeitsabläufe.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0029",
+    "title": "Kleine Eiszeit",
+    "entry_type": "process",
+    "start_year": 1450,
+    "end_year": 1850,
+    "date_precision": "approximate",
+    "date_label": "ca. 1450–1850",
+    "primary_discipline": "environment_nature",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "climate_history"
+    ],
+    "topics": [
+      "climate",
+      "nature",
+      "resources"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "In vielen Regionen traten über längere Zeit kühlere Klimabedingungen auf.",
+    "long_description": "In vielen Regionen traten über längere Zeit kühlere Klimabedingungen auf. Der Begriff umfasst unterschiedliche regionale Entwicklungen und bezeichnet keinen weltweit einheitlichen Kältezeitraum.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0030",
+    "title": "Ausbruch des Tambora",
+    "entry_type": "natural_environmental_event",
+    "start_year": 1815,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1815",
+    "primary_discipline": "environment_nature",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "climate_history"
+    ],
+    "topics": [
+      "climate",
+      "nature"
+    ],
+    "geography": [
+      "Indonesia",
+      "Global"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Der gewaltige Vulkanausbruch auf Sumbawa schleuderte Material bis in die Stratosphäre.",
+    "long_description": "Der gewaltige Vulkanausbruch auf Sumbawa schleuderte Material bis in die Stratosphäre. Er trug zur folgenden Abkühlung und zu schweren Witterungsanomalien bei.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S0007"
+    ],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0031",
+    "title": "Jahr ohne Sommer",
+    "entry_type": "natural_environmental_event",
+    "start_year": 1816,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1816",
+    "primary_discipline": "environment_nature",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "climate_history"
+    ],
+    "topics": [
+      "climate",
+      "health",
+      "resources"
+    ],
+    "geography": [
+      "Europe",
+      "North America"
+    ],
+    "scope": "continental",
+    "importance": 3,
+    "short_description": "Ungewöhnliche Kälte und Regen beeinträchtigten Ernten in Teilen Europas und Nordamerikas.",
+    "long_description": "Ungewöhnliche Kälte und Regen beeinträchtigten Ernten in Teilen Europas und Nordamerikas. Die Folgen verstärkten Versorgungskrisen in einer ohnehin belasteten Nachkriegszeit.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S0007"
+    ],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0032",
+    "title": "Naturschutzbewegung",
+    "entry_type": "movement",
+    "start_year": 1870,
+    "end_year": 1950,
+    "date_precision": "approximate",
+    "date_label": "ca. 1870–1950",
+    "primary_discipline": "environment_nature",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "ecology"
+    ],
+    "topics": [
+      "nature",
+      "resources",
+      "education"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Initiativen zum Schutz von Landschaften und Arten gewannen an Bedeutung.",
+    "long_description": "Initiativen zum Schutz von Landschaften und Arten gewannen an Bedeutung. Wissenschaftliche, ästhetische und gesellschaftliche Motive verbanden sich dabei auf unterschiedliche Weise.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0033",
+    "title": "Newtons Principia",
+    "entry_type": "work_publication",
+    "start_year": 1687,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1687",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "physics"
+    ],
+    "topics": [
+      "science",
+      "knowledge"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Isaac Newton veröffentlichte seine mathematische Beschreibung von Bewegung und Gravitation.",
+    "long_description": "Isaac Newton veröffentlichte seine mathematische Beschreibung von Bewegung und Gravitation. Das Werk wurde zu einem zentralen Bezugspunkt der klassischen Mechanik.",
+    "persons": [
+      "P0010"
+    ],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0034",
+    "title": "Encyclopédie",
+    "entry_type": "work_publication",
+    "start_year": 1751,
+    "end_year": 1772,
+    "date_precision": "exact",
+    "date_label": "1751–1772",
+    "primary_discipline": "philosophy_religion",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "philosophy"
+    ],
+    "topics": [
+      "knowledge",
+      "education",
+      "media"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 3,
+    "short_description": "Die von Diderot und d’Alembert herausgegebene Enzyklopädie sammelte Wissen über Wissenschaft, Kunst und Handwerk.",
+    "long_description": "Die von Diderot und d’Alembert herausgegebene Enzyklopädie sammelte Wissen über Wissenschaft, Kunst und Handwerk. Sie wurde zu einem wichtigen Publikationsprojekt der Aufklärung.",
+    "persons": [
+      "P0011"
+    ],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0035",
+    "title": "Pockenimpfung",
+    "entry_type": "technical_innovation",
+    "start_year": 1796,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1796",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "medicine"
+    ],
+    "topics": [
+      "health",
+      "science",
+      "knowledge"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Edward Jenner erprobte eine Impfung mit Kuhpockenmaterial gegen Pocken.",
+    "long_description": "Edward Jenner erprobte eine Impfung mit Kuhpockenmaterial gegen Pocken. Vorhandene Praktiken und Beobachtungen gingen dem Versuch voraus; die Impfungen verbreiteten sich anschließend allmählich.",
+    "persons": [
+      "P0012"
+    ],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0036",
+    "title": "Keimtheorie",
+    "entry_type": "idea_theory",
+    "start_year": 1860,
+    "end_year": 1885,
+    "date_precision": "exact",
+    "date_label": "1860–1885",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "medicine",
+      "biology"
+    ],
+    "topics": [
+      "health",
+      "science",
+      "urbanisation"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 3,
+    "short_description": "Forschungen unter anderem von Pasteur und Koch stärkten die Erklärung von Infektionskrankheiten durch Mikroorganismen.",
+    "long_description": "Forschungen unter anderem von Pasteur und Koch stärkten die Erklärung von Infektionskrankheiten durch Mikroorganismen. Sie veränderten Hygiene, Prävention und medizinische Praxis.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0037",
+    "title": "Revolutionen von 1848",
+    "entry_type": "event",
+    "start_year": 1848,
+    "end_year": 1849,
+    "date_precision": "exact",
+    "date_label": "1848–1849",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "state",
+      "work"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "In zahlreichen europäischen Staaten forderten revolutionäre Bewegungen Verfassungen und politische Mitbestimmung.",
+    "long_description": "In zahlreichen europäischen Staaten forderten revolutionäre Bewegungen Verfassungen und politische Mitbestimmung. Soziale und nationale Anliegen verbanden sich, ohne ein einheitliches Programm zu bilden.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0038",
+    "title": "Frauenwahlrechtsbewegung",
+    "entry_type": "movement",
+    "start_year": 1848,
+    "end_year": 1920,
+    "date_precision": "approximate",
+    "date_label": "ca. 1848–1920",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "social_history"
+    ],
+    "topics": [
+      "rights",
+      "state",
+      "education"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 3,
+    "short_description": "Frauen organisierten sich für politische Gleichberechtigung und das Wahlrecht.",
+    "long_description": "Frauen organisierten sich für politische Gleichberechtigung und das Wahlrecht. Der Zeitraum zeigt ausgewählte Entwicklungen in Europa und Nordamerika; der weltweite Kampf reichte weit darüber hinaus.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "medium",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0039",
+    "title": "Quantenhypothese",
+    "entry_type": "idea_theory",
+    "start_year": 1900,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1900",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "physics"
+    ],
+    "topics": [
+      "science",
+      "energy",
+      "knowledge"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 3,
+    "short_description": "Max Planck führte bei der Beschreibung der Wärmestrahlung diskrete Energieelemente ein.",
+    "long_description": "Max Planck führte bei der Beschreibung der Wärmestrahlung diskrete Energieelemente ein. Daraus entwickelte sich später, durch Beiträge vieler Forschender, die Quantenphysik.",
+    "persons": [
+      "P0013"
+    ],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0040",
+    "title": "Zweiter Weltkrieg",
+    "entry_type": "event",
+    "start_year": 1939,
+    "end_year": 1945,
+    "date_precision": "exact",
+    "date_label": "1939–1945",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "war",
+      "state",
+      "technology"
+    ],
+    "geography": [
+      "Global"
+    ],
+    "scope": "global",
+    "importance": 5,
+    "short_description": "Der von Deutschland in Europa begonnene Krieg weitete sich zu einem globalen Konflikt aus.",
+    "long_description": "Der von Deutschland in Europa begonnene Krieg weitete sich zu einem globalen Konflikt aus. Nationalsozialistischer Vernichtungskrieg und Holocaust, Besatzung und Massenmobilisierung prägten diese Jahre.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0041",
+    "title": "Menschenrechtserklärung",
+    "entry_type": "political_legal_change",
+    "start_year": 1948,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1948",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "state"
+    ],
+    "geography": [
+      "Global"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Die Vereinten Nationen verabschiedeten die Allgemeine Erklärung der Menschenrechte.",
+    "long_description": "Die Vereinten Nationen verabschiedeten die Allgemeine Erklärung der Menschenrechte. Sie formulierte einen universellen Anspruch auf Würde und Rechte und prägte spätere internationale Vereinbarungen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0042",
+    "title": "Ökologie als Begriff",
+    "entry_type": "idea_theory",
+    "start_year": 1866,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1866",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "biology"
+    ],
+    "topics": [
+      "nature",
+      "science",
+      "knowledge"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 2,
+    "short_description": "Ernst Haeckel prägte den Begriff Ökologie für die Beziehungen von Organismen zu ihrer Umwelt.",
+    "long_description": "Ernst Haeckel prägte den Begriff Ökologie für die Beziehungen von Organismen zu ihrer Umwelt. Die Forschung auf diesem Gebiet hatte vielfältige Vorläufer und entwickelte sich danach weiter.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0043",
+    "title": "Frankenstein",
+    "entry_type": "work_publication",
+    "start_year": 1818,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1818",
+    "primary_discipline": "art_culture",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "literature"
+    ],
+    "topics": [
+      "science",
+      "nature",
+      "technology"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 2,
+    "short_description": "Mary Shelleys Roman verband naturwissenschaftliche Fragen mit Verantwortung und menschlicher Verletzlichkeit.",
+    "long_description": "Mary Shelleys Roman verband naturwissenschaftliche Fragen mit Verantwortung und menschlicher Verletzlichkeit. Die Idee entstand im Sommer 1816 am Genfersee, während ungewöhnlich schlechten Wetters.",
+    "persons": [
+      "P0014"
+    ],
+    "institutions": [],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E0044",
+    "title": "Royal Society",
+    "entry_type": "institution",
+    "start_year": 1660,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1660",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "physics",
+      "astronomy"
+    ],
+    "topics": [
+      "science",
+      "knowledge",
+      "education"
+    ],
+    "geography": [
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 3,
+    "short_description": "Die Royal Society entstand als gelehrte Gesellschaft für experimentelle Naturforschung.",
+    "long_description": "Die Royal Society entstand als gelehrte Gesellschaft für experimentelle Naturforschung. Veröffentlichungen und Austausch förderten die gemeinschaftliche Prüfung wissenschaftlicher Ergebnisse.",
+    "persons": [],
+    "institutions": [
+      "I0002"
+    ],
+    "source_ids": [],
+    "confidence": "high",
+    "notes": "Kuratiertes Beispieldatum für den Prototyp. Zeitgrenzen bei Prozessen sind vereinfachend; Quellen dienen der Orientierung, nicht als Beleg jeder Einzelinterpretation."
+  },
+  {
+    "id": "E9001",
+    "title": "Arkwrights Water Frame beschleunigt die Textilmechanisierung",
+    "entry_type": "technical_innovation",
+    "start_year": 1769,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1769",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "production"
+    ],
+    "topics": [
+      "industrialisation",
+      "production",
+      "work",
+      "technology"
+    ],
+    "geography": [
+      "Great Britain"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Richard Arkwright erhält ein Patent auf die Water Frame, eine wasserbetriebene Spinnmaschine. Sie trägt dazu bei, die Garnherstellung aus dem häuslichen Bereich in größere, maschinell organisierte Produktionsstätten zu verlagern.",
+    "long_description": "Die Water Frame erzeugte festes Baumwollgarn und ließ sich mit Wasserkraft in größeren Anlagen betreiben. Zusammen mit anderen Neuerungen veränderte sie die Textilherstellung in Großbritannien grundlegend. Spinnerei wurde zunehmend in Fabriken konzentriert; Arbeitsabläufe, Investitionsbedarf und Beschäftigung veränderten sich. Der Prozess beruhte auf mehreren Erfindungen und sozialen Voraussetzungen und war keineswegs das Werk eines einzelnen Erfinders. Die Mechanisierung der Baumwollindustrie verband regionale Veränderungen der Arbeit mit überseeischen Rohstoffketten.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9001"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9002",
+    "title": "Watt-Dampfmaschinen werden kommerziell eingesetzt",
+    "entry_type": "technical_innovation",
+    "start_year": 1776,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1776",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [
+      "science"
+    ],
+    "subdisciplines": [
+      "energy",
+      "mechanical_engineering"
+    ],
+    "topics": [
+      "energy",
+      "technology",
+      "industrialisation",
+      "production"
+    ],
+    "geography": [
+      "Great Britain"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "In den 1770er Jahren kommen verbesserte Dampfmaschinen von Boulton und Watt zunehmend in der Praxis zum Einsatz. Die sparsamere Nutzung von Brennstoff erweitert die Möglichkeiten mechanischer Kraft in Bergbau und Industrie.",
+    "long_description": "James Watt entwickelte wesentliche Verbesserungen vorhandener Dampfmaschinen, insbesondere den getrennten Kondensator. Die kommerzielle Verbreitung in Kooperation mit Matthew Boulton erleichterte den Einsatz in Bergwerken und später in Fabriken. Die Dampfmaschine ersetzte Wasserkraft nicht schlagartig, sondern ergänzte sie zunächst. Langfristig trug die neue Antriebstechnik zum höheren Verbrauch fossiler Brennstoffe und zur räumlichen Neuordnung industrieller Produktion bei. Ihr Erfolg hing ebenso von Kapital, Handwerk und bestehenden Energiesystemen ab.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9020",
+      "S9001"
+    ],
+    "confidence": "medium",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9003",
+    "title": "Haitianische Revolution führt zur Unabhängigkeit Haitis",
+    "entry_type": "process",
+    "start_year": 1791,
+    "end_year": 1804,
+    "date_precision": "exact",
+    "date_label": "1791–1804",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [
+      "technology_economy"
+    ],
+    "subdisciplines": [
+      "political_history",
+      "social_history"
+    ],
+    "topics": [
+      "rights",
+      "work",
+      "trade",
+      "state"
+    ],
+    "geography": [
+      "Saint-Domingue",
+      "Haiti",
+      "Caribbean"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "In Saint-Domingue beginnt 1791 ein Aufstand versklavter Menschen, aus dem eine langjährige Revolution hervorgeht. Die Unabhängigkeit Haitis 1804 erschüttert das atlantische Plantagen- und Sklavereisystem.",
+    "long_description": "Die koloniale Wirtschaft Saint-Domingues beruhte stark auf Zuckerplantagen und Zwangsarbeit. Ab 1791 entwickelten sich Aufstände versklavter Menschen zu einem revolutionären Krieg. Das Ergebnis war die Unabhängigkeit Haitis im Jahr 1804. Die Ereignisse machten deutlich, dass versklavte Menschen selbst politische und militärische Akteure der Emanzipation waren. Die Revolution veränderte Debatten über Menschenrechte, Kolonialherrschaft und die Zukunft der Sklaverei im Atlantikraum. Sie stand zugleich in Verbindung mit Handels- und Plantagenwirtschaft, nicht bloß mit europäischen Verfassungsideen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9003"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9004",
+    "title": "Eli Whitneys Cotton Gin verändert die Baumwollverarbeitung",
+    "entry_type": "technical_innovation",
+    "start_year": 1793,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1793",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [
+      "politics_society"
+    ],
+    "subdisciplines": [
+      "production",
+      "trade"
+    ],
+    "topics": [
+      "production",
+      "trade",
+      "work",
+      "industrialisation"
+    ],
+    "geography": [
+      "United States"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Die 1793 eingeführte Cotton Gin erleichtert das Trennen von Baumwollfasern und Samen erheblich. Damit wächst die Verarbeitung bestimmter Baumwollsorten und die Nachfrage nach Rohbaumwolle aus dem Süden der USA.",
+    "long_description": "Die Entkörnungsmaschine, deren Entwicklung gewöhnlich mit Eli Whitney verbunden wird, beschleunigte einen zuvor arbeitsintensiven Verarbeitungsschritt. Sie veränderte die wirtschaftlichen Voraussetzungen der Baumwollproduktion und förderte die Ausweitung des Baumwollanbaus in den US-Südstaaten. Diese Expansion verstärkte die Nachfrage nach versklavter Arbeitskraft, statt die Zwangsarbeit zu beseitigen. Über den transatlantischen Handel wurde Baumwolle zu einem wichtigen Rohstoff britischer Textilfabriken. Die technische Innovation verknüpfte somit höhere industrielle Produktivität mit schwerwiegenden sozialen Folgen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9002",
+      "S9024"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9005",
+    "title": "Großbritannien verbietet den transatlantischen Sklavenhandel",
+    "entry_type": "political_legal_change",
+    "start_year": 1807,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1807",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history",
+      "social_history"
+    ],
+    "topics": [
+      "rights",
+      "trade",
+      "work",
+      "state"
+    ],
+    "geography": [
+      "Great Britain",
+      "Atlantic World"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Mit dem Slave Trade Act verbietet das britische Parlament 1807 die Beteiligung britischer Händler am transatlantischen Sklavenhandel. Die Sklaverei selbst bleibt in britischen Kolonien zunächst bestehen.",
+    "long_description": "Die Verabschiedung des Gesetzes folgte langjährigen Kampagnen von Abolitionisten innerhalb und außerhalb des Parlaments, darunter auch schwarzen Aktivisten. Es untersagte den britischen Sklavenhandel, beendete jedoch weder die Sklaverei in den britischen Kolonien noch den Menschenhandel über den Atlantik insgesamt. Die Gesetzgebung markierte eine wichtige Veränderung staatlicher Politik im Kontext von Plantagenwirtschaft und Menschenrechtsdebatten. Die britische Sklaverei wurde erst in einem späteren gesetzlichen Prozess aufgehoben. Für Zeitstrahl ist die Trennung zwischen Handelsverbot und Emanzipation besonders wichtig.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9004"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9006",
+    "title": "Ludditische Proteste gegen den Wandel der Textilarbeit beginnen",
+    "entry_type": "movement",
+    "start_year": 1811,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1811 (Beginn)",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [
+      "technology_economy"
+    ],
+    "subdisciplines": [
+      "social_history"
+    ],
+    "topics": [
+      "work",
+      "industrialisation",
+      "technology",
+      "rights"
+    ],
+    "geography": [
+      "Great Britain"
+    ],
+    "scope": "national",
+    "importance": 3,
+    "short_description": "Seit 1811 greifen Gruppen von Textilarbeitern in England Maschinen und Betriebe an. Die später als Ludditen bezeichneten Protestierenden reagieren auf bedrohte Einkommen, Arbeitsordnungen und Machtverhältnisse.",
+    "long_description": "Ab 1811 begannen in Nottinghamshire ludditische Proteste, die sich in den folgenden Jahren auf weitere englische Textilregionen ausweiteten. Die Proteste der Ludditen richteten sich nicht pauschal gegen jede Technik. In einer Phase wirtschaftlicher Unsicherheit und veränderter Produktionsweisen kritisierten viele Beteiligte den Einsatz bestimmter Maschinen und die Auswirkungen auf Löhne, Qualifikationen und Arbeitsbedingungen. Staat und Unternehmer begegneten den Aktionen mit harter Repression. Die Bewegung verdeutlicht, dass Industrialisierung kein ausschließlich technischer Prozess war: Über Produktivitätsgewinne, Kontrolle der Arbeit und Verteilung ihrer Kosten wurde gesellschaftlich gestritten. Die Proteste sind daher eng mit der Geschichte mechanisierter Textilproduktion verbunden.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9005"
+    ],
+    "confidence": "medium",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9007",
+    "title": "Liverpool–Manchester-Bahn eröffnet",
+    "entry_type": "technical_innovation",
+    "start_year": 1830,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1830",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "transport"
+    ],
+    "topics": [
+      "mobility",
+      "trade",
+      "industrialisation",
+      "energy"
+    ],
+    "geography": [
+      "Great Britain"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "1830 wird die Eisenbahnverbindung Liverpool–Manchester eröffnet. Dampfbetriebene Züge verbessern den Güter- und Personenverkehr zwischen einem wichtigen Hafen und einem Zentrum der Baumwollindustrie.",
+    "long_description": "Die Eröffnung am 15. September 1830 war ein wichtiger Schritt bei der Entwicklung öffentlich genutzter Dampfeisenbahnen. Die Strecke verband Liverpool als Handels- und Hafenstadt mit Manchester als industriellem Produktionszentrum. Eisenbahnen veränderten in den folgenden Jahrzehnten Transportkosten, Reisezeiten und die Verknüpfung von Märkten. Zugleich waren sie auf Kohle, Metallverarbeitung und umfangreiche Infrastruktur angewiesen. Der Ausbau der Schienenwege war daher Ergebnis und Motor industrialisierter Wirtschaftsformen. Er setzte nicht überall gleichzeitig ein und verlief unter sehr unterschiedlichen politischen Bedingungen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9006"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9008",
+    "title": "Factory Act begrenzt Kinderarbeit in britischen Textilfabriken",
+    "entry_type": "political_legal_change",
+    "start_year": 1833,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1833",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "social_history",
+      "political_history"
+    ],
+    "topics": [
+      "work",
+      "rights",
+      "industrialisation",
+      "education"
+    ],
+    "geography": [
+      "Great Britain"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Der britische Factory Act von 1833 beschränkt die Arbeitszeit von Kindern in Textilfabriken, verbietet die Fabrikbeschäftigung unter Neunjähriger und begründet eine staatliche Fabrikinspektion. Damit beginnt ein neuer Abschnitt gesetzlicher Regulierung industrieller Arbeit.",
+    "long_description": "Das Gesetz untersagte die Beschäftigung von Kindern unter neun Jahren in den erfassten Textilfabriken, beschränkte die Arbeitszeit älterer Kinder und sah Unterricht für jüngere Beschäftigte vor. Neu und wichtig war insbesondere die Einrichtung einer staatlichen Fabrikinspektion. Die praktische Durchsetzung blieb zunächst schwach und die Reform erfasste nicht alle Industrien. Trotzdem zeigt der Factory Act, wie gesellschaftliche Kritik an industriellen Arbeitsbedingungen in staatliche Regulierung übersetzt wurde. Er steht in engem Zusammenhang mit Mechanisierung, Fabrikarbeit und frühen sozialen Reformbewegungen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9007"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9009",
+    "title": "Erster Opiumkrieg zwischen Großbritannien und Qing-China",
+    "entry_type": "event",
+    "start_year": 1839,
+    "end_year": 1842,
+    "date_precision": "exact",
+    "date_label": "1839–1842",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [
+      "technology_economy"
+    ],
+    "subdisciplines": [
+      "political_history",
+      "trade"
+    ],
+    "topics": [
+      "trade",
+      "war",
+      "state",
+      "resources"
+    ],
+    "geography": [
+      "China",
+      "Great Britain",
+      "India"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "Zwischen 1839 und 1842 führen Großbritannien und das Qing-Reich Krieg im Umfeld des Opiumhandels. Die chinesische Niederlage verschärft ungleiche Handels- und Machtverhältnisse in Ostasien.",
+    "long_description": "Der Konflikt entstand vor dem Hintergrund britischer Handelsinteressen, des über Indien organisierten Opiumhandels und chinesischer Versuche, den Schmuggel zu unterbinden. Die britische Militärmacht erzwang nach dem Krieg weitreichende politische und kommerzielle Zugeständnisse. Der Konflikt zeigt, dass der Ausbau internationaler Märkte im 19. Jahrhundert nicht nur auf technischen Innovationen beruhte, sondern auch auf Gewalt, imperialer Macht und ungleichen Verträgen. Die Auswirkungen reichten über die unmittelbare Kriegszeit hinaus und prägten Chinas Beziehungen zu europäischen Mächten.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9008"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport. Der Krieg begann 1839; der ungleiche Vertrag von Nanjing von 1842 schloss ihn ab. Redaktionelle und Dublettenprüfung vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9010",
+    "title": "Great Exhibition präsentiert Industrie und Weltwirtschaft",
+    "entry_type": "event",
+    "start_year": 1851,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1851",
+    "primary_discipline": "art_culture",
+    "secondary_disciplines": [
+      "technology_economy"
+    ],
+    "subdisciplines": [
+      "design",
+      "architecture"
+    ],
+    "topics": [
+      "industrialisation",
+      "technology",
+      "trade",
+      "production"
+    ],
+    "geography": [
+      "Great Britain",
+      "London"
+    ],
+    "scope": "global",
+    "importance": 3,
+    "short_description": "In London zeigt die Great Exhibition von 1851 Industrieprodukte, Rohstoffe, Maschinen und Kunstgewerbe aus zahlreichen Regionen. Die Ausstellung inszeniert technischen Fortschritt und globalen Wettbewerb.",
+    "long_description": "Die internationale Ausstellung im Londoner Hyde Park präsentierte neue Maschinen und Produkte in einem eigens errichteten Gebäude aus Eisen und Glas, dem Crystal Palace. Sie stellte britische Industrie und internationale Handelsbeziehungen öffentlich zur Schau und machte die Verbindung von Produktion, Design, imperialen Verflechtungen und Konsum sichtbar. Die Veranstaltung war kein neutraler Überblick über die Weltwirtschaft: Politische Machtverhältnisse und koloniale Ressourcenketten prägten die ausgestellten Güter und ihre Darstellung. Als kulturelles Ereignis verband sie technische Innovationen mit Vorstellungen von Fortschritt und nationalem Prestige.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9009"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9011",
+    "title": "Erste reguläre Personenbahn in Indien fährt von Bombay nach Thane",
+    "entry_type": "event",
+    "start_year": 1853,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1853",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [
+      "politics_society"
+    ],
+    "subdisciplines": [
+      "transport"
+    ],
+    "topics": [
+      "mobility",
+      "trade",
+      "technology",
+      "industrialisation"
+    ],
+    "geography": [
+      "India",
+      "Bombay",
+      "Thane"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Am 16. April 1853 nimmt eine Personenbahn zwischen Bombay und Thane den Betrieb auf. Sie markiert den Beginn eines rasch wachsenden Eisenbahnnetzes auf dem indischen Subkontinent unter britischer Kolonialherrschaft.",
+    "long_description": "Die Strecke zwischen Bombay, dem heutigen Mumbai, und Thane war rund 34 Kilometer lang. Das Ereignis wurde zum Ausgangspunkt eines umfangreichen Netzausbaus. Eisenbahnen erleichterten Güterverkehr, Personenmobilität und die Erschließung von Regionen, standen jedoch zugleich im Kontext kolonialer Wirtschafts- und Verwaltungsinteressen. Der Ausbau verband indische Märkte stärker miteinander und mit globalen Handelsströmen. Die sozialen und wirtschaftlichen Folgen waren vielschichtig: Infrastrukturgewinne und neue Bewegungsmöglichkeiten standen neben kolonialen Machtverhältnissen und ungleicher Kontrolle über Investitionen und Erträge.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9010"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9012",
+    "title": "John Snow untersucht den Londoner Choleraausbruch",
+    "entry_type": "event",
+    "start_year": 1854,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1854",
+    "primary_discipline": "science",
+    "secondary_disciplines": [
+      "politics_society"
+    ],
+    "subdisciplines": [
+      "medicine"
+    ],
+    "topics": [
+      "health",
+      "science",
+      "urbanisation",
+      "knowledge"
+    ],
+    "geography": [
+      "Great Britain",
+      "London"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Während eines Choleraausbruchs 1854 untersucht der Arzt John Snow Erkrankungen im Londoner Stadtteil Soho. Die räumliche Verteilung der Todesfälle unterstützt seine Hypothese einer Übertragung durch kontaminiertes Wasser.",
+    "long_description": "Snow untersuchte Erkrankungen in der Umgebung einer öffentlichen Wasserpumpe in der Broad Street. Durch die Verbindung von Beobachtungen, räumlichen Daten und epidemiologischen Überlegungen widersprach er verbreiteten Erklärungen, die Krankheiten vor allem schädlichen Ausdünstungen zuschrieben. Die Forschung gilt heute als ein wichtiger Schritt der Epidemiologie. Sie war weder die einzige Grundlage moderner Seuchenbekämpfung noch führte sie sofort zu allgemeiner Zustimmung. Der Fall verdeutlicht den engen Zusammenhang zwischen Urbanisierung, Trinkwasserversorgung, wissenschaftlicher Methode und öffentlicher Gesundheit.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9011"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9014",
+    "title": "Dauerhafte transatlantische Telegraphenverbindung etabliert",
+    "entry_type": "technical_innovation",
+    "start_year": 1866,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1866",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [
+      "politics_society"
+    ],
+    "subdisciplines": [
+      "communication"
+    ],
+    "topics": [
+      "communication",
+      "trade",
+      "technology",
+      "state"
+    ],
+    "geography": [
+      "Atlantic Ocean",
+      "Great Britain",
+      "United States"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "1866 gelingt die dauerhafte Kabelverbindung für elektrische Telegramme über den Atlantik. Nachrichten zwischen Europa und Nordamerika können nun wesentlich schneller ausgetauscht werden als per Schiff.",
+    "long_description": "Frühere Versuche, den Atlantik mit einem Telegraphenkabel zu überbrücken, hatten technische Probleme. Das 1866 erfolgreich verlegte Kabel machte die schnelle Übermittlung von Nachrichten über große Entfernungen dauerhaft möglich. Handel, Finanzmärkte, Zeitungen und diplomatische Stellen konnten Informationen in zuvor unerreichbarer Geschwindigkeit austauschen. Der technische Erfolg beruhte auf Fortschritten in Elektrotechnik, Kabelherstellung, Schifffahrt und internationaler Finanzierung. Die neuen Kommunikationsmöglichkeiten veränderten politische und wirtschaftliche Entscheidungen, beseitigten aber weder Informationsungleichheit noch Machtunterschiede.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9013"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9015",
+    "title": "Erster Band von Marx’ „Das Kapital“ erscheint",
+    "entry_type": "work_publication",
+    "start_year": 1867,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1867",
+    "primary_discipline": "philosophy_religion",
+    "secondary_disciplines": [
+      "politics_society",
+      "technology_economy"
+    ],
+    "subdisciplines": [
+      "philosophy",
+      "social_history"
+    ],
+    "topics": [
+      "work",
+      "industrialisation",
+      "rights",
+      "trade"
+    ],
+    "geography": [
+      "Germany",
+      "Great Britain"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "1867 veröffentlicht Karl Marx in Hamburg den ersten Band von „Das Kapital“. Das Werk entwickelt eine einflussreiche Kritik kapitalistischer Produktions- und Eigentumsverhältnisse im Zeitalter der Industrialisierung.",
+    "long_description": "Im ersten Band analysierte Marx Warenproduktion, Kapitalakkumulation, Lohnarbeit und Ausbeutung. Seine Untersuchung knüpfte an die Ausbreitung industrieller Fabrikarbeit und an bestehende wirtschaftswissenschaftliche Debatten an. Das Buch prägte später sozialistische Bewegungen, politische Theorien und Auseinandersetzungen über soziale Ungleichheit weit über Europa hinaus. Die Aussagen des Werks sind als theoretische Interpretation gesellschaftlicher Verhältnisse zu verstehen, nicht als neutrale Beschreibung einzelner Fabriken. In Zeitstrahl lässt sich seine Veröffentlichung mit der Geschichte von Industrialisierung, Arbeiterbewegung und staatlicher Sozialpolitik verbinden.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9014"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9016",
+    "title": "Meiji-Restauration eröffnet Japans industrielle Neuordnung",
+    "entry_type": "process",
+    "start_year": 1868,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1868",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [
+      "technology_economy"
+    ],
+    "subdisciplines": [
+      "political_history",
+      "production"
+    ],
+    "topics": [
+      "state",
+      "industrialisation",
+      "technology",
+      "education",
+      "trade"
+    ],
+    "geography": [
+      "Japan"
+    ],
+    "scope": "national",
+    "importance": 5,
+    "short_description": "Mit der Meiji-Restauration 1868 beginnt in Japan eine tiefgreifende Neuordnung von Staat, Militär, Bildung und Wirtschaft. In den folgenden Jahrzehnten entwickelt sich eine breit angelegte Industrialisierung.",
+    "long_description": "Der politische Umbruch von 1868 leitete Reformen der staatlichen Institutionen ein und eröffnete eine Phase intensiver wirtschaftlicher und technischer Veränderungen. Die japanische Führung griff ausländische Technologien und Organisationsformen selektiv auf und verband sie mit bestehenden Institutionen, Wissenstraditionen und politischen Zielsetzungen. Neue Fabriken, Infrastruktur und Ausbildungsstrukturen stärkten die industrielle Leistungsfähigkeit. Die Transformation war umkämpft und ungleich verteilt; sie ging mit gesellschaftlichen Belastungen und wachsender militärischer Macht einher. Die Meiji-Zeit zeigt, dass Industrialisierung nicht ausschließlich dem britischen Muster folgen musste.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9015",
+      "S9023"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9017",
+    "title": "Suezkanal verbindet Mittelmeer und Rotes Meer",
+    "entry_type": "event",
+    "start_year": 1869,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1869",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [
+      "politics_society"
+    ],
+    "subdisciplines": [
+      "transport",
+      "trade"
+    ],
+    "topics": [
+      "mobility",
+      "trade",
+      "resources",
+      "technology"
+    ],
+    "geography": [
+      "Egypt",
+      "Suez"
+    ],
+    "scope": "global",
+    "importance": 5,
+    "short_description": "Der Suezkanal wird am 17. November 1869 eröffnet. Die künstliche Wasserstraße verkürzt wichtige Seewege zwischen Europa und Asien und verändert Handel, Schifffahrt und geopolitische Interessen.",
+    "long_description": "Nach einem rund zehnjährigen Bauprojekt öffnete der Kanal eine direkte schiffbare Verbindung zwischen Mittelmeer und Rotem Meer. Die Baugeschichte war mit Zwangsverhältnissen, hohen menschlichen und finanziellen Kosten sowie politischen Konflikten verbunden. Die neue Route veränderte internationale Warenströme und steigerte Ägyptens strategische Bedeutung. Sie erleichterte den Transport zwischen europäischen und asiatischen Häfen, war aber zugleich eng mit imperialen Handels- und Machtinteressen verflochten. Der Kanal macht sichtbar, wie Infrastruktur, Kapital, Arbeitskraft und Geopolitik gemeinsam globale Handelsräume formen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9016"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9019",
+    "title": "Frühe öffentliche Stromversorgung mit Kohle in London",
+    "entry_type": "technical_innovation",
+    "start_year": 1882,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1882",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [
+      "environment_nature"
+    ],
+    "subdisciplines": [
+      "energy"
+    ],
+    "topics": [
+      "energy",
+      "technology",
+      "urbanisation",
+      "resources"
+    ],
+    "geography": [
+      "Great Britain",
+      "London"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "1882 nimmt in London eine frühe öffentliche Stromversorgungsanlage mit Kohleenergie den Betrieb auf. Sie steht für den Beginn zentral organisierter elektrischer Beleuchtung in Städten.",
+    "long_description": "Thomas Edisons Anlage an der Holborn Viaduct belieferte elektrische Beleuchtung aus einer zentralen Station. Solche frühen Anlagen zeigten, dass elektrische Energie zunehmend als Dienstleistung über Netze bereitgestellt werden konnte, statt nur einzelne Maschinen direkt anzutreiben. Die großflächige Ausbreitung erforderte technische Standardisierung, Investitionen und neue städtische Infrastruktur. Zugleich beruhte ein Teil der Elektrifizierung zunächst auf Kohle und verband moderne Versorgungssysteme mit fossilem Brennstoffverbrauch. Das Ereignis markiert einen wichtigen Ausgangspunkt für die spätere Umgestaltung urbaner Energiesysteme.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9018"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9020",
+    "title": "Berliner Afrika-Konferenz regelt koloniale Ansprüche",
+    "entry_type": "political_legal_change",
+    "start_year": 1884,
+    "end_year": 1885,
+    "date_precision": "exact",
+    "date_label": "1884–1885",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [
+      "technology_economy"
+    ],
+    "subdisciplines": [
+      "political_history",
+      "trade"
+    ],
+    "topics": [
+      "state",
+      "trade",
+      "resources",
+      "rights"
+    ],
+    "geography": [
+      "Berlin",
+      "Africa",
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 5,
+    "short_description": "Auf der Berliner Afrika-Konferenz 1884/85 vereinbaren 14 Staaten Regeln für Handel, Schifffahrt und die Anmeldung kolonialer Gebietsansprüche in Afrika. Afrikanische Gesellschaften sind nicht vertreten.",
+    "long_description": "Die von Reichskanzler Otto von Bismarck einberufene Konferenz dauerte von November 1884 bis Februar 1885. Sie sollte unter anderem Rivalitäten zwischen kolonialen Mächten begrenzen und regelte die Bedingungen ihrer Ansprüche in Teilen Afrikas. Entgegen einer verbreiteten Darstellung wurden dort nicht unmittelbar die späteren konkreten Grenzen des Kontinents gezogen. Die Konferenz schuf vielmehr einen Rahmen für weitere koloniale Expansion. Ohne afrikanische Beteiligung verhandelte sie über wirtschaftliche Zugänge und politische Herrschaftsfragen. Ihre Bedeutung liegt im Zusammenhang von globalem Rohstoffhandel, imperialer Konkurrenz und gewaltsamer Kolonialgeschichte.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9019"
+    ],
+    "confidence": "high",
+    "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  }
+]
