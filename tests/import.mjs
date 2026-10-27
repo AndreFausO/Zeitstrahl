@@ -9,6 +9,30 @@ const project = fileURLToPath(new URL('../', import.meta.url));
 const root = await mkdtemp(join(project, '.import-test-'));
 const names = [...collections, 'vocabularies'];
 const fixture = JSON.parse(await readFile(new URL('../imports/example.json', import.meta.url), 'utf8'));
+// Template IDs are not reserved; real content may use them after an import.
+const fixtureIds = {};
+for (const name of collections) {
+  const existing = JSON.parse(await readFile(join(project, 'data', `${name}.json`), 'utf8'));
+  const used = new Set(existing.map(record => record.id));
+  fixtureIds[name] = new Map();
+  for (const record of fixture[name]) {
+    const previous = record.id;
+    let candidate = `test_${previous}`;
+    while (used.has(candidate)) candidate += '_new';
+    record.id = candidate;
+    used.add(candidate);
+    fixtureIds[name].set(previous, candidate);
+  }
+}
+for (const event of fixture.events) {
+  for (const [field, collection] of [['persons', 'persons'], ['institutions', 'institutions'], ['source_ids', 'sources']]) {
+    event[field] = event[field].map(id => fixtureIds[collection].get(id) ?? id);
+  }
+}
+for (const relationship of fixture.relationships) {
+  for (const field of ['source_id', 'target_id']) relationship[field] = fixtureIds.events.get(relationship[field]) ?? relationship[field];
+  relationship.source_ids = relationship.source_ids.map(id => fixtureIds.sources.get(id) ?? id);
+}
 const original = {};
 let passed = 0;
 const test = async (name, fn) => { await fn(); passed++; console.log(`✓ ${name}`); };
@@ -69,7 +93,7 @@ try {
   await test('Invalid dates and relationship pairs are rejected', async () => {
     const bad = structuredClone(fixture); bad.persons[0].death_year = 1700; await rejected(bad);
     const duplicate = structuredClone(fixture); duplicate.relationships.push({ ...duplicate.relationships[0], id: 'R0062' }); await rejected(duplicate);
-    const self = structuredClone(fixture); self.relationships[0].target_id = 'E0045'; await rejected(self);
+    const self = structuredClone(fixture); self.relationships[0].target_id = self.relationships[0].source_id; await rejected(self);
   });
   await test('Omitted collections are allowed; untouched files retain their exact bytes', async () => {
     await setup({ persons: fixture.persons });

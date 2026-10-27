@@ -1,0 +1,7 @@
+Verified backup: backups/import-WmETy1
+events: 84 proposed addition(s)
+persons: 6 proposed addition(s)
+institutions: 3 proposed addition(s)
+relationships: 25 proposed addition(s)
+sources: 116 proposed addition(s)
+Import applied. Reload the website.

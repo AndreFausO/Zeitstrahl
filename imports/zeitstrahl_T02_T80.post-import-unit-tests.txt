@@ -1,0 +1,17 @@
+✓ Alle Beispieldatensätze und Referenzen sind gültig
+✓ Ereignisvalidierung erkennt Pflichtfelder, Werte und verkehrte Zeiträume
+✓ Beziehungsvalidierung erkennt Referenzen, Selbstbezug und Duplikate
+✓ Filter sind über Kategorien kombinierbar, innerhalb einer Kategorie ODER
+✓ Gleichzeitigkeit nutzt inklusive Intervalle, priorisiert andere Disziplinen
+✓ Abgeleitete Werte werden berechnet, nicht in Ereignissen gespeichert
+✓ Zoomschwellen reduzieren Beziehungen
+✓ Reaktionsbeziehungen haben die richtige logische Richtung
+Zeitstrahl: Ungültige Einträge wurden übersprungen. [
+  'Ungültiger Ereignisdatensatz.',
+  'RBROKEN: Das Zielereignis existiert nicht.',
+  'Ungültiger Beziehungsdatensatz.'
+]
+✓ Loader überspringt fehlerhafte Referenzen und beschädigte Einzelobjekte
+✓ Loader meldet nicht erreichbare JSON-Dateien verständlich
+
+Gesamt: 10 Testgruppen bestanden.

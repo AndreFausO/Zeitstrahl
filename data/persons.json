@@ -96,5 +96,47 @@
     "birth_year": 1797,
     "death_year": 1851,
     "short_description": "Britische Schriftstellerin und Autorin von Frankenstein."
+  },
+  {
+    "id": "P0016",
+    "name": "Matteo Ricci",
+    "birth_year": 1552,
+    "death_year": 1610,
+    "short_description": "Jesuit und Gelehrter; arbeitete mit chinesischen Gelehrten an mathematischen und weiteren Übersetzungen."
+  },
+  {
+    "id": "P0017",
+    "name": "Xu Guangqi",
+    "birth_year": 1562,
+    "death_year": 1633,
+    "short_description": "Chinesischer Gelehrter und Beamter; wirkte an der chinesischen Übertragung euklidischer Geometrie mit."
+  },
+  {
+    "id": "P0018",
+    "name": "Auguste Lumière",
+    "birth_year": 1862,
+    "death_year": 1954,
+    "short_description": "Französischer Unternehmer und technischer Entwickler; mit Louis Lumière an der frühen Filmtechnik beteiligt."
+  },
+  {
+    "id": "P0019",
+    "name": "Louis Lumière",
+    "birth_year": 1864,
+    "death_year": 1948,
+    "short_description": "Französischer Entwickler und Filmpionier; mit Auguste Lumière mit dem Cinématographe verbunden."
+  },
+  {
+    "id": "P0020",
+    "name": "Aimé Césaire",
+    "birth_year": 1913,
+    "death_year": 2008,
+    "short_description": "Martinikanischer Schriftsteller und Politiker; Autor des Cahier d’un retour au pays natal."
+  },
+  {
+    "id": "P0021",
+    "name": "Rammohun Roy",
+    "birth_year": 1772,
+    "death_year": 1833,
+    "short_description": "Bengalischer religiöser und gesellschaftlicher Reformer; Gründer der Brahma Sabha."
   }
 ]

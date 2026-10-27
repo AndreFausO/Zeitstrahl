@@ -1,0 +1,18 @@
+✓ Preview resolves references within the batch and writes nothing
+Verified backup: backups/import-gByY7Q
+✓ Apply appends all five collections and verifies all six backup files
+✓ Duplicate IDs within a batch reject every addition
+✓ Existing IDs never overwrite records
+✓ Missing references and invalid vocabularies reject the whole import
+✓ Malformed records, missing fields and wrong collection names reject safely
+✓ Invalid dates and relationship pairs are rejected
+Verified backup: backups/import-INs36M
+✓ Omitted collections are allowed; untouched files retain their exact bytes
+Verified backup: backups/import-s2ChbG
+✓ Write failure rolls back files already replaced
+✓ Backup failure prevents changes
+✓ A competing import lock prevents changes
+✓ Input symlinks escaping the selected project are rejected before reading
+✓ Invalid JSON and empty imports do not change content
+
+13 import test groups passed.

@@ -14,5 +14,29 @@
     "dissolved_year": null,
     "place": "London",
     "short_description": "Gelehrte Gesellschaft zur Förderung der Naturforschung."
+  },
+  {
+    "id": "I0003",
+    "name": "Companhia Siderúrgica Nacional",
+    "founded_year": 1941,
+    "dissolved_year": null,
+    "place": "Brazil",
+    "short_description": "Brasilianische Stahlgesellschaft; Aufbau des integrierten Werks in Volta Redonda."
+  },
+  {
+    "id": "I0004",
+    "name": "Internationale Arbeitsorganisation",
+    "founded_year": 1919,
+    "dissolved_year": null,
+    "place": "International",
+    "short_description": "Internationale Organisation zur Aushandlung von Arbeitsstandards mit Regierungs-, Arbeitgeber- und Arbeitnehmervertretungen."
+  },
+  {
+    "id": "I0005",
+    "name": "Internationale Telegraphenunion",
+    "founded_year": 1865,
+    "dissolved_year": null,
+    "place": "Paris",
+    "short_description": "1865 gegründete zwischenstaatliche Organisation zur Koordination der Telegraphie; Vorgängerin der International Telecommunication Union."
   }
 ]

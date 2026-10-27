@@ -1,0 +1,10 @@
+{
+  "data/sources.json": "adc30442a2165d2718f6a5c91971d99898a4c3c70682cacfe7d0deb45f965dad",
+  "data/relationship.schema.json": "757a30831f8c3b6781e7e800d9cfa699352faeadc05c55cefeab6651a8f80574",
+  "data/events.json": "d554fc97dcc0ebe8677024f3f528e15d62055357b23e23e714843b99156aab17",
+  "data/persons.json": "005282df271ae3e9ad709f628013bb343315a24bfd22e592f21056400777d4a8",
+  "data/institutions.json": "604e62762d64ffcc079cc258129bc50ac0934fc888d9f0a1a9910a1b17590c74",
+  "data/vocabularies.json": "4e90028d5d1dda106ed964758e892cfaec26dcd9908eee26d2d468dfc84c6ac5",
+  "data/relationships.json": "ade4eb1f504a419c49f68187473ba99b31b298629d9b73d48252567e8d89f492",
+  "data/event.schema.json": "c63124548b2642e3075748cdbe26e492659534d56783724a08cb3f1a0e0b1f15"
+}

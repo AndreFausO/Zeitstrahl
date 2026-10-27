@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "checked_against": "gelieferte Projektdateien; zusätzlich reservierter T01-Import",
+  "checks": [
+    "JSON syntax",
+    "required and unknown fields",
+    "types",
+    "vocabulary values",
+    "IDs above baseline and T01 maxima",
+    "reference closure with and without T01",
+    "chronology",
+    "relationship triples",
+    "ascending individual import simulation",
+    "exact title collisions"
+  ],
+  "counts": {
+    "events": 84,
+    "persons": 6,
+    "relationships": 25,
+    "sources": 115,
+    "institutions": 3
+  },
+  "original_importer_run": false,
+  "historical_exhaustiveness_claimed": false,
+  "remaining_checks": [
+    "Originalimporter gegen aktuellen lokalen Stand",
+    "fachredaktionelle Kontrolle",
+    "inhaltliche Dublettenprüfung gegen nachträgliche lokale Ergänzungen"
+  ]
+}

@@ -835,5 +835,387 @@
       "S9007",
       "S9026"
     ]
+  },
+  {
+    "id": "R9013",
+    "source_id": "E0007",
+    "target_id": "E9027",
+    "relationship_type": "developed_from",
+    "strength": 4,
+    "confidence": "high",
+    "description": "Watts Verbesserung mit separatem Kondensator setzte bei der Newcomen-Maschine und deren Wärmeverlusten an. Die Richtung führt von der Weiterentwicklung zum technischen Vorläufer.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9036",
+      "S0002"
+    ]
+  },
+  {
+    "id": "R9014",
+    "source_id": "E9028",
+    "target_id": "E9029",
+    "relationship_type": "contributed_to",
+    "strength": 3,
+    "confidence": "high",
+    "description": "Die in Coalbrookdale entwickelte Koksverhüttung und die darauf aufbauende Eisenindustrie schufen materielle Voraussetzungen des späteren Brückenbaus. Die Brücke war nicht die unmittelbare Leistung Abraham Darbys I.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9039"
+    ]
+  },
+  {
+    "id": "R9015",
+    "source_id": "E9030",
+    "target_id": "E9008",
+    "relationship_type": "developed_from",
+    "strength": 3,
+    "confidence": "medium",
+    "description": "Der Act von 1847 setzte die mit dem Factory Act von 1833 verstärkte Fabrikregulierung fort, vermittelt unter anderem durch das Gesetz von 1844 und die Arbeitszeitkampagne. Die parlamentarische Darstellung ordnet diese Schritte ausdrücklich als Reformfolge ein. Gemeint ist eine gesetzgebungsgeschichtliche Fortentwicklung, keine direkte oder alleinige Verursachung.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9040",
+      "S9151"
+    ]
+  },
+  {
+    "id": "R9016",
+    "source_id": "E9019",
+    "target_id": "E0018",
+    "relationship_type": "part_of",
+    "strength": 3,
+    "confidence": "high",
+    "description": "Die frühe Londoner öffentliche Stromversorgung ist ein konkreter europäischer Fall des in E0018 erfassten Elektrifizierungsprozesses.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9018"
+    ]
+  },
+  {
+    "id": "R9017",
+    "source_id": "E9036",
+    "target_id": "E9078",
+    "relationship_type": "contributed_to",
+    "strength": 4,
+    "confidence": "high",
+    "description": "Die durch atlantische Kontakte eingeführten Pockenerreger ermöglichten die Epidemie in Zentralmexiko von 1520. Die Beziehung betrifft den Krankheitstransfer, nicht eine monokausale Erklärung der Eroberung.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9103"
+    ]
+  },
+  {
+    "id": "R9018",
+    "source_id": "E9003",
+    "target_id": "E9038",
+    "relationship_type": "reaction_to",
+    "strength": 4,
+    "confidence": "high",
+    "description": "Die Revolte von 1791 richtete sich gegen die gewaltsame Plantagen- und Sklavereigesellschaft Saint-Domingues. Politische und internationale Entwicklungen beeinflussten den weiteren Revolutionsverlauf ebenfalls.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9051",
+      "S9147"
+    ]
+  },
+  {
+    "id": "R9019",
+    "source_id": "E9009",
+    "target_id": "E9041",
+    "relationship_type": "contributed_to",
+    "strength": 5,
+    "confidence": "high",
+    "description": "Die britische militärische Überlegenheit im Ersten Opiumkrieg führte zur erzwungenen vertraglichen Neuordnung von Handel und Herrschaft im Vertrag von Nanjing.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9056",
+      "S9008"
+    ]
+  },
+  {
+    "id": "R9020",
+    "source_id": "E0012",
+    "target_id": "E9046",
+    "relationship_type": "contributed_to",
+    "strength": 3,
+    "confidence": "high",
+    "description": "Das Wachstum Londons überlastete die Entsorgung und erhöhte die Abwassermengen in der Themse. Hitze und niedriger Wasserstand verschärften 1858 die daraus entstandene Belastung.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9064"
+    ]
+  },
+  {
+    "id": "R9021",
+    "source_id": "E9052",
+    "target_id": "E9051",
+    "relationship_type": "reaction_to",
+    "strength": 4,
+    "confidence": "high",
+    "description": "Die sichtbar gewordene Bodenerosion während der Dust Bowl verstärkte die politische Reaktion, aus der 1935 der dauerhafte Soil Conservation Service hervorging.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9072"
+    ]
+  },
+  {
+    "id": "R9022",
+    "source_id": "E9054",
+    "target_id": "E9060",
+    "relationship_type": "reaction_to",
+    "strength": 3,
+    "confidence": "high",
+    "description": "Die Hungerkrise in Irland war ein Anlass für Peels Aufhebung der Getreideschutzgesetze 1846. Der Beschluss löste die Krise nicht und war zugleich Teil älterer handelspolitischer Konflikte.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9075"
+    ]
+  },
+  {
+    "id": "R9023",
+    "source_id": "E9046",
+    "target_id": "E9058",
+    "relationship_type": "accelerated",
+    "strength": 4,
+    "confidence": "high",
+    "description": "Der Great Stink erhöhte den unmittelbaren parlamentarischen Handlungsdruck und beschleunigte die Finanzierung und Durchführung des neuen Abwassersystems.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9080",
+      "S9064"
+    ]
+  },
+  {
+    "id": "R9024",
+    "source_id": "E9063",
+    "target_id": "E0004",
+    "relationship_type": "reaction_to",
+    "strength": 4,
+    "confidence": "high",
+    "description": "Das Konzil formulierte katholische Lehrpositionen und Reformen auch als Antwort auf die Ausbreitung des Protestantismus. Innerkirchliche Reformanliegen bestanden daneben eigenständig.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9084"
+    ]
+  },
+  {
+    "id": "R9025",
+    "source_id": "E9064",
+    "target_id": "E9095",
+    "relationship_type": "inspired",
+    "strength": 3,
+    "confidence": "high",
+    "description": "Die amerikanische Unabhängigkeitserklärung war ein ausdrücklich benannter Bezugspunkt für die französische Rechteerklärung von 1789, neben aufklärerischen Ideen und eigenen politischen Konflikten.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9127"
+    ]
+  },
+  {
+    "id": "R9026",
+    "source_id": "E9067",
+    "target_id": "E0025",
+    "relationship_type": "contributed_to",
+    "strength": 4,
+    "confidence": "high",
+    "description": "Das Attentat eröffnete die Krise, in der Österreich-Ungarns Vorgehen gegen Serbien und die Entscheidungen weiterer Mächte zum Krieg führten. Es war Anlass, nicht hinreichende Gesamterklärung.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9152"
+    ]
+  },
+  {
+    "id": "R9027",
+    "source_id": "E9071",
+    "target_id": "E0038",
+    "relationship_type": "part_of",
+    "strength": 3,
+    "confidence": "high",
+    "description": "Die Konvention war ein früher nordamerikanischer Organisations- und Programmschritt der im Bestand ausdrücklich auch für Nordamerika beschriebenen Frauenrechts- und Wahlrechtsbewegung.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9094"
+    ]
+  },
+  {
+    "id": "R9028",
+    "source_id": "E9072",
+    "target_id": "E9073",
+    "relationship_type": "enabled",
+    "strength": 4,
+    "confidence": "high",
+    "description": "Das Gesetz ermöglichte die Vertragsstrategie der US-Regierung; der umstrittene Vertrag von New Echota und dessen Durchsetzung führten zur Cherokee-Deportation. Das Gesetz allein war noch kein Vollzugsbefehl.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9096",
+      "S9097"
+    ]
+  },
+  {
+    "id": "R9029",
+    "source_id": "E9070",
+    "target_id": "E9074",
+    "relationship_type": "contributed_to",
+    "strength": 4,
+    "confidence": "medium",
+    "description": "Im Zusammenhang mit der britischen Abschaffungsgesetzgebung sollte das mauritische Vertragsarbeitsexperiment von 1834 eine Alternative zur versklavten Plantagenarbeit schaffen. UNESCO stellt diesen Zweck ausdrücklich heraus. Die Verbindung bezeichnet den Umbau des kolonialen Arbeitssystems, nicht eine bereits überall abgeschlossene Emanzipation oder die Gleichheit beider Arbeitsregime.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9098"
+    ]
+  },
+  {
+    "id": "R9030",
+    "source_id": "E9075",
+    "target_id": "E0025",
+    "relationship_type": "reaction_to",
+    "strength": 3,
+    "confidence": "high",
+    "description": "Die Friedenskonferenz nach dem Ersten Weltkrieg institutionalisierte die internationale Arbeitsregelung im Versailler Vertrag. Ältere Reformbewegungen bildeten dafür eine weitere Voraussetzung.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9099"
+    ]
+  },
+  {
+    "id": "R9031",
+    "source_id": "E9016",
+    "target_id": "E9076",
+    "relationship_type": "contributed_to",
+    "strength": 3,
+    "confidence": "high",
+    "description": "Die nach 1868 geschaffene zentrale Bildungsverwaltung entwickelte den Gakusei. Die Verbindung bezeichnet eine konkrete staatliche Reformmaßnahme innerhalb der Meiji-Neuordnung.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9148",
+      "S9100"
+    ]
+  },
+  {
+    "id": "R9032",
+    "source_id": "E9083",
+    "target_id": "E0036",
+    "relationship_type": "part_of",
+    "strength": 4,
+    "confidence": "high",
+    "description": "Der Nachweis des Tuberkulosebakteriums mit spezifischen Laborverfahren war ein konkreter Beitrag zur bakteriellen Erklärung von Infektionskrankheiten im Zeitraum der erfassten Keimtheorie.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9110"
+    ]
+  },
+  {
+    "id": "R9033",
+    "source_id": "E0025",
+    "target_id": "E9085",
+    "relationship_type": "contributed_to",
+    "strength": 3,
+    "confidence": "medium",
+    "description": "Internationale Truppentransporte gehörten zu den Wegen der pandemischen Verbreitung. Die Beziehung erklärt weder den Ursprung des Virus noch alle Ausbreitungswege und Opferzahlen.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9113"
+    ]
+  },
+  {
+    "id": "R9034",
+    "source_id": "E9095",
+    "target_id": "E0008",
+    "relationship_type": "part_of",
+    "strength": 4,
+    "confidence": "high",
+    "description": "Die Erklärung wurde 1789 durch die verfassunggebende Nationalversammlung im Revolutionsprozess beschlossen und später der Verfassung von 1791 vorangestellt.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9127"
+    ]
+  },
+  {
+    "id": "R9035",
+    "source_id": "E0006",
+    "target_id": "E9095",
+    "relationship_type": "influenced",
+    "strength": 3,
+    "confidence": "high",
+    "description": "Aufklärerische Vorstellungen von Rechten und legitimer Herrschaft prägten die Erklärung, neben dem amerikanischen Vorbild und der konkreten französischen Umbruchsituation.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9127"
+    ]
+  },
+  {
+    "id": "R9036",
+    "source_id": "E0013",
+    "target_id": "E9098",
+    "relationship_type": "inspired",
+    "strength": 3,
+    "confidence": "high",
+    "description": "Darwins Darstellung von Auswahl und Züchtung regte Galton an, entsprechende Vorstellungen auf Menschen zu übertragen. Der historische Anstoß legitimiert weder Eugenik noch rassistische Rangordnungen.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9130"
+    ]
+  },
+  {
+    "id": "R9037",
+    "source_id": "E9100",
+    "target_id": "E0017",
+    "relationship_type": "influenced",
+    "strength": 4,
+    "confidence": "high",
+    "description": "Japanische Druckgrafik bot impressionistischen Künstlern konkrete Anregungen für Bildausschnitt, Blickwinkel und Komposition; ihre Reaktionen unterschieden sich und erklären nicht die gesamte Bewegung.",
+    "start_year": null,
+    "end_year": null,
+    "geography": [],
+    "source_ids": [
+      "S9133"
+    ]
   }
 ]

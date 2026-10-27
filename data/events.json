@@ -2116,5 +2116,2888 @@
     ],
     "confidence": "high",
     "notes": "Pilotimport: redaktionelle Prüfung und Abgleich gegen bereits vorhandene Ereignisse vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "E9027",
+    "title": "Newcomens atmosphärische Dampfmaschine entwässert Bergwerke",
+    "entry_type": "technical_innovation",
+    "start_year": 1712,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1712",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "energy"
+    ],
+    "topics": [
+      "energy",
+      "resources",
+      "technology"
+    ],
+    "geography": [
+      "England"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Thomas Newcomens atmosphärische Dampfmaschine wurde zur Entwässerung von Bergwerken eingesetzt. Sie erschloss tiefere Lagerstätten und verband den steigenden Kohlebedarf mit einer neuen, zunächst besonders im Bergbau nutzbaren Antriebstechnik.",
+    "long_description": "Wasser begrenzte die erreichbare Tiefe vieler Bergwerke. Newcomens seit 1712 eingesetzte Maschine bewegte eine Pumpe mithilfe eines Kolbens: Kondensierender Dampf erzeugte im Zylinder einen Unterdruck, sodass der äußere Luftdruck den Arbeitshub bewirkte. Die Anlage war deshalb keine moderne Hochdruckmaschine. Ihr erheblicher Brennstoffbedarf machte sie besonders dort brauchbar, wo billige Kohle unmittelbar verfügbar war. Der Einsatz erleichterte die Entwässerung und damit die weitere Rohstoffgewinnung. Newcomens Konstruktion bildet einen konkreten technischen Vorläufer der später von Watt verbesserten Dampfmaschine. Die Entwicklung zeigt eine Rückkopplung zwischen Bergbau und Energietechnik, ohne die gesamte Industrialisierung auf eine einzelne Erfindung zu reduzieren. Wasser- und andere Antriebe blieben daneben wichtig.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9036",
+      "S9037"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9028",
+    "title": "Abraham Darby verwendet Koks zur Roheisenerzeugung",
+    "entry_type": "technical_innovation",
+    "start_year": 1709,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1709",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "energy"
+    ],
+    "topics": [
+      "energy",
+      "production",
+      "resources"
+    ],
+    "geography": [
+      "Coalbrookdale",
+      "England"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Abraham Darby setzte in Coalbrookdale Koks im Hochofen ein. Damit entstand ein wichtiger Ansatz zur Nutzung von Steinkohle in der Eisenverhüttung, dessen breite wirtschaftliche Bedeutung sich erst schrittweise entwickelte.",
+    "long_description": "Die Eisenverhüttung benötigte große Brennstoffmengen. Darbys Einsatz von Koks im Jahr 1709 eröffnete eine Alternative zur Holzkohle und verband die Eisenproduktion enger mit den britischen Kohlevorkommen. Der Erfolg war zunächst an bestimmte Produkte und örtliche Bedingungen gebunden; daraus folgte keine sofortige Umstellung aller Hütten. In Coalbrookdale wurden später unter anderem Bauteile für Dampfmaschinen und eiserne Schienen hergestellt. Die Verbindung von mineralischem Brennstoff, Gießereitechnik und wachsender Nachfrage erklärt die Bedeutung des Verfahrens für die industrielle Entwicklung. Das Ereignis ist von der späteren Stahlherstellung zu unterscheiden: Koksverhüttung erzeugte zunächst Roheisen und löste nicht automatisch die Probleme der Weiterverarbeitung zu anderen Eisen- und Stahlqualitäten.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9038"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9029",
+    "title": "Die Iron Bridge wird fertiggestellt",
+    "entry_type": "event",
+    "start_year": 1779,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1779",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "transport"
+    ],
+    "topics": [
+      "technology",
+      "mobility",
+      "production"
+    ],
+    "geography": [
+      "Coalbrookdale",
+      "England"
+    ],
+    "scope": "local",
+    "importance": 4,
+    "short_description": "Die gusseiserne Brücke über den Severn wurde 1779 fertiggestellt und 1781 eröffnet. Sie machte die Möglichkeiten des Eisenbaus sichtbar und verband industrielle Fertigung mit einer neuen Form der Verkehrsinfrastruktur.",
+    "long_description": "Die Region um Coalbrookdale vereinte Kohlevorkommen, Eisenhütten und Verkehrswege. Beim Bau der Iron Bridge wurden große vorgefertigte Gusseisenteile zu einem Tragwerk zusammengesetzt. Abraham Darby III leitete die Ausführung; er ist vom gleichnamigen Großvater und dessen Koksverhüttung zu unterscheiden. Die Fertigstellung 1779 und die Verkehrsfreigabe 1781 bezeichnen verschiedene Etappen desselben Bauvorhabens. Das Bauwerk demonstrierte, dass Eisen über Maschinen und kleinere Bauteile hinaus als sichtbares Material der Infrastruktur dienen konnte. Es war zugleich ein regionales Verkehrsprojekt und ein öffentlich wahrgenommenes Beispiel industrieller Leistungsfähigkeit. Die spätere Eisen- und Glasarchitektur wird dadurch verständlicher, ohne dass eine direkte Einflusslinie zu jedem späteren Gebäude unterstellt werden muss.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9039"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9030",
+    "title": "Der Ten Hours Act begrenzt Fabrikarbeitszeiten",
+    "entry_type": "political_legal_change",
+    "start_year": 1847,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1847",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "work",
+      "rights",
+      "industrialisation"
+    ],
+    "geography": [
+      "United Kingdom"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Das britische Fabrikgesetz von 1847 begrenzte die Arbeitszeit von Frauen und Jugendlichen in Textilfabriken. Es ergänzte frühere Schutzgesetze, ohne einen allgemeinen Acht- oder Zehnstundentag für sämtliche Beschäftigten einzuführen.",
+    "long_description": "Die industrielle Textilproduktion beschäftigte Frauen, Männer und Kinder unter unterschiedlichen gesetzlichen Bedingungen. Nach den Regelungen von 1833 und weiteren Schutzmaßnahmen griff das Parlament 1847 erneut in die Arbeitsorganisation ein. Der sogenannte Ten Hours Act bezog sich insbesondere auf Frauen und junge Menschen zwischen dreizehn und achtzehn Jahren. Seine Reichweite muss deshalb von einem allgemeinen Arbeitszeitgesetz unterschieden werden. Die Reform dokumentiert den Ausbau staatlicher Verantwortung für Arbeitsbedingungen und zugleich dessen Grenzen nach Alter, Geschlecht und Branche. Für den Zeitstrahl ist sie eine sachliche Ergänzung zum bestehenden Factory Act von 1833. Der lange Konflikt über Arbeitszeit lässt sich nicht auf einen einzigen parlamentarischen Beschluss oder einen einzelnen sozialen Akteur reduzieren.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9040"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9031",
+    "title": "Pearl Street beginnt die elektrische Versorgung in New York",
+    "entry_type": "event",
+    "start_year": 1882,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1882",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "energy"
+    ],
+    "topics": [
+      "energy",
+      "urbanisation",
+      "technology"
+    ],
+    "geography": [
+      "New York",
+      "United States"
+    ],
+    "scope": "local",
+    "importance": 4,
+    "short_description": "Am 4. September 1882 nahm Edisons Kraftwerk an der Pearl Street die Versorgung für elektrische Glühlampen auf. Stromerzeugung, Leitungen und Beleuchtung wurden dabei als zusammenhängendes kommerzielles System organisiert.",
+    "long_description": "Elektrische Beleuchtung erforderte mehr als eine funktionierende Lampe. Edisons Mitarbeiter entwickelten auch Generatoren, Leitungen, Schalter und Sicherungen, damit ein örtliches Versorgungsnetz betrieben werden konnte. Die Pearl-Street-Anlage in Manhattan nahm 1882 den kommerziellen Betrieb auf und verband diese Bestandteile in einem städtischen System. Der Eintrag ergänzt die bereits erfasste Elektrifizierung durch einen räumlich und zeitlich konkreten Fall. Er ist kein Duplikat der ebenfalls 1882 entstandenen Londoner Anlage. Die frühe Versorgung erfasste zunächst einen begrenzten Kundenkreis; sie bedeutete noch keine flächendeckende Elektrifizierung aller Haushalte. Ihr historischer Stellenwert liegt in der Verbindung von technischer Entwicklung, Kapitalinvestition und dem Aufbau einer dauerhaft zu betreibenden Infrastruktur.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9041",
+      "S9042"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9032",
+    "title": "Drakes Ölbohrung bei Titusville erreicht Erdöl",
+    "entry_type": "event",
+    "start_year": 1859,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1859",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "energy"
+    ],
+    "topics": [
+      "energy",
+      "resources",
+      "production"
+    ],
+    "geography": [
+      "Pennsylvania",
+      "United States"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Edwin Drakes Bohrung bei Titusville erschloss 1859 Erdöl mit einer für die amerikanische Ölindustrie wichtigen Bohrtechnik. Die anfängliche Nachfrage richtete sich vor allem auf Beleuchtungsöl, noch nicht auf Automobiltreibstoff.",
+    "long_description": "Am 27. August 1859 erreichte Drakes Bohrung in Pennsylvania ein nutzbares Erdölvorkommen. Der Versuch gehört zur Entstehung einer expandierenden amerikanischen Ölindustrie, darf aber nicht als Beginn jeglicher weltweiter Erdölgewinnung dargestellt werden. Erdöl war andernorts bereits bekannt und genutzt worden. Für die frühe industrielle Nachfrage war die Herstellung von Kerosin zur Beleuchtung wesentlich. Erst weitere technische und wirtschaftliche Veränderungen machten andere Fraktionen zu zentralen Treibstoffen. Der Eintrag ergänzt den bestehenden Verbrennungsmotor um die Rohstoffseite der späteren fossilen Mobilität. Zwischen Förderung, Raffination und Nutzung liegen eigenständige Entwicklungsschritte; eine direkte Ursache-Wirkungs-Kante zur konkreten Motorentwicklung von 1876 wird deshalb ohne zusätzlichen Beleg nicht angelegt.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9043"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9033",
+    "title": "Das staatliche Stahlwerk Yawata nimmt den Betrieb auf",
+    "entry_type": "event",
+    "start_year": 1901,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1901",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "production"
+    ],
+    "topics": [
+      "industrialisation",
+      "production",
+      "state"
+    ],
+    "geography": [
+      "Japan"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Das staatliche Stahlwerk Yawata nahm 1901 den Betrieb auf. Es verband ausländisches technisches Wissen, staatliche Finanzierung und integrierte Eisen- und Stahlproduktion innerhalb der industriellen Transformation Japans nach der Meiji-Restauration.",
+    "long_description": "Der Ausbau der japanischen Industrie erforderte eine größere heimische Eisen- und Stahlproduktion. Die Bauarbeiten am staatlichen Werk Yawata begannen 1897 unter Beteiligung deutscher Fachleute; 1901 folgte der Betriebsbeginn. Nach Darstellung der National Diet Library trugen Reparationen aus dem chinesisch-japanischen Krieg zur Finanzierung bei. Damit verknüpft das Werk industrielle Entwicklung mit staatlicher Macht und internationalen Beziehungen. Es ist ein konkreter späterer Bestandteil der Neuordnung seit der Meiji-Zeit, kein Ersatz für das bereits vorhandene Ereignis von 1868. Der Fall zeigt außerdem, dass technischer Wissenstransfer durch örtliche Organisation, Infrastruktur und staatliche Entscheidungen wirksam wurde. Die bloße Übernahme einer Maschine erklärt den Aufbau eines integrierten Hüttenwerks nicht.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9044"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9034",
+    "title": "Brasilien gründet die Companhia Siderúrgica Nacional",
+    "entry_type": "process",
+    "start_year": 1941,
+    "end_year": 1946,
+    "date_precision": "exact",
+    "date_label": "1941–1946",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "production"
+    ],
+    "topics": [
+      "industrialisation",
+      "production",
+      "state"
+    ],
+    "geography": [
+      "Brazil"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Die 1941 gegründete Companhia Siderúrgica Nacional baute in Volta Redonda ein integriertes Stahlwerk auf, dessen Produktion 1946 begann. Das Vorhaben steht für staatlich unterstützte Schwerindustrialisierung in einer zuvor stark exportorientierten Wirtschaft.",
+    "long_description": "Brasiliens industrielle Entwicklung umfasste neben exportbezogenen Wirtschaftsbereichen den Aufbau einer eigenen Grundstoffindustrie. Die Gründung der Companhia Siderúrgica Nacional am 9. April 1941 und der Produktionsbeginn in Volta Redonda 1946 markieren unterschiedliche Phasen dieses Vorhabens. Das Unternehmen war als gemischtwirtschaftliche Gesellschaft organisiert und verband Stahlherstellung mit der Versorgung durch Rohstoffe. Der Prozess veranschaulicht eine aktive Rolle des Staates bei der Schaffung großer industrieller Kapazitäten. Er ersetzt keine Gesamtgeschichte der lateinamerikanischen Exportwirtschaft: Kaffee, Bergbau und andere regionale Produktionsformen bleiben eigenständige Themen. Für den Zeitstrahl liefert das Projekt einen präzisen brasilianischen Gegenpol zu europäischen Industrialisierungsbeispielen und zeigt, dass Industrialisierung im zwanzigsten Jahrhundert unterschiedliche institutionelle Wege nahm.",
+    "persons": [],
+    "institutions": [
+      "I0003"
+    ],
+    "source_ids": [
+      "S9045",
+      "S9046"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9035",
+    "title": "Portugiesische Seefahrt tritt in die Handelsnetze des Indischen Ozeans ein",
+    "entry_type": "process",
+    "start_year": 1497,
+    "end_year": 1510,
+    "date_precision": "approximate",
+    "date_label": "ca. 1497–1510",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "transport"
+    ],
+    "topics": [
+      "trade",
+      "mobility",
+      "state"
+    ],
+    "geography": [
+      "Indian Ocean",
+      "Portugal",
+      "India"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Portugiesische Seefahrer erreichten seit 1497/98 die bestehenden Handelsnetze des Indischen Ozeans. Stützpunkte und militärische Gewalt erweiterten ihren Einfluss, ohne die lange etablierten asiatischen und afrikanischen Handelsverbindungen vollständig zu verdrängen.",
+    "long_description": "Der Indische Ozean war vor der portugiesischen Ankunft ein weit verknüpfter Wirtschaftsraum. Händler und Küstengesellschaften verbanden Afrika, Arabien, Südasien und Südostasien. Die Fahrt um Afrika eröffnete den Portugiesen einen direkten Seezugang zu diesen Netzen. In der folgenden Phase errichteten sie befestigte Stützpunkte und entwickelten einen politisch-militärischen Handelsapparat, dessen Zentrum Goa wurde. Die zeitliche Begrenzung bezeichnet hier die frühe Eintritts- und Etablierungsphase, nicht das Ende portugiesischer Präsenz. Ein vollständiges Monopol erreichten die Portugiesen nicht. Der Eintrag stellt deshalb Begegnung, Konkurrenz und gewaltsame Eingriffe in bereits bestehende Systeme heraus. Er vermeidet die Vorstellung, europäische Ankunft habe den Handel im Indischen Ozean erst geschaffen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9047"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9036",
+    "title": "Atlantische Verbindungen setzen den Columbian Exchange in Gang",
+    "entry_type": "process",
+    "start_year": 1492,
+    "end_year": 1600,
+    "date_precision": "approximate",
+    "date_label": "ca. 1492–1600",
+    "primary_discipline": "environment_nature",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "ecology"
+    ],
+    "topics": [
+      "trade",
+      "health",
+      "nature",
+      "mobility"
+    ],
+    "geography": [
+      "Americas",
+      "Europe",
+      "Africa"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Die dauerhaften atlantischen Verbindungen seit 1492 verbreiteten Pflanzen, Tiere und Krankheitserreger zwischen zuvor weitgehend getrennten Lebensräumen. Dieser Austausch veränderte Landwirtschaft und Ernährung und hatte besonders für indigene Bevölkerungen katastrophale gesundheitliche Folgen.",
+    "long_description": "Mit den transatlantischen Fahrten entstanden dauerhafte Wege für Menschen, Nutzpflanzen, Haustiere und Krankheitserreger. Der Begriff Columbian Exchange bezeichnet diese biologischen Transfers und nicht nur den Austausch von Handelswaren. Die Folgen waren ungleich verteilt: Neue Nahrungsmittel konnten Anbaumöglichkeiten erweitern, während eingeführte Krankheiten in den Amerikas schwere Bevölkerungsverluste verursachten. Koloniale Gewalt und Veränderungen der Lebensbedingungen wirkten mit diesen biologischen Prozessen zusammen. Die hier gewählte Zeitspanne bildet die frühe Phase bis 1600 ab; die Transfers endeten keineswegs in diesem Jahr. Der Eintrag schafft einen übergreifenden Zusammenhang für konkrete Epidemien und Agrarveränderungen. Er erklärt weder sämtliche demografischen Entwicklungen allein durch Krankheiten noch setzt er biologische und politische Prozesse gleich.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9048",
+      "S9049"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9037",
+    "title": "Der 13. Verfassungszusatz schafft Sklaverei in den USA ab",
+    "entry_type": "political_legal_change",
+    "start_year": 1865,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1865",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "work",
+      "state"
+    ],
+    "geography": [
+      "United States"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Der 1865 ratifizierte 13. Verfassungszusatz verbot Sklaverei und unfreiwillige Dienstbarkeit in den Vereinigten Staaten. Er enthielt jedoch eine Ausnahme für gerichtlich verhängte Strafen und beseitigte rassistische Herrschaftsverhältnisse nicht automatisch.",
+    "long_description": "Der Kongress verabschiedete den Verfassungszusatz am 31. Januar 1865; die erforderliche Ratifikation war am 6. Dezember erreicht. Anders als die auf aufständische Gebiete bezogene Emanzipationsproklamation setzte er ein verfassungsrechtliches Verbot der Sklaverei für die Vereinigten Staaten. Seine Formulierung nahm Zwangsarbeit als Strafe nach einer Verurteilung ausdrücklich aus. Rechtliche Abschaffung und tatsächliche Gleichberechtigung müssen deshalb analytisch getrennt werden. Der Eintrag ergänzt die bereits erfassten transatlantischen Entwicklungen durch den amerikanischen Verfassungsbruch mit der Sklaverei. Er behauptet weder ein Ende aller Zwangsarbeit noch einen unmittelbaren Ausgleich der wirtschaftlichen und politischen Machtverhältnisse. Die weiteren Kämpfe um Bürgerrechte und die Entwicklung rassistischer Strafarbeitsregime bleiben gesondert zu untersuchen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9050"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9038",
+    "title": "Saint-Domingues Zucker- und Kaffeeplantagen expandieren",
+    "entry_type": "process",
+    "start_year": 1700,
+    "end_year": 1791,
+    "date_precision": "approximate",
+    "date_label": "ca. 1700–1791",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "trade"
+    ],
+    "topics": [
+      "production",
+      "trade",
+      "work"
+    ],
+    "geography": [
+      "Saint-Domingue",
+      "Haiti",
+      "Atlantic"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Die französische Kolonie Saint-Domingue wurde im achtzehnten Jahrhundert ein bedeutendes Zentrum des Zucker- und Kaffeeexports. Ihre Plantagenwirtschaft beruhte auf der Verschleppung und gewaltsamen Ausbeutung versklavter Menschen aus Afrika.",
+    "long_description": "Die Plantagen von Saint-Domingue produzierten für überseeische Märkte. Zuckeranbau in den Ebenen und Kaffeeproduktion in bergigen Gebieten verbanden unterschiedliche Landschaften mit europäischen Konsummärkten. Der Arbeitskräftebedarf wurde durch den transatlantischen Menschenhandel gedeckt, während hohe Sterblichkeit und Gewalt das System prägten. Das wirtschaftliche Wachstum war deshalb nicht von den Bedingungen der Versklavung zu trennen. Der Zeitraum beschreibt die Expansion im achtzehnten Jahrhundert bis zum Beginn des großen Aufstands von 1791; die Endpunkte sind eine redaktionelle Eingrenzung. Die folgende Haitianische Revolution ist bereits als eigener Datensatz vorhanden. Der neue Prozesseintrag erläutert ihre soziale und wirtschaftliche Ausgangslage, ohne die Revolution allein als automatische Folge einer Wirtschaftsstruktur darzustellen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9051"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9039",
+    "title": "Die Ostindienkompanie siegt bei Plassey",
+    "entry_type": "event",
+    "start_year": 1757,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1757",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "war",
+      "trade",
+      "state"
+    ],
+    "geography": [
+      "Bengal",
+      "India"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Der Sieg der britischen Ostindienkompanie bei Plassey 1757 stärkte ihren Zugriff auf Bengalens Ressourcen. Militärische Gewalt und Bündnisse mit lokalen Machtträgern förderten den Übergang einer Handelsgesellschaft zu territorialer Herrschaft.",
+    "long_description": "Am 23. Juni 1757 trafen die Truppen der Ostindienkompanie unter Robert Clive auf die Armee des Nawabs Siraj ud-Daula. Entscheidend waren neben dem Kampfgeschehen politische Absprachen und der Seitenwechsel beziehungsweise die Zurückhaltung wichtiger Gegner, insbesondere Mir Jafars. Der Sieg verschaffte der Kompanie Zugang zu erheblichen finanziellen Ressourcen und erleichterte den weiteren Ausbau ihrer militärischen Macht. Er bedeutete jedoch nicht die sofortige vollständige Eroberung des indischen Subkontinents. Der Eintrag macht die Verknüpfung von Handelsinteressen, einheimischen Konflikten und kolonialer Expansion sichtbar. Damit ergänzt er die vorhandenen späteren Beispiele britisch-indischer Infrastruktur und des Opiumhandels um eine frühere Verschiebung politischer und wirtschaftlicher Macht.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9052",
+      "S9053"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9040",
+    "title": "Die VOC unterwirft die Banda-Inseln gewaltsam",
+    "entry_type": "event",
+    "start_year": 1621,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1621",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "war",
+      "trade",
+      "work",
+      "resources"
+    ],
+    "geography": [
+      "Banda Islands",
+      "Indonesia"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Die niederländische Ostindienkompanie unter Jan Pieterszoon Coen setzte 1621 ihren Anspruch auf den Muskatnusshandel mit massiver Gewalt durch. Tötungen, Vertreibung und Versklavung zerstörten große Teile der bestehenden Gesellschaft auf Banda.",
+    "long_description": "Die Banda-Inseln waren ein bedeutendes Herkunftsgebiet von Muskatnuss und Muskatblüte. Die VOC versuchte, diesen Handel zu kontrollieren und konkurrierende Verbindungen auszuschalten. Unter Coen führte sie 1621 einen militärischen Feldzug durch, der mit Massentötungen, Vertreibungen und Versklavung einherging. Die anschließende koloniale Produktionsordnung beruhte auf der gewaltsamen Umgestaltung von Landbesitz und Arbeit. Die Quellenlage verlangt Zurückhaltung bei exakten Opferzahlen; ebenso ist die Behauptung, sämtliche Bandanesen seien getötet worden, unzutreffend. Überlebende und außerhalb des eroberten Gebiets fortbestehende Gemeinschaften gehören zur Geschichte. Der Eintrag verbindet Handelskompanien mit Rohstoffmonopolen und kolonialer Gewalt, ohne dieses Modell ungeprüft auf alle asiatischen Handelsräume zu übertragen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9054",
+      "S9055"
+    ],
+    "confidence": "high",
+    "notes": "Opferzahlen werden wegen unterschiedlicher Schätzungen nicht quantifiziert."
+  },
+  {
+    "id": "E9041",
+    "title": "Der Vertrag von Nanjing beendet den Ersten Opiumkrieg",
+    "entry_type": "political_legal_change",
+    "start_year": 1842,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1842",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "trade",
+      "war",
+      "state"
+    ],
+    "geography": [
+      "China",
+      "United Kingdom"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Der Vertrag von Nanjing vom 29. August 1842 beendete den Ersten Opiumkrieg. Er öffnete mehrere Häfen für britischen Handel, übertrug Hongkong an Großbritannien und verpflichtete die Qing-Regierung zu Zahlungen.",
+    "long_description": "Der britische militärische Erfolg im Ersten Opiumkrieg führte zu einem Vertrag unter ungleichen Machtbedingungen. Die Vereinbarung von Nanjing regelte unter anderem die Öffnung von fünf Häfen, die britische Herrschaft über Hongkong und finanzielle Entschädigungen. Sie veränderte damit die institutionellen Bedingungen des Außenhandels in China. Der Vertrag ist vom bereits vorhandenen Kriegseintrag zu unterscheiden: Hier stehen die rechtlichen und handelspolitischen Ergebnisse im Mittelpunkt. Nicht alle später mit dem Vertragssystem verbundenen Privilegien wurden schon in diesem Dokument vollständig geregelt. Auch eine umfassende Legalisierung des Opiumhandels sollte ihm nicht zugeschrieben werden. Der Eintrag schafft einen konkreten Anschluss zwischen militärischem Zwang und der Neuordnung wirtschaftlicher Zugangsrechte.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9056",
+      "S9057",
+      "S9008"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9042",
+    "title": "Äthiopien besiegt Italien bei Adwa",
+    "entry_type": "event",
+    "start_year": 1896,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1896",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "war",
+      "state",
+      "rights"
+    ],
+    "geography": [
+      "Ethiopia",
+      "Italy"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Der äthiopische Sieg über Italien bei Adwa 1896 verhinderte die geplante koloniale Unterwerfung. Er zeigt afrikanische politische und militärische Handlungsfähigkeit innerhalb der europäischen Expansion des späten neunzehnten Jahrhunderts.",
+    "long_description": "Italien versuchte, seinen Einfluss am Horn von Afrika in eine Herrschaft über Äthiopien auszuweiten. Die äthiopischen Streitkräfte besiegten das italienische Heer 1896 bei Adwa und sicherten die Unabhängigkeit des Landes gegenüber diesem Eroberungsversuch. Der Ausgang widerspricht einer Darstellung der kolonialen Aufteilung Afrikas als zwangsläufigem oder überall erfolgreichem Prozess. Er ergänzt die vorhandene Berliner Konferenz durch ein Ereignis, in dem afrikanische Akteure selbst über die politische Entwicklung entschieden. Zwischen der Konferenz und der konkreten Schlacht wird keine unmittelbare Ursache-Wirkungs-Beziehung behauptet. Auch der Erfolg von 1896 bedeutete keinen dauerhaften Schutz vor späteren Angriffen; die italienische Invasion in den 1930er Jahren gehört zu einer anderen historischen Konstellation.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9058"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9043",
+    "title": "Der Salzmarsch eröffnet eine neue Phase zivilen Ungehorsams in Indien",
+    "entry_type": "event",
+    "start_year": 1930,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1930",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "state",
+      "resources"
+    ],
+    "geography": [
+      "India"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Gandhis Salzmarsch von März bis April 1930 richtete sich gegen das britische Salzmonopol. Der öffentlich inszenierte Regelverstoß verband eine alltägliche wirtschaftliche Belastung mit dem politischen Kampf gegen koloniale Herrschaft.",
+    "long_description": "Am 12. März 1930 begann Gandhi den Marsch nach Dandi; Anfang April wurde dort durch die Gewinnung von Salz das koloniale Verbot herausgefordert. Salz eignete sich als Gegenstand des Protests, weil seine Besteuerung breite Teile der Bevölkerung betraf. Die Aktion war Teil einer größeren Kampagne des zivilen Ungehorsams und wurde von weiteren Protesten und Verhaftungen begleitet. Sie macht antikoloniale Mobilisierung als organisatorische und kommunikative Leistung sichtbar. Der Eintrag behauptet nicht, der Marsch allein habe die indische Unabhängigkeit herbeigeführt. Er ergänzt vielmehr die Wirtschafts- und Textilthemen um eine andere Verbindung zwischen Alltagskonsum, staatlichen Einnahmen und politischem Widerstand gegen die britische Kolonialordnung.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9059",
+      "S9060"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9044",
+    "title": "Carlowitz veröffentlicht die Sylvicultura oeconomica",
+    "entry_type": "work_publication",
+    "start_year": 1713,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1713",
+    "primary_discipline": "environment_nature",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "ecology"
+    ],
+    "topics": [
+      "resources",
+      "nature",
+      "knowledge"
+    ],
+    "geography": [
+      "Saxony",
+      "Germany"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Hans Carl von Carlowitz behandelte 1713 die dauerhafte Bereitstellung von Holz in der Sylvicultura oeconomica. Sein forstwirtschaftlicher Ansatz verband Ressourcensicherung mit dem Bedarf einer auf Holz angewiesenen Wirtschaft.",
+    "long_description": "Holz war zugleich Brennstoff, Baumaterial und eine wesentliche Voraussetzung vieler gewerblicher Tätigkeiten. Carlowitz stellte in seiner 1713 in Leipzig erschienenen Schrift die Frage, wie seine Nutzung langfristig gesichert werden könne. Der heute häufig mit Nachhaltigkeit verbundene Ansatz bezog sich auf konkrete forstwirtschaftliche Probleme und auf die Erhaltung nutzbarer Holzbestände. Er sollte deshalb nicht ohne Erklärung mit sämtlichen späteren ökologischen oder sozialen Nachhaltigkeitskonzepten gleichgesetzt werden. Der Eintrag zeigt ein frühes Beispiel systematischer Ressourcenplanung innerhalb einer von wirtschaftlichem Bedarf geprägten Umweltbeziehung. Er ergänzt den Naturschutz des neunzehnten Jahrhunderts um eine ältere, stärker auf Bewirtschaftung gerichtete Tradition, ohne eine direkte institutionelle Abstammung zu unterstellen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9061",
+      "S9062"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9045",
+    "title": "Der Silberbergbau von Potosí entwickelt sich zum kolonialen Zentrum",
+    "entry_type": "process",
+    "start_year": 1545,
+    "end_year": 1650,
+    "date_precision": "approximate",
+    "date_label": "ca. 1545–1650",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "trade"
+    ],
+    "topics": [
+      "resources",
+      "work",
+      "trade",
+      "nature"
+    ],
+    "geography": [
+      "Potosí",
+      "Bolivia"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Seit 1545 entwickelte sich Potosí zu einem zentralen Ort kolonialer Silbergewinnung. Bergbau, Wasseranlagen und Verarbeitung verbanden die Anden mit weiträumigen Wirtschaftsbeziehungen und gingen mit erheblichen Eingriffen in Arbeit und Landschaft einher.",
+    "long_description": "Die Ausbeutung der Silbervorkommen am Cerro Rico führte zum Wachstum eines umfangreichen Bergbau- und Siedlungskomplexes. Zur Aufbereitung des Erzes gehörten technische Anlagen und ein System künstlicher Seen zur Wasserversorgung. Die koloniale Produktion beruhte nicht allein auf dem Vorhandensein eines reichen Vorkommens, sondern auch auf organisierter Arbeit und Eingriffen in die Umgebung. Potosí macht deshalb die Verbindung von Ressourcen, Herrschaft und Infrastruktur anschaulich. Der ausgewählte Zeitraum beschreibt die frühe Entfaltung des Zentrums und nicht das Ende des Bergbaus. Für genaue Aussagen über Zwangsarbeit, Quecksilberbelastung und langfristige ökologische Folgen sind vertiefende Spezialstudien nötig; entsprechende quantitative Behauptungen werden hier nicht aus dem Welterbe-Kurztext abgeleitet.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9063"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9046",
+    "title": "Londons Great Stink erhöht den Druck zur Abwasserreform",
+    "entry_type": "event",
+    "start_year": 1858,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1858",
+    "primary_discipline": "environment_nature",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "ecology"
+    ],
+    "topics": [
+      "health",
+      "urbanisation",
+      "nature"
+    ],
+    "geography": [
+      "London",
+      "United Kingdom"
+    ],
+    "scope": "local",
+    "importance": 4,
+    "short_description": "Im heißen Sommer 1858 machte der extreme Gestank der verschmutzten Themse Londons Entsorgungsprobleme politisch unausweichlich. Die Krise beschleunigte die Entscheidung für eine umfassendere Kanalisation unter Joseph Bazalgette.",
+    "long_description": "Londons Bevölkerungswachstum hatte die vorhandenen Formen der Abfall- und Abwasserentsorgung überfordert. Haushaltsabwässer und gewerbliche Abfälle gelangten in die Themse, die zugleich für die Wasserversorgung genutzt wurde. Hitze und niedriger Wasserstand verschärften 1858 die Geruchsbelastung. Weil auch das Parlament unmittelbar betroffen war, erhielt die Infrastrukturfrage zusätzlichen politischen Druck. Die Reaktion beruhte noch stark auf der Vorstellung schädlicher Ausdünstungen; sie war nicht einfach die direkte Umsetzung einer bereits allgemein anerkannten Keimtheorie. Der Eintrag unterscheidet deshalb zwischen damaliger Erklärung und tatsächlicher Bedeutung hygienischer Maßnahmen. Er schafft einen konkreten Ausgangspunkt für den Ausbau der Londoner Kanalisation und ergänzt die bereits erfasste Cholerauntersuchung John Snows.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9064"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9047",
+    "title": "Der Hoover-Damm wird gebaut und in Betrieb genommen",
+    "entry_type": "process",
+    "start_year": 1931,
+    "end_year": 1936,
+    "date_precision": "exact",
+    "date_label": "1931–1936",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "energy"
+    ],
+    "topics": [
+      "energy",
+      "resources",
+      "nature",
+      "state"
+    ],
+    "geography": [
+      "Colorado River",
+      "United States"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Der Hoover-Damm verband Flussregulierung, Wasserspeicherung und Stromerzeugung im Südwesten der USA. Zwischen Baubeginn 1931, Aufstauung und Einweihung 1935 sowie Stromproduktion 1936 lagen mehrere eigenständige Projektphasen.",
+    "long_description": "Das Boulder-Canyon-Projekt sollte den Colorado River kontrollieren und Wasser sowie elektrische Energie für eine wachsende Region bereitstellen. Nach der Auftragsvergabe 1931 wurde der Fluss umgeleitet und ab 1933 der Damm betoniert. 1935 begann die Aufstauung des Lake Mead; im selben Jahr fand die Einweihung statt. Der erste Generator nahm 1936 den regulären Betrieb auf. Diese Daten dürfen nicht zu einem einzigen vermeintlichen Eröffnungstermin verschmolzen werden. Das Bauwerk verband staatliche Planung, große Bauunternehmen und Verträge über den Stromabsatz. Es zeigt, wie Flüsse in technisch organisierte Versorgungsräume umgewandelt wurden. Die offizielle Baugeschichte belegt diese Funktionen, ersetzt jedoch keine Untersuchung der ökologischen und sozialen Kosten.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9065",
+      "S9066"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9048",
+    "title": "Huaynaputina bricht aus; 1601 folgt eine markante Abkühlung",
+    "entry_type": "natural_environmental_event",
+    "start_year": 1600,
+    "end_year": 1601,
+    "date_precision": "exact",
+    "date_label": "1600–1601",
+    "primary_discipline": "environment_nature",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "climate_history"
+    ],
+    "topics": [
+      "climate",
+      "nature",
+      "health"
+    ],
+    "geography": [
+      "Peru",
+      "China",
+      "Korea"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Der Ausbruch des Huaynaputina in Peru 1600 wird mit der starken Abkühlung von 1601 in Verbindung gebracht. Historische und naturwissenschaftliche Befunde zeigen regionale Folgen; direkte Erklärungen einzelner Epidemien bleiben unsicher.",
+    "long_description": "Der große Vulkanausbruch in den Anden setzte Material und Gase frei, die das Klimasystem beeinflussen konnten. Eine Untersuchung zu China und Korea vergleicht historische Berichte mit Baumringdaten und findet Hinweise auf außergewöhnliche Kälte im Folgejahr. Sie diskutiert außerdem zeitgleiche Epidemien. Die zeitliche Übereinstimmung allein beweist jedoch nicht deren unmittelbare Verursachung durch den Vulkan. Der Eintrag trennt deshalb die gut belegte Eruption von weiterreichenden Deutungen ihrer gesellschaftlichen Folgen. Innerhalb der Kleinen Eiszeit veranschaulicht er einen kurzfristigen Impuls, nicht die Erklärung der gesamten mehrhundertjährigen Klimaphase. Eine eigene Kausalverbindung vom Ausbruch zur Kleinen Eiszeit wird folglich nicht angelegt; regionale Wirkungsunterschiede bleiben ausdrücklich bestehen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9067"
+    ],
+    "confidence": "medium",
+    "notes": "Klimafolgen und Epidemien sind nicht gleich sicher belegt; keine monokausale Epidemieerklärung."
+  },
+  {
+    "id": "E9049",
+    "title": "Dürre und Hungersnot treffen Teile Indiens",
+    "entry_type": "process",
+    "start_year": 1876,
+    "end_year": 1878,
+    "date_precision": "exact",
+    "date_label": "1876–1878",
+    "primary_discipline": "environment_nature",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "climate_history"
+    ],
+    "topics": [
+      "climate",
+      "health",
+      "resources"
+    ],
+    "geography": [
+      "India"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Monsunausfälle und Bodenfeuchtedefizite begleiteten die indische Hungerkrise von 1876–1878. Klimatische Auslöser wirkten mit unzureichender Versorgung und kolonialen Rahmenbedingungen zusammen; Dürre allein erklärt das Ausmaß menschlicher Verluste nicht.",
+    "long_description": "Die Rekonstruktion historischer Bodenfeuchte durch Mishra und Mitautoren weist für die 1870er Jahre erhebliche Dürrebelastungen nach. Dabei unterschieden sich Beginn und Ausdehnung der regionalen Krisen: Die Verhältnisse von 1876 lassen sich nicht einfach mit dem starken El Niño des Folgejahres gleichsetzen. Ernteverluste beeinträchtigten Nahrung und Einkommen. Ob daraus eine tödliche Hungersnot entstand, hing zusätzlich von Hilfsmaßnahmen, Verteilung und wirtschaftlicher Verwundbarkeit ab. Der Eintrag behandelt deshalb ein Zusammenwirken von Klima und Gesellschaft. Er bildet weder alle gleichzeitigen Weltregionen ab noch setzt er meteorologische Trockenheit mit Hunger gleich. Vergleichende Fälle wirksamer Hilfe zeigen, weshalb die politischen Bedingungen für die Interpretation unverzichtbar sind.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9068",
+      "S9150"
+    ],
+    "confidence": "high",
+    "notes": "Regionale Dürrephasen und ENSO nicht zu einer einzigen gleichförmigen Ursache zusammenziehen."
+  },
+  {
+    "id": "E9050",
+    "title": "Yellowstone wird zum Nationalpark erklärt",
+    "entry_type": "political_legal_change",
+    "start_year": 1872,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1872",
+    "primary_discipline": "environment_nature",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "ecology"
+    ],
+    "topics": [
+      "nature",
+      "state",
+      "rights"
+    ],
+    "geography": [
+      "Yellowstone",
+      "United States"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Die USA erklärten Yellowstone 1872 zum Nationalpark. Das Schutzgebiet entstand in einer seit Jahrtausenden von indigenen Menschen genutzten Landschaft und verband Naturbewahrung mit staatlicher Kontrolle über Raum und Nutzung.",
+    "long_description": "Der Kongress beschloss die Einrichtung des Nationalparks; Präsident Grant unterzeichnete das Gesetz am 1. März 1872. Expeditionen und öffentlich verbreitete Darstellungen der Landschaft unterstützten das Vorhaben. Die Nationalparkgründung war ein bedeutender institutioneller Schritt der Schutzgebietsgeschichte, aber keine Bewahrung menschenleerer Wildnis. Der National Park Service dokumentiert eine sehr lange indigene Präsenz und spätere Konflikte um die Nutzung der Region. Die Parkgeschichte muss deshalb Naturschutz und Landrechte gemeinsam betrachten. Der Eintrag ergänzt die bestehende Naturschutzbewegung durch eine konkrete gesetzliche Einrichtung. Er vermeidet die Annahme, die Gründung habe alle Schutzprobleme gelöst oder sei ohne soziale Folgen für frühere Nutzerinnen und Nutzer geblieben.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9069",
+      "S9070",
+      "S9071"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9051",
+    "title": "Die Dust Bowl verschärft die Bodenerosion der Great Plains",
+    "entry_type": "process",
+    "start_year": 1930,
+    "end_year": 1939,
+    "date_precision": "decade",
+    "date_label": "1930–1939",
+    "primary_discipline": "environment_nature",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "climate_history"
+    ],
+    "topics": [
+      "climate",
+      "nature",
+      "production"
+    ],
+    "geography": [
+      "Great Plains",
+      "United States"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Dürre und die Störung schützender Vegetation machten Teile der Great Plains in den 1930er Jahren besonders erosionsanfällig. Staubstürme zerstörten Böden und verstärkten die Forderung nach staatlicher Bodenschutzpolitik.",
+    "long_description": "Die Dust Bowl bezeichnet eine mehrjährige Umwelt- und Landwirtschaftskrise, nicht einen einzelnen Sturm. Die Umwandlung von Grasland in Ackerflächen erhöhte die Anfälligkeit trockener Böden für Winderosion. Unter ausgeprägten Dürrebedingungen wurden große Mengen Boden verfrachtet, wodurch die landwirtschaftlichen Lebensgrundlagen weiter geschädigt wurden. Das Zusammenwirken von Nutzung und Klima ist entscheidend: Weder Dürre noch Bewirtschaftung allein erklären den gesamten Verlauf. Die Krise trug zum Ausbau bundesstaatlicher Bodenschutzprogramme bei. Der Zeitraum der 1930er Jahre ist eine bewusste zusammenfassende Abgrenzung regional unterschiedlicher Entwicklungen. Konkrete Flächen- oder Opferzahlen werden nicht ohne zusätzliche Prüfung angegeben. Der Fall verbindet Agrargeschichte, Umweltveränderung und staatliche Reaktion in einem nachvollziehbaren historischen Zusammenhang.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9072"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9052",
+    "title": "Die USA schaffen den Soil Conservation Service",
+    "entry_type": "institution",
+    "start_year": 1935,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1935",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "nature",
+      "state",
+      "production"
+    ],
+    "geography": [
+      "United States"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Der Soil Conservation Act von 1935 schuf eine dauerhafte bundesstaatliche Einrichtung für Bodenschutz. Die Reform reagierte auf sichtbar gewordene Erosionsschäden und führte frühere Programme in einer beständigeren Organisation fort.",
+    "long_description": "Am 27. April 1935 wurde die gesetzliche Grundlage für den Soil Conservation Service geschaffen. Bereits seit 1933 hatte ein Soil Erosion Service versucht, Schäden zu erfassen und Schutzmaßnahmen zu fördern. Die neue Einrichtung verstetigte diese Arbeit während der Dust-Bowl-Krise. Sie kennzeichnet den Übergang von zeitlich begrenzter Hilfe zu einer dauerhafteren staatlichen Aufgabe. Der Eintrag ist von der Umweltkrise selbst getrennt: Er erfasst die institutionelle Antwort, nicht ein weiteres Naturereignis. Die historische Verbindung ist durch die eigene Darstellung der heutigen Nachfolgebehörde belegt.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9073"
+    ],
+    "confidence": "high",
+    "notes": "Knapper institutioneller Eintrag; Aufgabenentwicklung nach 1935 nicht ausformuliert."
+  },
+  {
+    "id": "E9053",
+    "title": "Parlamentarische Einhegungen verändern Englands Agrarlandschaft",
+    "entry_type": "process",
+    "start_year": 1750,
+    "end_year": 1850,
+    "date_precision": "approximate",
+    "date_label": "ca. 1750–1850",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "production",
+      "work"
+    ],
+    "geography": [
+      "England"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Parlamentarisch genehmigte Einhegungen ordneten im achtzehnten und neunzehnten Jahrhundert Landnutzung und Besitzrechte neu. Gemeinsam genutzte Flächen wurden stärker aufgeteilt; Produktivitätsgewinne und soziale Folgen sind historisch unterschiedlich zu bewerten.",
+    "long_description": "Einhegungen gab es lange vor der industriellen Revolution. Seit der Mitte des achtzehnten Jahrhunderts wurde die Genehmigung durch Parlamentsakte jedoch besonders wichtig. Verstreute Nutzungsrechte und offene Felder wichen zusammenhängenderen, abgegrenzten Flächen. Eigentümer und Pächter konnten dadurch andere Bewirtschaftungsformen verfolgen, während weniger begüterte Nutzer Rechte oder Zugangsmöglichkeiten verloren. Das Ausmaß, in dem Einhegungen unmittelbar zur dauerhaften Abwanderung in Städte führten, bleibt umstritten. Der Eintrag legt deshalb keine pauschale Kausalverbindung zur Urbanisierung an. Die Zeitspanne 1750–1850 bezeichnet eine ausgewählte Hauptphase und nicht den vollständigen Zeitraum aller Verfahren. Sie ergänzt die Industriegeschichte um rechtliche und landschaftliche Veränderungen auf dem Land.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9074"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9054",
+    "title": "Großbritannien beschließt die Aufhebung der Corn Laws",
+    "entry_type": "political_legal_change",
+    "start_year": 1846,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1846",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "trade"
+    ],
+    "topics": [
+      "trade",
+      "resources",
+      "state"
+    ],
+    "geography": [
+      "United Kingdom",
+      "Ireland"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Die Aufhebung der britischen Getreideschutzgesetze 1846 veränderte die Handelspolitik zugunsten offenerer Importe. Der Beschluss stand im Zusammenhang mit der irischen Hungerkrise, brachte aber keine ausreichende unmittelbare Hilfe für die Betroffenen.",
+    "long_description": "Die Corn Laws schützten die heimische Getreideproduktion durch Einfuhrzölle. Unter Robert Peel beschloss das Parlament 1846 ihre schrittweise Aufhebung. Der Übergang zu niedrigeren Handelsbarrieren war politisch umkämpft und spaltete die konservative Partei. Die irische Hungersnot verlieh der Versorgungsfrage besondere Dringlichkeit; eine Veränderung der Zollpolitik allein konnte die Not jedoch nicht beheben. Zugang zu Nahrung hing auch von Einkommen, Hilfsmaßnahmen und lokalen Verhältnissen ab. Der Eintrag unterscheidet daher zwischen handelspolitischer Reform und tatsächlicher Ernährungssicherung. Er schafft einen konkreten gesetzlichen Bezugspunkt für globale Nahrungsmittelmärkte, ohne deren weitere Expansion ausschließlich aus einem britischen Parlamentsbeschluss abzuleiten. Die Übergangsbestimmungen sind von sofortigem vollständigem Freihandel zu unterscheiden.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9075",
+      "S9076"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9055",
+    "title": "Kautschuksamen werden von Brasilien über Kew nach Asien transferiert",
+    "entry_type": "event",
+    "start_year": 1876,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1876",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "trade"
+    ],
+    "topics": [
+      "trade",
+      "nature",
+      "resources",
+      "knowledge"
+    ],
+    "geography": [
+      "Brazil",
+      "United Kingdom",
+      "Sri Lanka",
+      "Malaysia"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "1876 gelangten von Henry Wickham gesammelte Kautschuksamen aus Brasilien nach Kew. Die dort aufgezogenen Pflanzen wurden nach Asien weitergegeben und bildeten einen Ausgangspunkt für die spätere Ausweitung der Kautschukplantagen.",
+    "long_description": "Der Transfer von Hevea brasiliensis verknüpfte botanische Sammlungen mit wirtschaftlichen Interessen. Kews Objektkatalog dokumentiert die Sendung brasilianischer Samen und die Weitergabe gekeimter Pflanzen nach Sri Lanka und in das Gebiet des heutigen Malaysia. Der Vorgang machte eine südamerikanische Pflanzenart für den Plantagenanbau in anderen tropischen Regionen verfügbar. Damit ist er zugleich ein Beispiel biologischer Verbreitung und kolonialer Wissensorganisation. Die spätere Expansion erforderte zusätzliche Arbeit, Investitionen und Anbaukenntnisse; sie folgte nicht automatisch aus dem Transport einiger Samen. Die häufig erzählte Geschichte eines einzelnen heroischen Pflanzenjägers verdeckt diese Voraussetzungen. Der Eintrag beschränkt sich auf den dokumentierten Transfer und vermeidet ungeprüfte Aussagen über dessen damalige rechtliche Bewertung.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9077"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9056",
+    "title": "Kaffeerost verändert die Plantagenwirtschaft Ceylons",
+    "entry_type": "process",
+    "start_year": 1869,
+    "end_year": 1900,
+    "date_precision": "approximate",
+    "date_label": "ca. 1869–1900",
+    "primary_discipline": "environment_nature",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "ecology"
+    ],
+    "topics": [
+      "nature",
+      "production",
+      "trade"
+    ],
+    "geography": [
+      "Sri Lanka"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Der 1869 dokumentierte Kaffeerost trug zum Niedergang des Kaffeeanbaus auf Ceylon und zum Aufstieg der Teeproduktion bei. Pflanzenkrankheiten veränderten damit eine koloniale Exportwirtschaft und ihre Einbindung in internationale Konsummärkte.",
+    "long_description": "Kew bewahrt ein historisches Exemplar des Pilzes Hemileia vastatrix aus dem Jahr 1869 auf. Der Erreger schädigte Kaffeepflanzen und wurde zu einem gravierenden Problem kommerzieller Anbausysteme. Auf Ceylon gehört seine Ausbreitung zur Erklärung der Verschiebung von Kaffee zu Tee. Der Übergang war jedoch ein längerfristiger wirtschaftlicher Prozess und keine sofortige Ersetzung sämtlicher Plantagen. Die gewählte Zeitspanne markiert diese Entwicklung im späten neunzehnten Jahrhundert. Der Fall zeigt, dass globale Warenströme von biologischen Bedingungen abhingen, die menschliche Planung durchkreuzen konnten. Er verbindet die Geschichte botanischer Forschung mit Landwirtschaft und Handel. Genaue Ertragsverluste oder eine ausschließlich durch den Pilz verursachte Umstellung werden aus dem verfügbaren Sammlungsbeleg nicht abgeleitet.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9078"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9057",
+    "title": "Der Tenement House Act verschärft New Yorks Wohnungsstandards",
+    "entry_type": "political_legal_change",
+    "start_year": 1901,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1901",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "urbanisation",
+      "health",
+      "rights"
+    ],
+    "geography": [
+      "New York",
+      "United States"
+    ],
+    "scope": "local",
+    "importance": 4,
+    "short_description": "Das New Yorker Mietskasernengesetz von 1901 setzte neue Anforderungen an Wohngebäude und Verbesserungen im Bestand. Licht, Luft und Wasser wurden zu Gegenständen einer verbindlicheren staatlichen Regulierung städtischen Wohnens.",
+    "long_description": "Das Wachstum New Yorks hatte dicht belegte Wohnhäuser hervorgebracht, deren Ausstattung und hygienische Bedingungen erhebliche Probleme verursachten. Reforminitiativen machten diese Verhältnisse durch Ausstellungen und Untersuchungen öffentlich sichtbar. Der Tenement House Act von 1901 formulierte Anforderungen für Neubauten und Mindeststandards für ältere Häuser. Eigentümer mussten Verbesserungen vornehmen, leisteten dagegen aber Widerstand. Die Reform wirkte deshalb nicht schlagartig und beseitigte die soziale Ungleichheit des Wohnens nicht. Als konkreter Eingriff in die gebaute Stadt ergänzt der Eintrag den allgemeinen Prozess der Urbanisierung. Er zeigt, wie öffentliche Darstellung von Missständen, Verwaltung und Bauvorschriften zusammenwirkten. Die Aussagen beziehen sich auf diesen New Yorker Fall und nicht auf eine weltweit gleichförmige Entwicklung.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9079"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9058",
+    "title": "London baut Bazalgettes Abwassersystem aus",
+    "entry_type": "process",
+    "start_year": 1859,
+    "end_year": 1875,
+    "date_precision": "approximate",
+    "date_label": "ca. 1859–1875",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "production"
+    ],
+    "topics": [
+      "health",
+      "urbanisation",
+      "technology"
+    ],
+    "geography": [
+      "London",
+      "United Kingdom"
+    ],
+    "scope": "local",
+    "importance": 4,
+    "short_description": "Der Ausbau der Londoner Kanalisation leitete Abwasser systematischer aus dem dicht besiedelten Zentrum ab. Das unter Joseph Bazalgette entwickelte Netz verband Gesundheitsvorsorge mit großräumiger Planung und baulicher Umgestaltung der Themseufer.",
+    "long_description": "Die Entsorgungskrise von 1858 beschleunigte die politische Entscheidung für ein größeres Abwassernetz. Sammelkanäle und weitere technische Anlagen sollten die bisherigen Einleitungen im Stadtzentrum ersetzen. Der Bau war ein mehrjähriges Vorhaben, das auch mit der Gestaltung von Uferbereichen zusammenhing. Seine Bedeutung lag in der zusammenhängenden Organisation bislang unzureichend koordinierter Entsorgung. Der Eintrag erfasst den Ausbauprozess, während der Great Stink als Auslöser gesondert erscheint. Eine unmittelbare Umsetzung von Snows Erkenntnissen wird nicht behauptet.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9080",
+      "S9081",
+      "S9064"
+    ],
+    "confidence": "high",
+    "notes": "Zeitraum als Bauphase gerundet; einzelne Anlagen wurden zu unterschiedlichen Terminen fertiggestellt."
+  },
+  {
+    "id": "E9059",
+    "title": "Die Hungersnot in Bengalen fordert Millionen Opfer",
+    "entry_type": "process",
+    "start_year": 1943,
+    "end_year": 1944,
+    "date_precision": "exact",
+    "date_label": "1943–1944",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "health",
+      "war",
+      "resources"
+    ],
+    "geography": [
+      "Bengal",
+      "India"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Die bengalische Hungersnot von 1943–1944 entstand unter Kriegs- und Kolonialbedingungen. Eine hydrologische Untersuchung findet für das betroffene Gebiet keinen entsprechenden Dürreauslöser und verweist auf Störungen von Wirtschaft, Versorgung und politischer Hilfe.",
+    "long_description": "Die Hungerkrise in Bengalen lässt sich nicht als einfache Folge ausbleibenden Regens erklären. Mishra und Mitautoren rekonstruieren für die Monsunmonate 1943 keine entsprechende Bodenfeuchtedürre. Sie nennen kriegsbedingte wirtschaftliche Belastungen und Einschränkungen des Getreideimports als wichtige Faktoren. Der Befund schließt andere Ernteprobleme oder komplexe Marktmechanismen nicht aus. Der Eintrag macht die Unterscheidung zwischen naturbedingtem Produktionsausfall und politisch-wirtschaftlicher Ernährungskrise sichtbar. Die Gewichtung einzelner Ursachen bleibt Forschungsgegenstand.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9068"
+    ],
+    "confidence": "medium",
+    "notes": "Dürrebefund ist keine vollständige Prüfung der umstrittenen Ernte-, Preis- und Verantwortungsgeschichte; keine monokausale Erklärung."
+  },
+  {
+    "id": "E9060",
+    "title": "Die Große Hungersnot erschüttert Irland",
+    "entry_type": "process",
+    "start_year": 1845,
+    "end_year": 1852,
+    "date_precision": "approximate",
+    "date_label": "ca. 1845–1852",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "health",
+      "resources",
+      "mobility"
+    ],
+    "geography": [
+      "Ireland"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Die irische Hungersnot verband eine schwere Versorgungskrise mit unzureichender staatlicher Hilfe und sozialer Verwundbarkeit. Massensterben und Auswanderung veränderten Bevölkerung und Politik Irlands tiefgreifend über die unmittelbaren Hungerjahre hinaus.",
+    "long_description": "Die Krise erreichte die britische Politik als dringende Frage der Nahrungsversorgung. Die Aufhebung der Corn Laws 1846 half den Betroffenen nur begrenzt. Öffentliche Arbeitsprogramme und restriktive Hilfe erwiesen sich als unzureichend; die Verlagerung finanzieller Verantwortung auf irische Landbesitzer begünstigte weitere Vertreibungen von Pächtern. Nach der parlamentarischen Darstellung starb ungefähr eine Million Menschen durch Hunger oder Krankheit. Zusammen mit der Auswanderung führte dies zu einem tiefen demografischen Einschnitt. Der Eintrag unterscheidet Naturauslöser, Besitzverhältnisse und politische Reaktion.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9075"
+    ],
+    "confidence": "high",
+    "notes": "Zeitliche Eingrenzung folgt der üblichen mehrjährigen Periodisierung; regionale Verläufe waren unterschiedlich."
+  },
+  {
+    "id": "E9061",
+    "title": "Die Dunedin bringt erfolgreich gefrorenes Fleisch nach Großbritannien",
+    "entry_type": "event",
+    "start_year": 1882,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1882",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "transport"
+    ],
+    "topics": [
+      "trade",
+      "mobility",
+      "technology"
+    ],
+    "geography": [
+      "New Zealand",
+      "United Kingdom"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Die Dunedin transportierte 1882 erfolgreich gefrorenes Fleisch von Neuseeland nach Großbritannien. Die Verbindung von Kühlung, Bahntransport und Seefahrt erschloss einen entfernten Absatzmarkt für leicht verderbliche landwirtschaftliche Produkte.",
+    "long_description": "Die Dunedin verließ Port Chalmers am 15. Februar 1882 und erreichte London im Mai. Das Segelschiff war mit einer kohlebetriebenen Kälteanlage ausgerüstet worden. Schlachtung, Transport zum Hafen und Gefrieren an Bord bildeten eine aufeinander abgestimmte Kette. Technische Probleme während der Reise zeigen, dass dieser Erfolg keineswegs selbstverständlich war. Die Ladung kam weitgehend verwertbar an und unterstützte den Aufbau eines regelmäßigen Handels mit gefrorenem Fleisch. Dazu waren neben der Technik auch Vermarktung und Versicherung nötig. Der Fall verbindet die Ernährung britischer Städte mit der Entwicklung neuseeländischer Landwirtschaft. Er darf nicht als Erfindung sämtlicher Kühltransporte oder als Fahrt eines Dampfschiffs missverstanden werden.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9082"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9062",
+    "title": "Die Verträge von Münster und Osnabrück ordnen den Frieden",
+    "entry_type": "political_legal_change",
+    "start_year": 1648,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1648",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "state",
+      "war",
+      "religion"
+    ],
+    "geography": [
+      "Holy Roman Empire",
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Die Friedensverträge vom 24. Oktober 1648 beendeten den Dreißigjährigen Krieg im Reich. Sie regelten politische und konfessionelle Streitfragen durch einen ausgehandelten Interessenausgleich zwischen Kaiser, Reichsständen und auswärtigen Mächten.",
+    "long_description": "Nach langen Verhandlungen wurden zwei miteinander verbundene Verträge geschlossen, die in Münster und Osnabrück ausgehandelt und in Münster unterzeichnet wurden. Heinhard Steigers rechtsgeschichtliche Untersuchung betont den Charakter eines gegenseitigen Ausgleichs: Die Sieger konnten Interessen stärker durchsetzen, doch handelte es sich nicht um einen reinen Unterwerfungsfrieden. Für die Staatsbildung ist die Neuordnung rechtlicher Beziehungen innerhalb des Reichs ebenso wichtig wie die internationale Dimension. Die häufige Formel von der plötzlichen Erfindung vollständig souveräner Nationalstaaten greift zu kurz. Der Eintrag behandelt einen konkreten Friedens- und Ordnungsakt. Verwaltungs- und Steuergeschichte werden dadurch nicht vollständig abgedeckt und bleiben im Themenbericht als eigenständige Lücken ausgewiesen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9083"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9063",
+    "title": "Das Konzil von Trient bestimmt katholische Lehre und Reform",
+    "entry_type": "process",
+    "start_year": 1545,
+    "end_year": 1563,
+    "date_precision": "exact",
+    "date_label": "1545–1563",
+    "primary_discipline": "philosophy_religion",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "theology"
+    ],
+    "topics": [
+      "religion",
+      "state",
+      "knowledge"
+    ],
+    "geography": [
+      "Trent",
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Das Konzil von Trient bekräftigte in mehreren Sitzungsperioden katholische Lehrpositionen und verfolgte innerkirchliche Reformen. Es reagierte auf die konfessionelle Spaltung und beeinflusste auch Anforderungen an religiöse Bilder und Kunst.",
+    "long_description": "Zwischen 1545 und 1563 trat das Konzil in drei größeren Sitzungsperioden zusammen. Es behandelte Lehrfragen, die Autorität religiöser Texte und die Sakramente sowie die Erneuerung kirchlicher Praxis. Die Auseinandersetzung mit dem Protestantismus war ein wesentlicher Zusammenhang, aber nicht jeder Reformbedarf entstand erst durch Luther. Für die Kunstgeschichte wichtig waren Anforderungen an Verständlichkeit und Angemessenheit heiliger Darstellungen. Der Eintrag ergänzt die bestehende Reformation um eine eigenständige katholische Reaktion. Er beschreibt keine durchgehend tagende Versammlung über achtzehn Jahre und keinen überall sofort identisch vollzogenen Reformprozess. Die Umsetzung hing von kirchlichen und politischen Akteuren in unterschiedlichen Regionen ab und lässt sich nicht allein aus den Konzilsbeschlüssen ablesen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9084"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9064",
+    "title": "Die amerikanische Unabhängigkeitserklärung wird beschlossen",
+    "entry_type": "work_publication",
+    "start_year": 1776,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1776",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "state",
+      "war"
+    ],
+    "geography": [
+      "United States"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Die Unabhängigkeitserklärung von 1776 begründete die Loslösung der dreizehn Kolonien von Großbritannien. Sie verband eine konkrete politische Trennung mit allgemein formulierten Rechten und wurde später in weiteren Verfassungsdebatten aufgegriffen.",
+    "long_description": "Der Kontinentalkongress hatte im Krieg bereits Aufgaben einer gemeinsamen Regierung übernommen. Die Entscheidung für Unabhängigkeit entwickelte sich aus eskalierenden Konflikten mit Krone und Parlament sowie aus Debatten innerhalb der Kolonien. Die am 4. Juli angenommene Erklärung formulierte die politische Begründung der Trennung und erläuterte Beschwerden gegen den König. Sie ist von den vorausgehenden Beschlüssen zur Unabhängigkeit und den späteren Unterschriften zu unterscheiden. Der Text wurde zu einem wichtigen Bezugspunkt atlantischer Debatten über legitime Herrschaft. Allgemeine Gleichheitsformulierungen bedeuteten dabei nicht automatisch gleiche tatsächliche Rechte aller Menschen. Der Eintrag ergänzt die französische und haitianische Revolution um einen früheren politischen Text und dessen konkrete Entstehungssituation.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9085"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9065",
+    "title": "Der Sieg bei Ayacucho schwächt die spanische Herrschaft entscheidend",
+    "entry_type": "event",
+    "start_year": 1824,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1824",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "war",
+      "state",
+      "rights"
+    ],
+    "geography": [
+      "Peru",
+      "South America"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Am 9. Dezember 1824 besiegten republikanische Kräfte die königliche Armee bei Ayacucho. Die anschließende Kapitulation wurde zu einem zentralen Einschnitt im Unabhängigkeitskampf Perus und der spanisch beherrschten Teile Südamerikas.",
+    "long_description": "Die Schlacht gehörte zu einer längeren militärischen Kampagne und zu politischen Auseinandersetzungen, die verschiedene Regionen und Bevölkerungsgruppen einbezogen. Quellen des peruanischen Nationalarchivs zeigen neben den großen Heerführern auch örtliche Unterstützung, kleinere Gefechte und Unsicherheiten während der Kampagne. Der republikanische Sieg unter Antonio José de Sucre und die Kapitulation der gegnerischen Führung veränderten das Kräfteverhältnis grundlegend. Die Erinnerung machte Ayacucho später zu einem Symbol kontinentaler Befreiung. Symbolische Bedeutung und tatsächlicher Verlauf müssen jedoch unterschieden werden: Staatsbildung und innere Konflikte waren damit nicht abgeschlossen. Der Eintrag vermeidet deshalb die Behauptung, an einem einzigen Tag sei überall in Lateinamerika die Kolonialherrschaft beendet worden.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9086",
+      "S9087"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9066",
+    "title": "Die Tanzimat reformieren die osmanische Staatsordnung",
+    "entry_type": "process",
+    "start_year": 1839,
+    "end_year": 1876,
+    "date_precision": "exact",
+    "date_label": "1839–1876",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "state",
+      "rights",
+      "education"
+    ],
+    "geography": [
+      "Ottoman Empire"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Von 1839 bis 1876 formulierten osmanische Reformerlasse neue Ansprüche an Verwaltung, Besteuerung, Militärdienst und rechtliche Gleichstellung. Die Tanzimat verbanden das Ziel staatlicher Stärkung mit umstrittenen Veränderungen gesellschaftlicher Ordnung.",
+    "long_description": "Das Gülhane-Edikt von 1839, der Reformerlass von 1856 und die Verfassung von 1876 markieren wichtige Stationen der Tanzimat. Die Reformprogramme betrafen fiskalische Verfahren, Wehrpflicht und die Stellung der Untertanen verschiedener Religionsgemeinschaften. Die bei Cambridge veröffentlichte Darstellung ordnet sie in politische Ökonomie und europäische Einflussverhältnisse ein. Rechtsversprechen waren dabei nicht mit überall gleicher praktischer Umsetzung identisch. Der Eintrag behandelt die Reformperiode als eigenständige osmanische Auseinandersetzung mit staatlicher Macht und gesellschaftlicher Veränderung. Er vermeidet eine einfache Erzählung vom passiven Nachahmen Europas. Die unterschiedlichen Erlasse dürfen auch nicht sämtlich dem Jahr 1839 zugeschrieben werden; ihr zeitlicher Abstand ist für die historische Interpretation wesentlich.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9088"
+    ],
+    "confidence": "high",
+    "notes": "Cambridge-Kapitelzusammenfassung zugänglich; kein Anspruch auf Lektüre des vollständigen Buchkapitels."
+  },
+  {
+    "id": "E9067",
+    "title": "Das Attentat von Sarajevo löst die Julikrise aus",
+    "entry_type": "event",
+    "start_year": 1914,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1914",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "war",
+      "state"
+    ],
+    "geography": [
+      "Sarajevo",
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Die Ermordung Franz Ferdinands am 28. Juni 1914 wurde zum Ausgangspunkt der Julikrise. Politische Entscheidungen und Bündnisbeziehungen ließen den österreichisch-serbischen Konflikt in den Ersten Weltkrieg übergehen.",
+    "long_description": "Gavrilo Princip erschoss in Sarajevo den österreichisch-ungarischen Thronfolger und dessen Frau. Österreich-Ungarn reagierte im folgenden Monat mit einem scharfen Vorgehen gegen Serbien und erhielt dabei deutsche Unterstützung. Die Eskalation zog weitere Mächte hinein; Mobilisierungen und Kriegserklärungen veränderten den Handlungsspielraum. Das Attentat war ein konkreter Anlass, aber keine hinreichende Erklärung aller Ursachen des Weltkriegs. Imperiale Konkurrenz, Sicherheitsvorstellungen und Entscheidungen der Regierungen müssen unterschieden werden. Der Eintrag ergänzt den bestehenden Krieg von 1914–1918 um dessen unmittelbare Krisenphase. Er vermeidet die Vorstellung eines mechanischen Bündnisautomatismus, bei dem nach den Schüssen sämtliche weiteren Entscheidungen schon zwangsläufig festgestanden hätten. Für einzelne diplomatische Schritte wäre eine feinere Chronologie erforderlich.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9152"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9068",
+    "title": "Neuseeland gewährt Frauen das parlamentarische Wahlrecht",
+    "entry_type": "political_legal_change",
+    "start_year": 1893,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1893",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "state"
+    ],
+    "geography": [
+      "New Zealand"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Das neuseeländische Wahlgesetz von 1893 gab Frauen das Recht, an Parlamentswahlen teilzunehmen. Jahrelange Kampagnen und umfangreiche Petitionen gingen dem Beschluss voraus; aktives Wahlrecht ist dabei von Wählbarkeit zu unterscheiden.",
+    "long_description": "Am 19. September 1893 wurde der Electoral Act unterzeichnet. Der Beschluss folgte auf wiederholte Versuche, Widerstand in der oberen Parlamentskammer und eine breite Mobilisierung durch Frauenorganisationen. Große Petitionen, Kundgebungen und Telegramme gehörten zu den eingesetzten Mitteln. Bereits im November beteiligten sich Frauen an der Parlamentswahl. Auch Māori-Frauen nahmen teil, wobei die Wahlorganisation von derjenigen anderer Wahlkreise abwich. Die Reform ist ein konkreter Erfolg innerhalb der bereits erfassten Frauenwahlrechtsbewegung. Sie sollte nicht mit der sofortigen Aufhebung sämtlicher politischer oder sozialer Ungleichheiten gleichgesetzt werden. Insbesondere bezeichnet das hier behandelte Recht die Stimmabgabe; die Möglichkeit, selbst ins Parlament gewählt zu werden, ist eine gesonderte Frage.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9090",
+      "S9091"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9069",
+    "title": "Die Charta der Vereinten Nationen tritt in Kraft",
+    "entry_type": "political_legal_change",
+    "start_year": 1945,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1945",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "state",
+      "rights",
+      "war"
+    ],
+    "geography": [
+      "Global"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Die 1945 unterzeichnete und im Oktober in Kraft getretene UN-Charta schuf die Grundlage der Vereinten Nationen. Sie verband internationale Zusammenarbeit mit Regeln über staatliche Gleichheit, Sicherheit und die Anwendung von Gewalt.",
+    "long_description": "Die Charta wurde am 26. Juni 1945 in San Francisco unterzeichnet und trat am 24. Oktober in Kraft. Als Gründungsvertrag legte sie Ziele, Organe und Befugnisse der neuen Organisation fest. Zu ihren Grundsätzen gehören die souveräne Gleichheit der Mitgliedstaaten und die Begrenzung zwischenstaatlicher Gewalt. Die institutionelle Ordnung enthielt zugleich besondere Machtpositionen, die in der historischen Situation des Kriegsendes entstanden. Der Eintrag unterscheidet den verbindlichen Organisationsvertrag von der Allgemeinen Erklärung der Menschenrechte von 1948. Er beschreibt die Schaffung eines Rahmens für Zusammenarbeit, nicht die tatsächliche Beseitigung aller Kriege. Die spätere Anwendung und die Konflikte innerhalb der Organisation benötigen eigene historische Untersuchungen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9092"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9070",
+    "title": "Das britische Abschaffungsgesetz führt zur Emanzipation und Apprenticeship",
+    "entry_type": "political_legal_change",
+    "start_year": 1833,
+    "end_year": 1838,
+    "date_precision": "exact",
+    "date_label": "1833–1838",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "work",
+      "state"
+    ],
+    "geography": [
+      "British Empire",
+      "Caribbean",
+      "Mauritius"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Das britische Gesetz von 1833 führte ab 1834 zur Abschaffung der Sklaverei in weiten Teilen des Kolonialreichs. Eine verpflichtende Übergangsarbeit bestand zunächst fort; entschädigt wurden die früheren Sklavenhalter, nicht die Befreiten.",
+    "long_description": "Die gesetzliche Aufhebung der Sklaverei folgte dem bereits 1807 erlassenen Verbot des britischen Sklavenhandels, war aber ein anderer rechtlicher Schritt. Das Gesetz von August 1833 trat im August 1834 in Kraft. Viele ehemalige Versklavte mussten zunächst als sogenannte Apprentices weiterarbeiten. Dieses Übergangssystem endete 1838. Entschädigungsverfahren richteten sich an Eigentümeransprüche und dokumentieren damit zugleich die fortbestehenden Machtverhältnisse. Der Eintrag begrenzt die geografische Aussage auf die vom Gesetz erfassten Kolonien; nicht sämtliche Formen kolonialer Unfreiheit verschwanden gleichzeitig. Seine Bedeutung liegt gerade im Spannungsverhältnis von rechtlicher Befreiung und fortgesetzter Arbeitskontrolle. Damit wird eine Grundlage für die Untersuchung späterer Vertragsarbeit geschaffen, ohne beide Systeme rechtlich gleichzusetzen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9093"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9071",
+    "title": "Die Frauenrechtskonvention von Seneca Falls verabschiedet Forderungen",
+    "entry_type": "event",
+    "start_year": 1848,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1848",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "education",
+      "state"
+    ],
+    "geography": [
+      "Seneca Falls",
+      "United States"
+    ],
+    "scope": "local",
+    "importance": 4,
+    "short_description": "Die Versammlung von Seneca Falls im Juli 1848 formulierte Forderungen nach gleichen Rechten für Frauen. Die Declaration of Sentiments machte Benachteiligung öffentlich und verband lokale Reformnetzwerke mit einer dauerhaften politischen Auseinandersetzung.",
+    "long_description": "Am 19. und 20. Juli 1848 kamen in Seneca Falls mehr als dreihundert Menschen zu einer Frauenrechtskonvention zusammen. Organisatorinnen nutzten bereits vorhandene persönliche und reformpolitische Netzwerke sowie die lokale Presse. Hundert Frauen und Männer unterzeichneten die Declaration of Sentiments. Die Versammlung war weder der Beginn aller Diskussionen über Frauenrechte noch ein bereits errungener gesetzlicher Gleichstellungsakt. Sie war ein öffentliches Programm und ein organisatorischer Bezugspunkt. Der Eintrag präzisiert damit einen wichtigen Bestandteil der schon vorhandenen Frauenwahlrechtsbewegung, ohne deren gesamte Geschichte zu verdoppeln. Die Forderungen betrafen neben politischer Teilhabe auch weitergehende soziale und rechtliche Bedingungen. Für unterschiedliche Positionen innerhalb der Bewegung bleibt eine vertiefende Darstellung nötig.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9094",
+      "S9095"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9072",
+    "title": "Der Indian Removal Act erweitert die Politik indigener Vertreibung",
+    "entry_type": "political_legal_change",
+    "start_year": 1830,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1830",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "state",
+      "mobility"
+    ],
+    "geography": [
+      "United States"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Der Indian Removal Act von 1830 ermächtigte die US-Regierung zu Landtauschverträgen mit indigenen Nationen. Er bildete einen zentralen politischen Rahmen für Vertreibungen aus dem Südosten in Gebiete westlich des Mississippi.",
+    "long_description": "Präsident Andrew Jackson unterzeichnete das Gesetz am 28. Mai 1830 nach umstrittenen Abstimmungen im Kongress. Sein Wortlaut ordnete nicht unmittelbar die Vertreibung aller betroffenen Menschen an, sondern eröffnete der Regierung Möglichkeiten zum Abschluss entsprechender Verträge. Die anschließende Praxis war von massiver Ungleichheit, Druck und Gewalt geprägt. Besonders deutlich wird dies am Vertrag von New Echota, den eine Minderheit der Cherokee gegen den Willen eines großen Teils ihrer Nation schloss. Der Eintrag trennt gesetzliche Ermächtigung, umstrittene Verträge und militärische Durchführung. So lässt sich die spätere Zwangsumsiedlung erklären, ohne die Handlungsmöglichkeiten und den Widerstand indigener Akteure aus der Geschichte zu entfernen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9096"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9073",
+    "title": "Die Cherokee werden auf dem Trail of Tears deportiert",
+    "entry_type": "process",
+    "start_year": 1838,
+    "end_year": 1839,
+    "date_precision": "exact",
+    "date_label": "1838–1839",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "mobility",
+      "health"
+    ],
+    "geography": [
+      "United States"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "US-Truppen und Milizen zwangen 1838 Tausende Cherokee, ihre Heimat im Südosten zu verlassen. Die Deportation nach Westen folgte einem heftig umstrittenen Vertrag und verursachte schwere Verluste und lang anhaltende gesellschaftliche Folgen.",
+    "long_description": "Die Mehrheit der Cherokee lehnte den Vertrag von New Echota ab. Dennoch behandelte die US-Regierung ihn nach der Ratifikation als Grundlage der Entfernung aus den bisherigen Siedlungsgebieten. Ab Mai 1838 begannen Truppen und Milizen mit der gewaltsamen Räumung. Mehr als sechzehntausend Cherokee wurden betroffen. Der Weg nach Westen und die Bedingungen der Umsiedlung waren mit großem Leid verbunden. Der Eintrag macht deutlich, dass staatlich anerkannte Vertragsformen tatsächlichen Zwang und fehlende Zustimmung nicht aufhoben. Er ergänzt den Indian Removal Act um einen konkreten Vollzugsprozess. Die Darstellung bleibt auf die Cherokee konzentriert; andere indigene Nationen erlebten eigene, zeitlich und politisch unterschiedliche Vertreibungsgeschichten.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9097"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9074",
+    "title": "Mauritius wird Ausgangspunkt einer neuen Vertragsarbeitsdiaspora",
+    "entry_type": "process",
+    "start_year": 1834,
+    "end_year": 1920,
+    "date_precision": "exact",
+    "date_label": "1834–1920",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "work",
+      "mobility",
+      "trade"
+    ],
+    "geography": [
+      "Mauritius",
+      "India",
+      "Indian Ocean"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Seit 1834 wurden in großem Umfang Arbeitskräfte unter mehrjährigen Verträgen nach Mauritius gebracht. Die Plantagenwirtschaft nach der Sklaverei verband neue Rechtsformen mit kolonialer Arbeitskontrolle und weitreichender Migration.",
+    "long_description": "Die britische Regierung wählte Mauritius für ein Experiment mit Vertragsarbeit im Zusammenhang mit der britischen Abschaffungsgesetzgebung. Über Jahrzehnte kamen vor allem Menschen aus Indien auf die Insel; weitere Migration führte in andere Kolonialgebiete. Das heute als Aapravasi Ghat bekannte erhaltene Depot wurde 1849 errichtet und darf nicht rückwirkend als bereits 1834 vorhandenes Gebäude dargestellt werden. Die Verträge unterschieden sich rechtlich von Sklaverei, schufen aber asymmetrische Arbeitsverhältnisse. Zugleich trugen Migrantinnen und Migranten eigene Kenntnisse, Religionen und soziale Bindungen in neue Gesellschaften. Der Eintrag verbindet Arbeitsgeschichte mit der Entstehung von Diasporas. Er reduziert die Betroffenen weder auf bloße Arbeitskräfte noch setzt er alle kolonialen Vertragsarbeitsregime gleich.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9098"
+    ],
+    "confidence": "high",
+    "notes": "Lokale Prüfung: Der Beginn der Vertragsarbeit 1834 wird nicht mit einer bereits überall abgeschlossenen Emanzipation gleichgesetzt; lokale Umsetzung und Apprenticeship sind zu unterscheiden."
+  },
+  {
+    "id": "E9075",
+    "title": "Die Internationale Arbeitsorganisation wird gegründet",
+    "entry_type": "institution",
+    "start_year": 1919,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1919",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "work",
+      "rights",
+      "state"
+    ],
+    "geography": [
+      "Global"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Die Internationale Arbeitsorganisation entstand 1919 im Zusammenhang mit dem Versailler Vertrag. Ihre dreigliedrige Struktur bezog Regierungen, Arbeitgeber und Beschäftigtenvertretungen in die internationale Aushandlung von Arbeitsstandards ein.",
+    "long_description": "Forderungen nach internationaler Regelung von Arbeitsbedingungen hatten sich bereits im neunzehnten Jahrhundert entwickelt. Die Friedenskonferenz nach dem Ersten Weltkrieg schuf eine Kommission, deren Entwurf in den Versailler Vertrag einging. Die neue Organisation verband eine internationale Konferenz, ein Leitungsgremium und ein dauerhaftes Büro. Besonders war die Beteiligung nicht nur staatlicher Delegierter, sondern auch von Arbeitgeber- und Arbeitnehmervertretungen. Damit wurden Arbeitsfragen als Gegenstand internationaler Politik institutionell verankert. Der Eintrag ergänzt die vorhandene Arbeiterbewegung um einen konkreten Organisationsschritt. Er bedeutet nicht, dass sämtliche Standards sofort überall verbindlich oder wirksam wurden. Mitgliedschaft, Ratifizierung und Durchsetzung blieben eigenständige Bedingungen der praktischen Wirkung.",
+    "persons": [],
+    "institutions": [
+      "I0004"
+    ],
+    "source_ids": [
+      "S9099"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9076",
+    "title": "Japan verkündet den Gakusei zur Neuordnung des Schulwesens",
+    "entry_type": "political_legal_change",
+    "start_year": 1872,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1872",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "education",
+      "state",
+      "knowledge"
+    ],
+    "geography": [
+      "Japan"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Der Gakusei von 1872 entwarf ein landesweit geordnetes Bildungssystem in Japan. Die Reform verband staatliche Zentralisierung mit einem erweiterten Bildungsanspruch; ihre praktische Durchsetzung blieb zunächst hinter den programmatischen Zielen zurück.",
+    "long_description": "Das neu geschaffene Bildungsministerium ließ 1872 einen Plan für ein vereinheitlichtes Schulwesen ausarbeiten. Fachleute mit Kenntnissen europäischer Systeme wirkten daran mit, doch die Reform richtete sich auf konkrete japanische Verwaltungs- und Bildungsprobleme. Der Gakusei gliederte die vorgesehene Schulbildung und formulierte einen Anspruch auf breitere Teilnahme. Die historische Übersicht des Ministeriums betont zugleich die anfangs schwache Durchsetzung des Schulbesuchs. Gesetzliche Ordnung und tatsächliche Alphabetisierung dürfen daher nicht gleichgesetzt werden. Der Eintrag ergänzt die Meiji-Restauration um eine bildungspolitische Maßnahme. Er liefert keinen Beleg dafür, dass schon 1872 alle Kinder unabhängig von Geschlecht, Herkunft und wirtschaftlicher Lage gleichberechtigten Zugang zu Unterricht hatten.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9100",
+      "S9101"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9077",
+    "title": "Der Natives Land Act verfestigt rassistische Landordnung in Südafrika",
+    "entry_type": "political_legal_change",
+    "start_year": 1913,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1913",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "work",
+      "state"
+    ],
+    "geography": [
+      "South Africa"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Der südafrikanische Natives Land Act von 1913 beschränkte den Landzugang der schwarzen Bevölkerung und stärkte territoriale Segregation. Die Folgen betrafen Eigentum, Pacht und Arbeitsmöglichkeiten, wobei regionale Rechtslagen unterschiedlich blieben.",
+    "long_description": "Das am 19. Juni 1913 verabschiedete Gesetz ordnete Landrechte nach rassistischen Kategorien. Es begrenzte Erwerbs- und Nutzungsrechte außerhalb ausgewiesener Gebiete und griff in Pacht- sowie Teilpachtverhältnisse ein. Dadurch wurden afrikanische Bewohner stärker unter Druck gesetzt, ihren Lebensunterhalt als abhängig Beschäftigte zu sichern. Die Wirkung war nicht überall identisch: Bereits vorhandene Vorschriften und besondere verfassungsrechtliche Bedingungen einzelner Provinzen beeinflussten die Anwendung. Der Eintrag behandelt die frühe Segregationsordnung der Union und nicht erst die später so bezeichnete Apartheidpolitik. Er macht die Verbindung von rassistischer Herrschaft und materiellen Lebensgrundlagen sichtbar. Proteste und politische Gegenorganisationen werden dadurch nicht ersetzt, sondern bleiben für eine vollständigere Darstellung zusätzlich erforderlich.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9102"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9078",
+    "title": "Eine Pockenepidemie trifft Zentralmexiko",
+    "entry_type": "natural_environmental_event",
+    "start_year": 1520,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1520",
+    "primary_discipline": "environment_nature",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "ecology"
+    ],
+    "topics": [
+      "health",
+      "war",
+      "mobility"
+    ],
+    "geography": [
+      "Mexico"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Eine Pockenepidemie schwächte 1520 die Bevölkerung Zentralmexikos vor der Belagerung Tenochtitlans. Eingeschleppte Krankheitserreger wirkten mit militärischer Gewalt und indigenen Bündniskonflikten zusammen und prägten die koloniale Eroberung.",
+    "long_description": "Die neuen atlantischen Kontakte brachten auch Krankheitserreger nach Mesoamerika. Die Pockenepidemie des Jahres 1520 verursachte schwere Verluste im Herrschaftsraum der Mexica. Im folgenden Jahr traf die Belagerung Tenochtitlans deshalb auf eine bereits geschwächte Stadt. Das Smithsonian betont neben der Epidemie ausdrücklich die Bedeutung indigener Verbündeter der Spanier und der Vermittlung durch Malinche. Die Eroberung lässt sich somit weder als ausschließlich europäische militärische Leistung noch als bloßes Ergebnis biologischer Faktoren erklären. Der Eintrag konkretisiert einen Teil des Columbian Exchange und verbindet Gesundheits- mit politischer Geschichte. Mangels gesicherter regionaler Größenordnung werden hier keine exakten Todeszahlen angegeben; die langfristigen demografischen Folgen gingen über dieses einzelne Epidemiejahr hinaus.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9103"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9079",
+    "title": "Ricci und Xu Guangqi übertragen Teile von Euklids Elementen ins Chinesische",
+    "entry_type": "work_publication",
+    "start_year": 1606,
+    "end_year": 1607,
+    "date_precision": "approximate",
+    "date_label": "ca. 1606–1607",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [],
+    "topics": [
+      "knowledge",
+      "education",
+      "science",
+      "religion"
+    ],
+    "geography": [
+      "China"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Matteo Ricci und Xu Guangqi erarbeiteten gemeinsam eine chinesische Fassung der ersten sechs Bücher von Euklids Elementen. Die Zusammenarbeit verband Übersetzung, mathematische Begriffsarbeit und Austausch im China der späten Ming-Zeit.",
+    "long_description": "Die Übertragung entstand aus der Zusammenarbeit eines europäischen Jesuiten und eines chinesischen Gelehrten und Beamten. Ricci erläuterte den Text, Xu Guangqi wirkte an seiner chinesischen Fassung mit. Eine lateinische Bearbeitung bildete die Vorlage. Damit wurden nicht einfach Wörter ausgetauscht: Die Darstellung geometrischer Beweise musste in einen anderen sprachlichen und gelehrten Zusammenhang überführt werden. Der Eintrag macht chinesische Mitwirkung als konstitutiven Teil des Wissenstransfers sichtbar. Die Arbeit umfasste zunächst sechs Bücher und nicht das gesamte euklidische Werk. Entstehung, erste Veröffentlichung und die Datierung einzelner erhaltener Drucke sind zu unterscheiden. Der Prozess ergänzt die europäisch geprägte Wissenschaftliche Revolution durch eine konkrete Begegnung verschiedener Wissenskulturen.",
+    "persons": [
+      "P0016",
+      "P0017"
+    ],
+    "institutions": [],
+    "source_ids": [
+      "S9104"
+    ],
+    "confidence": "medium",
+    "notes": "Datierung der Erarbeitung; LOC-Kataloge nennen unterschiedliche Entstehungs- und Ausgabedaten. Kein exakter Publikationstag behauptet; direkter Seitenabruf teilweise gesperrt, Katalogpassagen recherchiert."
+  },
+  {
+    "id": "E9080",
+    "title": "Luthers Septembertestament erscheint im Druck",
+    "entry_type": "work_publication",
+    "start_year": 1522,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1522",
+    "primary_discipline": "philosophy_religion",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "theology"
+    ],
+    "topics": [
+      "religion",
+      "media",
+      "knowledge"
+    ],
+    "geography": [
+      "Wittenberg",
+      "Germany"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Luthers deutsche Übersetzung des Neuen Testaments erschien im September 1522. Der Druck verband reformatorische Bibelauslegung mit der Verbreitung volkssprachlicher Texte; eine weitere Ausgabe folgte bereits im Dezember desselben Jahres.",
+    "long_description": "Das Septembertestament gehört zu den zentralen Publikationen der frühen Reformation. Es machte Luthers Fassung des Neuen Testaments als gedrucktes Buch verfügbar und wurde noch 1522 erneut herausgegeben. Der Eintrag betrifft diesen konkreten Publikationsschritt, nicht die Erfindung des Buchdrucks oder die gesamte Bibelübersetzung. Die vollständige Lutherbibel erschien erst später. Die erhaltenen Exemplare und Sammlungskataloge erlauben eine klare Datierung des Drucks. Seine Bedeutung liegt im Zusammenwirken von religiöser Auseinandersetzung, Übersetzungsarbeit und reproduzierbarem Text. Aussagen über genaue Auflagenhöhen oder den unmittelbaren Anteil an späterer Alphabetisierung werden aus den verwendeten Katalogangaben nicht abgeleitet. Auch war Luther nicht der erste Übersetzer biblischer Texte ins Deutsche.",
+    "persons": [
+      "P0004"
+    ],
+    "institutions": [],
+    "source_ids": [
+      "S9105",
+      "S9106"
+    ],
+    "confidence": "high",
+    "notes": "Morgan-Seite im direkten Abruf gesperrt; recherchierte Ausstellungspassage und DHM-Bestandsbeschreibung verwendet."
+  },
+  {
+    "id": "E9081",
+    "title": "Harrisons H4 wird auf einer Atlantikreise erprobt",
+    "entry_type": "event",
+    "start_year": 1761,
+    "end_year": 1762,
+    "date_precision": "exact",
+    "date_label": "1761–1762",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "transport"
+    ],
+    "topics": [
+      "knowledge",
+      "mobility",
+      "technology"
+    ],
+    "geography": [
+      "United Kingdom",
+      "Atlantic",
+      "Jamaica"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Die Erprobung von John Harrisons Zeitmesser H4 auf einer Reise nach Jamaika zeigte das Potenzial präziser tragbarer Uhren zur Längenbestimmung. Anerkennung und Vergütung blieben anschließend Gegenstand einer längeren Auseinandersetzung.",
+    "long_description": "Die geografische Länge eines Schiffs ließ sich aus dem Vergleich örtlicher Zeit mit einer mitgeführten Referenzzeit bestimmen, sofern die Uhr auf See zuverlässig ging. Harrison hatte mehrere Konstruktionen entwickelt, bevor sein Sohn William 1761 mit H4 zur Erprobung aufbrach. Die Reise lieferte überzeugende Ergebnisse, doch die zuständige Kommission hielt den Nachweis zunächst nicht für ausreichend. Zugleich wurden astronomische Alternativen weiterverfolgt. Der Eintrag zeigt Wissenschaft und Technik als konkurrierende, institutionell bewertete Lösungswege. Er vermeidet die Vorstellung einer sofortigen allgemeinen Einführung des Chronometers nach einem einzigen Versuch. Für Navigation waren Genauigkeit, Herstellungskosten, Bedienung und Anerkennung jeweils eigene Probleme, deren Lösung sich über längere Zeit erstreckte.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9107"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9082",
+    "title": "Die Variolation wird 1721 in englischsprachigen Debatten und Versuchen verbreitet",
+    "entry_type": "process",
+    "start_year": 1721,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1721",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "medicine"
+    ],
+    "topics": [
+      "health",
+      "knowledge",
+      "communication"
+    ],
+    "geography": [
+      "United Kingdom",
+      "Boston",
+      "Ottoman Empire"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "1721 wurde die absichtliche Übertragung von Pockenmaterial als Schutzverfahren in Großbritannien und Boston verstärkt diskutiert und angewendet. Die Variolation knüpfte an außereuropäische Praktiken an und blieb wegen eigener Erkrankungsrisiken umstritten.",
+    "long_description": "Variolation beruhte darauf, eine gezielt ausgelöste Pockeninfektion zu überstehen und danach gegen weitere Erkrankungen geschützt zu sein. Berichte aus dem Osmanischen Reich und anderen Regionen erreichten englischsprachige Öffentlichkeiten. Eine 1721 veröffentlichte Schrift zu Timonius und Pylarinus dokumentiert die medizinischen und religiösen Kontroversen in Boston. Lady Mary Wortley Montagu förderte die Praxis in Großbritannien. Das Verfahren konnte schwere Erkrankungen und weitere Ansteckungen verursachen; es ist deshalb klar von Jenners späterer Impfung mit Kuhpockenmaterial zu unterscheiden. Der Eintrag beschreibt einen konkreten Moment des Wissenstransfers und der öffentlichen Auseinandersetzung, nicht die Erfindung der Inokulation. Frühere außereuropäische Anwendung und lokale Vermittler bleiben für die Gesamtgeschichte wesentlich.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9108",
+      "S9109"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9083",
+    "title": "Koch weist den Erreger der Tuberkulose nach",
+    "entry_type": "event",
+    "start_year": 1882,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1882",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "medicine"
+    ],
+    "topics": [
+      "science",
+      "health",
+      "knowledge"
+    ],
+    "geography": [
+      "Berlin",
+      "Germany"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Robert Koch stellte 1882 den Nachweis des Tuberkuloseerregers vor. Spezifische Färbe- und Kulturverfahren machten die Erkrankung zum Gegenstand kontrollierter bakteriologischer Forschung, ohne damit bereits eine wirksame Behandlung bereitzustellen.",
+    "long_description": "Am 24. März 1882 erläuterte Koch in Berlin seine Untersuchungen zur Ätiologie der Tuberkulose. Die Identifizierung des Bakteriums beruhte auf einer Kombination neuer Laborverfahren und einer systematischen Beweisführung. Für eine verbreitete und tödliche Krankheit entstand so eine konkretere Erklärung ihrer Entstehung. Der Eintrag ist ein bestimmter Forschungsschritt innerhalb der bereits erfassten Keimtheorie. Er sollte nicht mit der sofortigen Heilbarkeit der Tuberkulose verwechselt werden: Kochs später vorgestelltes Tuberkulin erfüllte die Erwartungen an ein Heilmittel nicht. Die Entwicklung zeigt den Unterschied zwischen Erregernachweis, Prävention, Diagnostik und Therapie. Sie verknüpft Laborwissenschaft mit öffentlichen Gesundheitsfragen, ohne soziale Lebensbedingungen als Einfluss auf die Krankheitsverbreitung auszublenden.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9110"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9084",
+    "title": "Ross untersucht die Entwicklung von Malariaparasiten in Mücken",
+    "entry_type": "event",
+    "start_year": 1897,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1897",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "medicine"
+    ],
+    "topics": [
+      "health",
+      "science",
+      "knowledge"
+    ],
+    "geography": [
+      "India"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Ronald Ross fand 1897 Entwicklungsstadien von Malariaparasiten in Mücken. Die Arbeiten im kolonialen Indien waren ein entscheidender Schritt zur Aufklärung der Übertragung, die durch weitere Forschungen ergänzt wurde.",
+    "long_description": "Ross arbeitete im Indian Medical Service und stand im Austausch mit Patrick Manson. Seine Beobachtungen an Mücken im August 1897 stärkten die Erklärung, dass Insekten an der Übertragung von Malaria beteiligt sind. Die genaue Aufklärung der Übertragungswege umfasste weitere Versuche und Forschende; sie darf nicht vollständig auf eine einzelne Beobachtung reduziert werden. Die Forschungen verbanden Laborarbeit, klinische Untersuchung und koloniale Gesundheitsinteressen. Sie wurden später zu einem Bezugspunkt von Maßnahmen gegen Überträgermücken. Der Eintrag behandelt wissenschaftlichen Erkenntnisgewinn und dessen institutionellen Rahmen. Er belegt nicht automatisch eine unmittelbare Verbesserung der Gesundheit aller kolonisierten Bevölkerungsgruppen. Die Verteilung von Schutzmaßnahmen und die Mitwirkung lokaler Personen verlangen zusätzliche Quellen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9111"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9085",
+    "title": "Die Influenza-Pandemie verbreitet sich weltweit",
+    "entry_type": "natural_environmental_event",
+    "start_year": 1918,
+    "end_year": 1920,
+    "date_precision": "exact",
+    "date_label": "1918–1920",
+    "primary_discipline": "environment_nature",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "ecology"
+    ],
+    "topics": [
+      "health",
+      "mobility",
+      "war"
+    ],
+    "geography": [
+      "Global"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Die Influenza-Pandemie von 1918–1920 verlief in mehreren regional unterschiedlichen Wellen und forderte weltweit sehr viele Todesopfer. Krieg und internationale Mobilität gehörten zu ihrem Kontext; der genaue geografische Ursprung ist nicht eindeutig geklärt.",
+    "long_description": "Die Pandemie wurde durch ein Influenza-A-Virus des Subtyps H1N1 verursacht. Ihre außergewöhnliche Sterblichkeit betraf auch viele jüngere Erwachsene. Die besonders verheerende Welle im Herbst 1918 verlief nicht überall zeitgleich; spätere Wellen reichten regional bis 1920. Deshalb sind unterschiedliche Enddatierungen in Überblicksdarstellungen nicht automatisch widersprüchlich. Eine spezifische Impfung gegen diesen Erreger stand damals nicht zur Verfügung. Behörden und Gemeinden versuchten unter anderem mit Isolation, Quarantäne und Einschränkungen öffentlicher Versammlungen zu reagieren. Die Maßnahmen und ihre Umsetzung unterschieden sich erheblich. Der Name „Spanische Grippe“ bezeichnet keinen gesicherten spanischen Ursprung. Globale Opferzahlen sind Schätzungen und werden hier nicht als präzise Zählung ausgegeben.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9112",
+      "S9113"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9086",
+    "title": "Die industrielle Ammoniaksynthese beginnt in Oppau",
+    "entry_type": "technical_innovation",
+    "start_year": 1913,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1913",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "production"
+    ],
+    "topics": [
+      "science",
+      "production",
+      "resources"
+    ],
+    "geography": [
+      "Oppau",
+      "Germany"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "1913 nahm BASF in Oppau eine Anlage zur industriellen Ammoniaksynthese in Betrieb. Das Haber-Bosch-Verfahren verband chemische Forschung mit Hochdrucktechnik und schuf neue Möglichkeiten der Herstellung stickstoffhaltiger Düngemittel.",
+    "long_description": "Die technische Umsetzung der Ammoniaksynthese erforderte weit mehr als einen im Labor nachgewiesenen Reaktionsweg. Reaktionsbedingungen, geeignete Materialien und der dauerhafte Betrieb großer Anlagen mussten zusammenpassen. Mit dem Werk Oppau begann 1913 die industrielle Produktion bei BASF. Der Eintrag markiert den Übergang zur großtechnischen Anwendung und ergänzt damit vorhandene Ereignisse zur Physik und allgemeinen Industrialisierung. Stickstoffverbindungen waren für die Landwirtschaft und weitere Industriezweige wichtig. Welche Ertragssteigerungen oder militärischen Folgen daraus in bestimmten Jahren entstanden, lässt sich jedoch nicht allein aus einer Unternehmenschronik bestimmen. Die Quelle wird daher für den Anlagen- und Produktionsbeginn genutzt. Weiterreichende Umweltfolgen und Kriegsverwendungen bleiben ausdrücklich Gegenstand zusätzlicher Forschung.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9114"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9087",
+    "title": "Der Panamakanal wird für den Verkehr eröffnet",
+    "entry_type": "event",
+    "start_year": 1914,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1914",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "transport"
+    ],
+    "topics": [
+      "trade",
+      "mobility",
+      "state"
+    ],
+    "geography": [
+      "Panama"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Der Panamakanal wurde am 15. August 1914 offiziell eröffnet. Die Verbindung zwischen Atlantik und Pazifik verkürzte zahlreiche Seewege und machte die Landenge zu einem bedeutenden Knoten internationaler Verkehrs- und Machtbeziehungen.",
+    "long_description": "Der Kanalbau verband umfangreiche Erdarbeiten, Schleusen und organisatorische Veränderungen auf der Landenge. Bereits vor der offiziellen Eröffnung hatten einzelne Schiffe die Anlage durchfahren; eine vollständige Passage im Januar 1914 ist deshalb vom Eröffnungstag im August zu unterscheiden. Der Transit der Ancon wurde zum symbolischen Beginn des regulären Verkehrs. Mit dem Abschluss der Bauphase änderten sich auch Verwaltung und Beschäftigung: Bauorganisationen wurden aufgelöst und zahlreiche Arbeiter entlassen. Der Eintrag ergänzt den bestehenden Suezkanal um eine andere interozeanische Verbindung. Er beschreibt die Eröffnung, nicht die gesamte Geschichte von Souveränität, Arbeitsverhältnissen und Gesundheitspolitik während des Baus. Diese Aspekte benötigen eigene Quellen und dürfen nicht in einer reinen Erfolgserzählung verschwinden.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9115",
+      "S9116"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9088",
+    "title": "Die erste transkontinentale Eisenbahnverbindung der USA wird geschlossen",
+    "entry_type": "event",
+    "start_year": 1869,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1869",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "transport"
+    ],
+    "topics": [
+      "mobility",
+      "trade",
+      "work"
+    ],
+    "geography": [
+      "United States"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Am 10. Mai 1869 wurden die Strecken der ersten transkontinentalen Eisenbahnverbindung in den USA zusammengeführt. Der Abschluss schuf eine neue kontinentale Verkehrsachse und wurde später durch die Golden-Spike-Gedenkstätte erinnert.",
+    "long_description": "Der Zusammenschluss bei Promontory in Utah markiert einen konkreten Infrastrukturabschluss. Er ist von der gesamten Entwicklung des amerikanischen Eisenbahnnetzes zu unterscheiden, die davor begonnen hatte und danach weiterging. Die Verbindung erleichterte weiträumige Transporte und wurde zu einem wichtigen Symbol nationaler Integration. Die Gedenkstättendarstellung sichert vor allem Datum und Ort; aus ihr allein werden hier keine genauen Aussagen über Wirtschaftswachstum, Landverluste oder Arbeitsunfälle abgeleitet. Für eine umfassendere Geschichte müssen indigene Perspektiven sowie die Arbeit der am Bau beteiligten Menschen zusätzlich untersucht werden. Der Eintrag ergänzt die bereits vorhandenen britischen und indischen Bahneröffnungen um einen nordamerikanischen Bezugspunkt, ohne eine direkte technische Abstammung von einer bestimmten älteren Strecke zu behaupten.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9117"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9089",
+    "title": "Die Internationale Telegraphenunion vereinheitlicht grenzüberschreitende Kommunikation",
+    "entry_type": "institution",
+    "start_year": 1865,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1865",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "communication",
+      "technology",
+      "state"
+    ],
+    "geography": [
+      "Paris",
+      "Europe"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Zwanzig Staaten gründeten 1865 die Internationale Telegraphenunion. Gemeinsame Regeln für Tarife, Verfahren und Technik sollten grenzüberschreitende Nachrichtenübermittlung erleichtern und machten Kommunikation zu einem Gegenstand dauerhafter internationaler Zusammenarbeit.",
+    "long_description": "Die Ausdehnung der Telegraphennetze führte zu praktischen Problemen an Staatsgrenzen. Unterschiedliche Verfahren und Gebühren erschwerten den Austausch. Vertreter von zwanzig Staaten verhandelten daher von März bis Mai 1865 in Paris und schufen eine gemeinsame Organisation sowie internationale Regeln. Der Eintrag behandelt diese institutionelle Koordination und nicht die frühere Erfindung der elektrischen Telegraphie. Er ergänzt auch die transatlantische Kabelverbindung von 1866, ohne deren Bau unmittelbar auf die Union zurückzuführen. Die ursprüngliche Organisation war regional und politisch begrenzt, obwohl ihr Arbeitsgebiet zunehmend globale Bedeutung gewann. Spätere Namens- und Aufgabenänderungen dürfen nicht rückwirkend vollständig dem Gründungsjahr zugeschrieben werden. Hier steht die erste dauerhafte gemeinsame Regelsetzung im Mittelpunkt.",
+    "persons": [],
+    "institutions": [
+      "I0005"
+    ],
+    "source_ids": [
+      "S9118",
+      "S9119"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9090",
+    "title": "Die BBC beginnt tägliche Radiosendungen aus London",
+    "entry_type": "event",
+    "start_year": 1922,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1922",
+    "primary_discipline": "art_culture",
+    "secondary_disciplines": [],
+    "subdisciplines": [],
+    "topics": [
+      "media",
+      "communication",
+      "knowledge"
+    ],
+    "geography": [
+      "London",
+      "United Kingdom"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Am 14. November 1922 begann die BBC tägliche Sendungen aus London. Nachrichten wurden zunächst unter besonderen Beschränkungen übernommen; der Rundfunk entwickelte eine neue Beziehung zwischen Publikum, Presse und technischer Übertragung.",
+    "long_description": "Die erste Sendung aus dem Studio 2LO wurde von Arthur Burrows gesprochen. Er las Nachrichten in unterschiedlichem Tempo und bat um Rückmeldungen. Solche Einzelheiten zeigen, dass die Form des neuen Mediums erst erprobt wurde. Die Nachrichten stammten zunächst von einer Agentur; eigene journalistische Berichterstattung war aus Rücksicht auf die Konkurrenz zur Presse begrenzt. Der Eintrag konkretisiert den bereits vorhandenen Beginn des Radios als Massenmedium. Die British Broadcasting Company von 1922 ist von der späteren Corporation von 1927 zu unterscheiden. Es handelt sich weder um die Erfindung des Radios noch um die weltweit erste Funkübertragung, sondern um einen wichtigen Schritt der Organisation regelmäßiger Programme für ein breiteres Publikum.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9120",
+      "S9121"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9091",
+    "title": "Großbritannien baut ein überregionales Elektrizitätsnetz auf",
+    "entry_type": "process",
+    "start_year": 1926,
+    "end_year": 1935,
+    "date_precision": "exact",
+    "date_label": "1926–1935",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "energy"
+    ],
+    "topics": [
+      "energy",
+      "urbanisation",
+      "state"
+    ],
+    "geography": [
+      "United Kingdom"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Ein 1926 geschaffenes zentrales Elektrizitätsgremium organisierte die Verbindung leistungsfähiger Kraftwerke. Das 132-Kilovolt-Netz ging nach der Chronologie des Betreibers 1935 in den kommerziellen Betrieb und veränderte die Struktur der Stromversorgung.",
+    "long_description": "Die frühe Stromversorgung bestand aus zahlreichen örtlichen Systemen. Der Aufbau eines größeren Netzes sollte Erzeugung und Verbrauch besser verbinden und die Versorgung vereinheitlichen. Auf Empfehlungen von 1925 folgte 1926 die Einrichtung des Central Electricity Board. Die Unternehmenschronologie nennt 1935 als Beginn des kommerziellen Betriebs des 132-Kilovolt-Netzes. Planung, Bauabschluss einzelner Teile und späterer synchroner Betrieb sind jedoch unterschiedliche Schritte und dürfen nicht auf ein einziges Datum reduziert werden. Der Eintrag ergänzt die allgemeine Elektrifizierung um einen institutionell und technisch umrissenen Ausbauprozess. Er beschreibt die britische Entwicklung und behauptet keine sofortige Versorgung aller Haushalte. Ungleicher Zugang und weitere Netzverstärkung blieben eigenständige Herausforderungen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9122"
+    ],
+    "confidence": "high",
+    "notes": "Datierung auf Einrichtung und kommerziellen Betrieb bezogen; andere Meilensteine werden abweichend datiert."
+  },
+  {
+    "id": "E9092",
+    "title": "Der Federal Aid Road Act schafft ein amerikanisches Straßenbauprogramm",
+    "entry_type": "political_legal_change",
+    "start_year": 1916,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1916",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "mobility",
+      "state",
+      "technology"
+    ],
+    "geography": [
+      "United States"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Der Federal Aid Road Act von 1916 begründete eine dauerhaftere Zusammenarbeit zwischen Bund und Einzelstaaten beim Straßenbau. Finanzierungsregeln und zuständige Behörden wurden zu Voraussetzungen einer erweiterten amerikanischen Straßeninfrastruktur.",
+    "long_description": "Das Gesetz förderte den Bau und die Verbesserung ländlicher Poststraßen durch gemeinsame Finanzierung. Es band Bundesmittel an Verfahren der Einzelstaaten und verlangte die Unterhaltung geförderter Straßen. Damit entstand ein organisatorischer Rahmen, der über einzelne lokale Wegeprojekte hinausging. Der Eintrag unterscheidet die Entwicklung staatlicher Straßenpolitik von der Erfindung des Automobils oder der späteren Interstate-Highways. Die gesetzlichen Mittel von 1916 bezogen sich auf eine bestimmte Bauphase und garantierten noch kein vollständig ausgebautes Netz. Sein Stellenwert liegt in der Verbindung von Verkehr, öffentlicher Finanzierung und Verwaltung. Die spätere Ausrichtung auf massenhaften Autoverkehr hatte weitere politische, wirtschaftliche und technische Voraussetzungen, die hier nicht als zwangsläufige Folge dargestellt werden.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9123"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9093",
+    "title": "Die Brüder Wright führen kontrollierte Motorflüge durch",
+    "entry_type": "event",
+    "start_year": 1903,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1903",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "transport"
+    ],
+    "topics": [
+      "mobility",
+      "technology",
+      "science"
+    ],
+    "geography": [
+      "North Carolina",
+      "United States"
+    ],
+    "scope": "local",
+    "importance": 4,
+    "short_description": "Am 17. Dezember 1903 gelangen den Brüdern Wright bei Kill Devil Hills kontrollierte Motorflüge. Der Erfolg verband Antrieb mit Flugsteuerung und Erprobung, bedeutete aber noch keinen unmittelbar einsetzbaren regelmäßigen Luftverkehr.",
+    "long_description": "Nach mehreren Versuchen und Reparaturen startete Orville Wright am Morgen des 17. Dezember mit dem Flyer. Der erste Flug dauerte zwölf Sekunden und führte über eine kurze Strecke. Entscheidend war die Verbindung von eigenem Antrieb, Tragflächen und kontrollierbarer Steuerung bei einem Fluggerät schwerer als Luft. Damit ist der Vorgang von früheren Ballonfahrten, Gleitflügen und anderen Flugversuchen abzugrenzen. Der Eintrag vermeidet einen undifferenzierten Anspruch auf den „ersten Flug“ überhaupt. Für größere Reichweiten, zuverlässigen Betrieb und militärische oder zivile Nutzung waren weitere Entwicklungen notwendig. Das Ereignis ergänzt die Geschichte motorisierter Mobilität durch einen konkreten experimentellen Durchbruch, ohne dessen spätere Anwendungen bereits als feststehendes Ergebnis zu behandeln.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9124",
+      "S9125"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9094",
+    "title": "Die Internationale Meridiankonferenz entscheidet sich für Greenwich",
+    "entry_type": "event",
+    "start_year": 1884,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1884",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "astronomy"
+    ],
+    "topics": [
+      "communication",
+      "knowledge",
+      "mobility"
+    ],
+    "geography": [
+      "Washington",
+      "Global"
+    ],
+    "scope": "global",
+    "importance": 4,
+    "short_description": "Die Internationale Meridiankonferenz von 1884 wählte Greenwich als gemeinsamen Nullmeridian. Bestehende Navigationspraktiken und das Bedürfnis nach koordinierter Zeitmessung verbanden wissenschaftliche Referenzen mit internationalen Verkehrs- und Kommunikationssystemen.",
+    "long_description": "Die Festlegung eines gemeinsamen Längennullpunkts erleichterte die Verständigung zwischen unterschiedlichen Karten- und Navigationssystemen. Greenwich war bereits auf vielen Seekarten verbreitet und besaß dadurch einen praktischen Vorteil. Auch im britischen Eisenbahnverkehr und bei der telegraphischen Übermittlung von Zeitsignalen war seine Referenzzeit wichtig geworden. Die Konferenz von 1884 institutionalisierte diesen Bezugspunkt auf internationaler Ebene. Das bedeutet jedoch nicht, dass sämtliche Staaten sofort ein identisches Zeitzonensystem einführten. Nullmeridian, einheitlicher Tag und gesetzliche Ortszeit sind verschiedene Fragen. Der Eintrag ergänzt technische Kommunikation um die notwendige Koordination von Mess- und Zeitstandards und vermeidet die Darstellung solcher Konventionen als rein naturgegebene Größen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9126"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9095",
+    "title": "Die französische Erklärung der Menschen- und Bürgerrechte wird beschlossen",
+    "entry_type": "work_publication",
+    "start_year": 1789,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1789",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "state",
+      "knowledge"
+    ],
+    "geography": [
+      "France"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Die französische Nationalversammlung beschloss im August 1789 eine Erklärung grundlegender Rechte. Freiheit, Eigentum, Sicherheit und Widerstand gegen Unterdrückung wurden mit Vorstellungen gesetzlicher Gleichheit und einer neuen politischen Ordnung verbunden.",
+    "long_description": "Die Erklärung entstand während der Arbeit an einer Verfassung und wurde artikelweise zwischen dem 20. und 26. August beschlossen. Ihr Text verband aufklärerische Vorstellungen mit Anregungen aus der amerikanischen Unabhängigkeitserklärung. Die siebzehn Artikel formulierten allgemeine politische Grundsätze und wurden später der Verfassung von 1791 vorangestellt. Der Eintrag ist vom gesamten Revolutionsprozess zu unterscheiden: Er behandelt einen bestimmten normativen Text. Dass Rechte allgemein formuliert wurden, belegt noch nicht ihre gleichmäßige Verwirklichung für sämtliche Menschen. Auch spätere Erklärungen von 1793 und 1795 sind eigene Dokumente. Der Text von 1789 blieb gleichwohl ein wichtiger Bezugspunkt für verfassungsrechtliche Auseinandersetzungen und die Begründung legitimer Staatsgewalt.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9127"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9096",
+    "title": "Rammohun Roy gründet die Brahma Sabha",
+    "entry_type": "institution",
+    "start_year": 1828,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1828",
+    "primary_discipline": "philosophy_religion",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "theology"
+    ],
+    "topics": [
+      "religion",
+      "education",
+      "knowledge"
+    ],
+    "geography": [
+      "Bengal",
+      "India"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Rammohun Roy gründete 1828 die später als Brahmo Samaj bekannte Gemeinschaft. Sie entwickelte religiöse Reformvorstellungen durch die Auseinandersetzung mit hinduistischen Texten und anderen Religionen und verband Glaubensfragen mit gesellschaftlicher Erneuerung.",
+    "long_description": "Roy beschäftigte sich mit Schriften verschiedener religiöser Traditionen und suchte nach gemeinsamen moralischen Grundsätzen. Im August 1828 gründete er die Brahma Sabha. Die Gemeinschaft war kein bloßes Ergebnis europäischer Mission, sondern entwickelte ihre Positionen in einer eigenen Auseinandersetzung mit hinduistischen Überlieferungen und zeitgenössischen Herausforderungen. Nach Roys Tod wurde die Arbeit fortgeführt und verändert, insbesondere unter Debendranath Tagore. Dabei blieben Lehre und Bezug auf die Veden Gegenstand interner Debatten. Der Eintrag behandelt die Gründung als Ausgangspunkt und setzt die späteren Positionen nicht vollständig mit dem Programm von 1828 gleich. Er erweitert die Religionsgeschichte um eine südasiatische Reformbewegung mit eigenständigen Akteuren und intellektuellen Voraussetzungen.",
+    "persons": [
+      "P0021"
+    ],
+    "institutions": [],
+    "source_ids": [
+      "S9128"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9097",
+    "title": "Das Königreich Italien wird proklamiert",
+    "entry_type": "political_legal_change",
+    "start_year": 1861,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1861",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "state",
+      "rights"
+    ],
+    "geography": [
+      "Italy"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Das Gesetz vom 17. März 1861 verlieh Viktor Emanuel II. den Titel König von Italien. Es markierte einen zentralen institutionellen Schritt nationaler Einigung, ohne alle territorialen und gesellschaftlichen Konflikte abzuschließen.",
+    "long_description": "Der Gesetzesvorschlag wurde im Februar 1861 im Senat eingebracht, dort angenommen und anschließend von der Abgeordnetenkammer beschlossen. Die Verkündung am 17. März stellte die neue königliche Titulatur auf eine gesetzliche Grundlage. Der parlamentarische Ablauf macht deutlich, dass nationale Einigung nicht allein aus militärischen Ereignissen bestand, sondern auch rechtlich organisiert wurde. Der Eintrag behandelt diese Proklamation und nicht den gesamten Risorgimento. Unterschiedliche nationale, liberale und republikanische Vorstellungen gingen keineswegs vollständig in der neuen Monarchie auf. Die weitere territoriale Entwicklung und die tatsächliche politische Teilhabe erfordern eigene Betrachtung. Damit ergänzt der Vorgang vorhandene Revolutionseinträge um eine konkrete Form nationalstaatlicher Konsolidierung im neunzehnten Jahrhundert.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9129"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9098",
+    "title": "Galton prägt den Begriff Eugenik",
+    "entry_type": "idea_theory",
+    "start_year": 1883,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1883",
+    "primary_discipline": "science",
+    "secondary_disciplines": [],
+    "subdisciplines": [],
+    "topics": [
+      "science",
+      "rights",
+      "knowledge"
+    ],
+    "geography": [
+      "United Kingdom"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Francis Galton führte 1883 den Begriff Eugenik ein. Sein Programm übertrug Vorstellungen gezielter Züchtung auf menschliche Bevölkerungen und begründete diskriminierende Bewertungen von Fortpflanzung, sozialer Stellung und vermeintlicher erblich bedingter Eignung.",
+    "long_description": "Galton verband Forschungen über Vererbung und statistische Unterschiede mit dem politischen Ziel, die Zusammensetzung menschlicher Bevölkerungen zu verändern. Er unterschied fördernde und einschränkende Maßnahmen gegenüber als unterschiedlich wertvoll eingestuften Gruppen. UCLs historische Darstellung benennt Darwins Werk von 1859 als einen intellektuellen Anstoß. Daraus folgt jedoch weder eine wissenschaftliche Rechtfertigung rassistischer Rangordnungen noch die Gleichsetzung von Evolutionstheorie und Eugenik. Der Eintrag erfasst ein historisches Programm, dessen Prämissen und Anwendungen kritisch einzuordnen sind. Spätere Zwangssterilisationen und andere staatliche Maßnahmen entstanden in eigenen politischen Zusammenhängen. Eine einzige direkte Kante zu sämtlichen Verbrechen des zwanzigsten Jahrhunderts würde diese Unterschiede unzulässig verkürzen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9130",
+      "S9131"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9099",
+    "title": "Britische Truppen plündern Benin und verteilen geraubte Hofkunst",
+    "entry_type": "event",
+    "start_year": 1897,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1897",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [
+      "art_culture"
+    ],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "war",
+      "knowledge",
+      "rights"
+    ],
+    "geography": [
+      "Benin City",
+      "Nigeria",
+      "United Kingdom"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Bei der britischen Eroberung Benins 1897 wurden zahlreiche Gegenstände aus dem königlichen Umfeld geraubt. Verkauf, private Aneignung und Schenkungen brachten sie in europäische Sammlungen und verknüpften Museen unmittelbar mit kolonialer Gewalt.",
+    "long_description": "Die Hofkunst Benins erfüllte politische, religiöse und erinnernde Funktionen. Während der britischen Expedition wurden Objekte aus Messing, Elfenbein, Korallen und Holz aus dem Palast und seinen Anlagen entwendet. Nach der Darstellung des British Museum gelangten sie über verschiedene Wege nach Großbritannien: Manche wurden verkauft oder getauscht, andere in Privatsammlungen behalten oder Museen übergeben. Der neue Kontext veränderte ihre Präsentation und Zuordnung. Der Eintrag behandelt diesen konkret dokumentierten Zusammenhang zwischen militärischer Gewalt und Sammlungsgeschichte. Er ersetzt keine Provenienzprüfung jedes einzelnen Objekts. Ebenso dürfen heutige Besitzverhältnisse und Rückgaben nicht ohne aktuelle objektbezogene Recherche aus dem Erwerbungsdatum von 1897 abgeleitet werden.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9132"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9100",
+    "title": "Japanische Druckgrafik prägt europäische Kunst im Japonismus",
+    "entry_type": "process",
+    "start_year": 1860,
+    "end_year": 1900,
+    "date_precision": "approximate",
+    "date_label": "ca. 1860–1900",
+    "primary_discipline": "art_culture",
+    "secondary_disciplines": [],
+    "subdisciplines": [],
+    "topics": [
+      "media",
+      "trade",
+      "knowledge"
+    ],
+    "geography": [
+      "Japan",
+      "France",
+      "United Kingdom"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Japanische Farbholzschnitte regten seit der Mitte des neunzehnten Jahrhunderts europäische Künstlerinnen und Künstler zu neuen Bildlösungen an. Im Japonismus verbanden sich Handel, Sammeln und unterschiedliche Formen ästhetischer Aneignung.",
+    "long_description": "Mit der Ausweitung der Handelskontakte gelangten japanische Objekte und Druckgrafiken in größerem Umfang nach Europa. Künstler wie Degas und die Malerin Mary Cassatt beschäftigten sich mit Bildausschnitten, asymmetrischer Komposition und ungewöhnlichen Blickwinkeln. Das Metropolitan Museum unterscheidet solche gestalterischen Auseinandersetzungen von der bloßen Darstellung exotischer Requisiten. Die Ausstellung japanischer Kunst in Paris 1890 gab Cassatt einen konkreten Anstoß für eigene Farbdrucke. Der Eintrag beschreibt damit keine einseitige Übertragung einer einheitlichen „japanischen Ästhetik“, sondern unterschiedliche europäische Reaktionen auf bestimmte Werke und Techniken. Die Zeitspanne fasst eine Hauptphase zusammen. Der Zusammenhang mit dem Impressionismus ist belegt, erklärt aber nicht sämtliche Merkmale oder Ursachen dieser Bewegung.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9133"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9101",
+    "title": "Die Lumière-Brüder zeigen Filme im Pariser Grand Café",
+    "entry_type": "event",
+    "start_year": 1895,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1895",
+    "primary_discipline": "art_culture",
+    "secondary_disciplines": [],
+    "subdisciplines": [],
+    "topics": [
+      "media",
+      "communication",
+      "technology"
+    ],
+    "geography": [
+      "Paris",
+      "France"
+    ],
+    "scope": "local",
+    "importance": 4,
+    "short_description": "Am 28. Dezember 1895 präsentierten die Lumière-Brüder im Grand Café Filme mit ihrem Cinématographe. Das Gerät verband Aufnahme, Kopieren und Projektion und trug zur Entwicklung öffentlicher Filmvorführungen bei.",
+    "long_description": "Der Cinématographe war eine kombinierte Filmkamera, Kopier- und Projektionsvorrichtung. Die Pariser Vorführung vom Dezember 1895 ist ein wichtiger Bezugspunkt der frühen Kinogeschichte. Sie darf aber nicht als Erfindung aller bewegten Bilder oder als erste Projektion überhaupt dargestellt werden: Verschiedene Geräte und Vorführformen waren zuvor entwickelt worden. Der Eintrag konzentriert sich auf das konkret dokumentierte Ereignis und seine technische Grundlage. Damit ergänzt er die bestehende Fotografie um die öffentliche Präsentation fotografischer Bewegungsfolgen. Für die Entstehung einer regelmäßigen Filmindustrie waren weitere organisatorische und wirtschaftliche Schritte nötig. Ein unmittelbarer Übergang von dieser Vorführung zu allen späteren Formen politischer Massenkommunikation wird nicht behauptet.",
+    "persons": [
+      "P0018",
+      "P0019"
+    ],
+    "institutions": [],
+    "source_ids": [
+      "S9134"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9102",
+    "title": "Césaires Cahier d’un retour au pays natal erscheint erstmals",
+    "entry_type": "work_publication",
+    "start_year": 1939,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1939",
+    "primary_discipline": "art_culture",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "literature"
+    ],
+    "topics": [
+      "media",
+      "knowledge",
+      "rights"
+    ],
+    "geography": [
+      "Martinique",
+      "France"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Aimé Césaires Cahier d’un retour au pays natal erschien 1939 zunächst in einer Pariser Zeitschrift. Das lange Gedicht in Versen und Prosa wurde später übersetzt und mehrfach überarbeitet und gehört zu seiner literarischen Selbstpositionierung.",
+    "long_description": "Die erste Fassung des Cahier erschien im August 1939 in der Zeitschrift Volontés. Der Katalog der französischen Nationalbibliothek unterscheidet diese Veröffentlichung von der spanischen Übersetzung auf Kuba 1943 und einer französischen Buchausgabe von 1947. Eine spätere definitive Fassung liegt außerhalb des hier bevorzugten Zeitraums. Diese Publikationsgeschichte ist wichtig, weil Aussagen über „das Werk“ unterschiedliche Textstände betreffen können. Der Eintrag dokumentiert daher zuerst den frühen Veröffentlichungsschritt. Die Einordnung in antikoloniales Denken und Négritude benötigt darüber hinaus textnahe literaturwissenschaftliche Interpretation. Aus dem bibliografischen Nachweis allein werden keine bestimmten politischen Wirkungen oder direkten Einflüsse auf einzelne Unabhängigkeitsbewegungen abgeleitet. Solche Beziehungen bleiben vorläufig unangelegt.",
+    "persons": [
+      "P0020"
+    ],
+    "institutions": [],
+    "source_ids": [
+      "S9135",
+      "S9136"
+    ],
+    "confidence": "high",
+    "notes": "Bibliografischer Kern gesichert; vertiefte Interpretation der Négritude und einzelner Fassungen bleibt offen."
+  },
+  {
+    "id": "E9103",
+    "title": "Die Qing übernehmen 1644 die Herrschaft in Peking",
+    "entry_type": "political_legal_change",
+    "start_year": 1644,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1644",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "state",
+      "war",
+      "knowledge"
+    ],
+    "geography": [
+      "China"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Die mandschurischen Qing übernahmen 1644 Peking und traten die Nachfolge der zusammenbrechenden Ming-Herrschaft an. Militärische Expansion und die Aneignung chinesischer Herrschaftstraditionen prägten die folgende imperiale Ordnung.",
+    "long_description": "Der Herrschaftswechsel von 1644 markiert einen zentralen Einschnitt der chinesischen Geschichte. Er bedeutete nicht, dass an diesem Datum bereits alle Gebiete des späteren Qing-Reichs vollständig kontrolliert wurden. Die neue Dynastie musste ihre Macht weiter ausbauen und legitimieren. Neben militärischer Stärke spielte die Förderung chinesischer Kultur- und Herrschaftstraditionen eine wichtige Rolle. Das Metropolitan Museum zeigt dies besonders an Kunst und höfischer Patronage unter späteren Kaisern. Der Eintrag unterscheidet den politischen Übergang von seinen längerfristigen kulturellen und territorialen Folgen. Er setzt China nicht erst mit dem europäischen Opiumhandel auf den Zeitstrahl, sondern macht einen eigenständigen inner- und ostasiatischen Machtwechsel sichtbar. Die späte Ming-Krise bleibt ein eigener vertiefungsbedürftiger Zusammenhang.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9137"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9104",
+    "title": "Akbars Expansion verbindet Produktionszentren im Mogulreich",
+    "entry_type": "process",
+    "start_year": 1556,
+    "end_year": 1605,
+    "date_precision": "exact",
+    "date_label": "1556–1605",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "state",
+      "trade",
+      "production"
+    ],
+    "geography": [
+      "India",
+      "South Asia"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Unter Akbar dehnte sich das Mogulreich aus und integrierte bedeutende Produktionsregionen wie Gujarat und Bengalen. Höfische Förderung und die Arbeit eingewanderter Handwerker verbanden politische Expansion mit Veränderungen der Textilkunst.",
+    "long_description": "Akbars Regierungszeit von 1556 bis 1605 brachte eine erhebliche Erweiterung des Mogulreichs. Gujarat und Bengalen waren nicht nur politische Räume, sondern auch wichtige Zentren von Handel und Textilproduktion. Die Einladung iranischer Weber an höfische Produktionsorte veranschaulicht den Austausch von Techniken und Gestaltungsformen. Der Eintrag behandelt diesen Zusammenhang von Herrschaft und materieller Kultur, nicht sämtliche Aspekte der Verwaltung oder Religionspolitik Akbars. Er macht südasiatische Produktion als eigenständige Entwicklung vor der britischen Kolonialherrschaft sichtbar. Die späteren globalen Baumwollmärkte bauten auf bereits vorhandenen Kenntnissen und Produktionslandschaften auf. Eine direkte Kante zu einer bestimmten europäischen Spinnmaschine wäre daraus jedoch nicht abzuleiten und wird nicht angelegt.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9138"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9105",
+    "title": "Timbuktu verbindet Gelehrsamkeit, Handschriften und Fernhandel",
+    "entry_type": "process",
+    "start_year": 1450,
+    "end_year": 1600,
+    "date_precision": "approximate",
+    "date_label": "ca. 1450–1600",
+    "primary_discipline": "philosophy_religion",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "theology"
+    ],
+    "topics": [
+      "knowledge",
+      "religion",
+      "trade",
+      "education"
+    ],
+    "geography": [
+      "Timbuktu",
+      "West Africa"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Timbuktu war im fünfzehnten und sechzehnten Jahrhundert ein bedeutendes Zentrum islamischer Gelehrsamkeit und des Handels. Handschriften, Unterricht und religiöse Einrichtungen verbanden lokale Wissenskulturen mit den Verkehrswegen durch die Sahara.",
+    "long_description": "Die Stadt lag an einer günstigen Verbindung zwischen Flusslandschaften und transsaharischen Wegen. Neben Waren wurden auch Handschriften gehandelt und gelehrte Beziehungen gepflegt. Moscheen und Lehrstätten, darunter Sankore, bildeten wichtige Orte dieser Wissenswelt. Erhaltene Manuskripte belegen ein breites Spektrum schriftlicher Themen und Praktiken. Der Eintrag fasst eine Blütephase zusammen und behauptet weder eine Gründung 1450 noch ein abruptes Ende 1600. Die verbreitete Bezeichnung „Universität“ sollte nicht ohne Weiteres das Modell einer modernen zentralisierten Hochschule nahelegen. Die Darstellung macht westafrikanische Gelehrsamkeit als eigenständigen historischen Prozess sichtbar. Ungeprüfte Angaben zu riesigen Studierenden- oder Einwohnerzahlen werden bewusst nicht aus populären Überblicken übernommen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9139",
+      "S9140"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9106",
+    "title": "Sansibars Stone Town wächst als Handels- und Herrschaftszentrum",
+    "entry_type": "process",
+    "start_year": 1800,
+    "end_year": 1900,
+    "date_precision": "century",
+    "date_label": "1800–1900",
+    "primary_discipline": "technology_economy",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "trade"
+    ],
+    "topics": [
+      "trade",
+      "urbanisation",
+      "work"
+    ],
+    "geography": [
+      "Zanzibar",
+      "East Africa",
+      "Indian Ocean"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Im neunzehnten Jahrhundert wuchs Sansibars Stone Town als ostafrikanisches Handels- und Herrschaftszentrum. Paläste, Wohnquartiere und Versorgungsanlagen zeigen die Verbindung lokaler Swahili-Traditionen mit arabischen, indischen und weiteren Einflüssen.",
+    "long_description": "Die städtische Entwicklung wurde durch Handel, politische Macht und Beziehungen über den Indischen Ozean geprägt. Das Welterbe-Nominierungsdossier beschreibt Palastbauten seit den 1830er Jahren sowie weitere Veränderungen unter Sultan Barghash zwischen 1870 und 1888. Neue Wasseranlagen und repräsentative Gebäude veränderten die Stadt, während unterschiedliche Wohnformen nebeneinander bestanden. Sansibar war zugleich in eine Wirtschaft eingebunden, zu der Versklavung und Menschenhandel gehörten; kultureller Austausch darf diese Gewaltverhältnisse nicht verdecken. Der Eintrag beschreibt ein Jahrhundert städtischer Veränderung und keine plötzliche Stadtgründung. Er ergänzt die Geschichte des Indischen Ozeans aus einer ostafrikanischen Perspektive. Exakte Aussagen über die Hauptstadtverlegung werden wegen uneinheitlicher Datierungen hier nicht zum eigenen Ereigniskern gemacht.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9141",
+      "S9149"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9107",
+    "title": "Portugal erobert den Hafen Melaka",
+    "entry_type": "event",
+    "start_year": 1511,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1511",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "war",
+      "trade",
+      "state"
+    ],
+    "geography": [
+      "Melaka",
+      "Malaysia"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Die portugiesische Eroberung Melakas 1511 griff in ein bedeutendes südostasiatisches Handelszentrum ein. Militärische Kontrolle eines Hafens bedeutete jedoch keine vollständige Beherrschung der regionalen Händlernetze oder des gesamten Gewürzhandels.",
+    "long_description": "Unter Afonso de Albuquerque eroberten portugiesische Kräfte die Hafenstadt Melaka. Die Stadt war bereits zuvor ein wichtiger Umschlagplatz mit Verbindungen zu unterschiedlichen asiatischen Händlergruppen. Nach der Eroberung versuchten die neuen Machthaber, Kaufleute zurückzugewinnen und Beziehungen zu benachbarten Staaten aufzubauen. Ahmat Adams bei UNESCO zugänglicher Beitrag betont, dass einheimische Händler einen vollständigen portugiesischen Monopolzugriff verhinderten. Der Eintrag verbindet militärische Expansion mit fortbestehender regionaler Handlungsfähigkeit. Er behandelt nicht die gesamte Geschichte des Sultanats und setzt dessen Handelswelt nicht mit europäischer Präsenz gleich. Die langfristigen sprachlichen und kulturellen Kontakte sind zusätzliche Folgen, deren einzelne Formen gesondert nachgewiesen werden müssen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9142"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9108",
+    "title": "Pueblo-Gemeinschaften erheben sich gegen spanische Herrschaft",
+    "entry_type": "event",
+    "start_year": 1680,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1680",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "religion",
+      "state",
+      "war"
+    ],
+    "geography": [
+      "New Mexico",
+      "North America"
+    ],
+    "scope": "regional",
+    "importance": 4,
+    "short_description": "Der Pueblo-Aufstand von 1680 richtete sich gegen spanische Herrschaft, Arbeitsforderungen und religiöse Unterdrückung. Eine koordinierte Erhebung vertrieb Kolonisten und Missionare und machte indigene Bündnisbildung zu einer entscheidenden politischen Kraft.",
+    "long_description": "Die spanische Kolonialordnung griff in Versorgung, Arbeit und religiöse Praktiken der Pueblo-Gemeinschaften ein. Unter der organisatorischen Beteiligung von Po’pay wurden verschiedene Orte für einen gemeinsamen Aufstand mobilisiert. Nachrichten und abgestimmte Zeitplanung halfen, die Erhebung zu koordinieren. Missionen wurden angegriffen und die spanische Präsenz zurückgedrängt. Der Eintrag zeigt Widerstand nicht nur als spontane Reaktion, sondern auch als politische und kommunikative Leistung. Er behandelt die Erhebung von 1680 und nicht die gesamte folgende Geschichte, in der erneut Konflikte und koloniale Rückkehr eine Rolle spielten. Unterschiedliche Interessen innerhalb der beteiligten Gemeinschaften dürfen nicht durch die Vorstellung einer einheitlichen, unveränderten indigenen Ordnung ersetzt werden.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9143"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9109",
+    "title": "Te Tiriti o Waitangi wird unterzeichnet",
+    "entry_type": "political_legal_change",
+    "start_year": 1840,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1840",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "state",
+      "trade"
+    ],
+    "geography": [
+      "New Zealand"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Der Vertrag von Waitangi wurde 1840 zwischen Vertretern der britischen Krone und Māori-Rangatira geschlossen. Unterschiedliche Māori- und englischsprachige Formulierungen über Herrschaft und Landrechte wurden zu einem grundlegenden politischen Konfliktfeld.",
+    "long_description": "Die beiden Vertragstexte waren keine bedeutungsgleichen Übersetzungen. Insbesondere die Begriffe kāwanatanga und tino rangatiratanga ließen andere Vorstellungen von Regierungsgewalt und fortbestehender Autorität zu als der englische Text. Auch mündliche Erklärungen während der Verhandlungen waren für das Verständnis wichtig. Daraus ergibt sich, dass Zustimmung nicht pauschal als eindeutig geteilte Auffassung einer vollständigen Souveränitätsübertragung beschrieben werden sollte. Der Eintrag behandelt den Vertrag als umkämpfte Grundlage kolonialer Beziehungen und indigener Rechtsansprüche. Er behauptet keine widerspruchsfreie Landübertragung oder einheitliche Position sämtlicher Māori. Die konkrete Unterzeichnung und die spätere Auslegung bilden miteinander verbundene, aber historisch unterschiedliche Ebenen. Über heutige Rechtsfragen wird hier keine Aussage getroffen.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9144"
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": "E9110",
+    "title": "Die konstitutionelle Bewegung im Iran erzwingt eine neue Staatsordnung",
+    "entry_type": "process",
+    "start_year": 1905,
+    "end_year": 1911,
+    "date_precision": "exact",
+    "date_label": "1905–1911",
+    "primary_discipline": "politics_society",
+    "secondary_disciplines": [],
+    "subdisciplines": [
+      "political_history"
+    ],
+    "topics": [
+      "rights",
+      "state",
+      "media"
+    ],
+    "geography": [
+      "Iran"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Die iranische Verfassungsbewegung führte 1906 zu einem Parlament und einer Verfassung. Proteste, Debatten und bewaffnete Konflikte stellten monarchische Macht infrage; die neue Ordnung blieb durch innere Gegensätze und äußeren Druck gefährdet.",
+    "long_description": "Die Bewegung entwickelte sich aus Protesten und politischen Auseinandersetzungen seit 1905. Die Einberufung des ersten Majles 1906 eröffnete eine neue Phase öffentlicher Verfassungsdebatten. Verfassung und ergänzende Bestimmungen von 1907 begrenzten die Herrschergewalt und formulierten Rechte innerhalb einer weiterhin eingeschränkten Ordnung. Der Staatsstreich von 1908, die Wiederherstellung des Verfassungsregimes 1909 und die Auflösung des zweiten Majles 1911 zeigen einen konfliktreichen Verlauf. Die Encyclopaedia Iranica unterscheidet diese Phasen ausdrücklich. Der Eintrag stellt den Iran als eigenständigen Ort konstitutionellen Denkens und politischer Mobilisierung dar. Er vermeidet die Gleichsetzung von Verfassungsverkündung mit sofortiger Demokratie oder mit einer geradlinigen und dauerhaft gesicherten Liberalisierung.",
+    "persons": [],
+    "institutions": [],
+    "source_ids": [
+      "S9145",
+      "S9146"
+    ],
+    "confidence": "high",
+    "notes": ""
   }
 ]

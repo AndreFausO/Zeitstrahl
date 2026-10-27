@@ -1,0 +1,501 @@
+{
+  "date": "2026-10-27",
+  "event_duplicate_mapping": {},
+  "person_duplicate_mapping": {},
+  "institution_duplicate_mapping": {},
+  "source_duplicate_mapping": {},
+  "source_replacement_mapping": {
+    "S9089": "S9152"
+  },
+  "counts": {
+    "events": 84,
+    "persons": 6,
+    "relationships": 25,
+    "sources": 116,
+    "institutions": 3
+  },
+  "changes": [
+    {
+      "collection": "events",
+      "id": "E9067",
+      "before": {
+        "id": "E9067",
+        "title": "Das Attentat von Sarajevo löst die Julikrise aus",
+        "entry_type": "event",
+        "start_year": 1914,
+        "end_year": null,
+        "date_precision": "exact",
+        "date_label": "1914",
+        "primary_discipline": "politics_society",
+        "secondary_disciplines": [],
+        "subdisciplines": [
+          "political_history"
+        ],
+        "topics": [
+          "war",
+          "state"
+        ],
+        "geography": [
+          "Sarajevo",
+          "Europe"
+        ],
+        "scope": "continental",
+        "importance": 4,
+        "short_description": "Die Ermordung Franz Ferdinands am 28. Juni 1914 wurde zum Ausgangspunkt der Julikrise. Politische Entscheidungen und Bündnisbeziehungen ließen den österreichisch-serbischen Konflikt in den Ersten Weltkrieg übergehen.",
+        "long_description": "Gavrilo Princip erschoss in Sarajevo den österreichisch-ungarischen Thronfolger und dessen Frau. Österreich-Ungarn reagierte im folgenden Monat mit einem scharfen Vorgehen gegen Serbien und erhielt dabei deutsche Unterstützung. Die Eskalation zog weitere Mächte hinein; Mobilisierungen und Kriegserklärungen veränderten den Handlungsspielraum. Das Attentat war ein konkreter Anlass, aber keine hinreichende Erklärung aller Ursachen des Weltkriegs. Imperiale Konkurrenz, Sicherheitsvorstellungen und Entscheidungen der Regierungen müssen unterschieden werden. Der Eintrag ergänzt den bestehenden Krieg von 1914–1918 um dessen unmittelbare Krisenphase. Er vermeidet die Vorstellung eines mechanischen Bündnisautomatismus, bei dem nach den Schüssen sämtliche weiteren Entscheidungen schon zwangsläufig festgestanden hätten. Für einzelne diplomatische Schritte wäre eine feinere Chronologie erforderlich.",
+        "persons": [],
+        "institutions": [],
+        "source_ids": [
+          "S9089"
+        ],
+        "confidence": "high",
+        "notes": ""
+      },
+      "after": {
+        "id": "E9067",
+        "title": "Das Attentat von Sarajevo löst die Julikrise aus",
+        "entry_type": "event",
+        "start_year": 1914,
+        "end_year": null,
+        "date_precision": "exact",
+        "date_label": "1914",
+        "primary_discipline": "politics_society",
+        "secondary_disciplines": [],
+        "subdisciplines": [
+          "political_history"
+        ],
+        "topics": [
+          "war",
+          "state"
+        ],
+        "geography": [
+          "Sarajevo",
+          "Europe"
+        ],
+        "scope": "continental",
+        "importance": 4,
+        "short_description": "Die Ermordung Franz Ferdinands am 28. Juni 1914 wurde zum Ausgangspunkt der Julikrise. Politische Entscheidungen und Bündnisbeziehungen ließen den österreichisch-serbischen Konflikt in den Ersten Weltkrieg übergehen.",
+        "long_description": "Gavrilo Princip erschoss in Sarajevo den österreichisch-ungarischen Thronfolger und dessen Frau. Österreich-Ungarn reagierte im folgenden Monat mit einem scharfen Vorgehen gegen Serbien und erhielt dabei deutsche Unterstützung. Die Eskalation zog weitere Mächte hinein; Mobilisierungen und Kriegserklärungen veränderten den Handlungsspielraum. Das Attentat war ein konkreter Anlass, aber keine hinreichende Erklärung aller Ursachen des Weltkriegs. Imperiale Konkurrenz, Sicherheitsvorstellungen und Entscheidungen der Regierungen müssen unterschieden werden. Der Eintrag ergänzt den bestehenden Krieg von 1914–1918 um dessen unmittelbare Krisenphase. Er vermeidet die Vorstellung eines mechanischen Bündnisautomatismus, bei dem nach den Schüssen sämtliche weiteren Entscheidungen schon zwangsläufig festgestanden hätten. Für einzelne diplomatische Schritte wäre eine feinere Chronologie erforderlich.",
+        "persons": [],
+        "institutions": [],
+        "source_ids": [
+          "S9152"
+        ],
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "collection": "events",
+      "id": "E9074",
+      "before": {
+        "id": "E9074",
+        "title": "Mauritius wird Ausgangspunkt einer neuen Vertragsarbeitsdiaspora",
+        "entry_type": "process",
+        "start_year": 1834,
+        "end_year": 1920,
+        "date_precision": "exact",
+        "date_label": "1834–1920",
+        "primary_discipline": "politics_society",
+        "secondary_disciplines": [],
+        "subdisciplines": [
+          "political_history"
+        ],
+        "topics": [
+          "work",
+          "mobility",
+          "trade"
+        ],
+        "geography": [
+          "Mauritius",
+          "India",
+          "Indian Ocean"
+        ],
+        "scope": "global",
+        "importance": 4,
+        "short_description": "Seit 1834 wurden in großem Umfang Arbeitskräfte unter mehrjährigen Verträgen nach Mauritius gebracht. Die Plantagenwirtschaft nach der Sklaverei verband neue Rechtsformen mit kolonialer Arbeitskontrolle und weitreichender Migration.",
+        "long_description": "Die britische Regierung wählte Mauritius für ein Experiment mit Vertragsarbeit nach der Abschaffung der Sklaverei. Über Jahrzehnte kamen vor allem Menschen aus Indien auf die Insel; weitere Migration führte in andere Kolonialgebiete. Das heute als Aapravasi Ghat bekannte erhaltene Depot wurde 1849 errichtet und darf nicht rückwirkend als bereits 1834 vorhandenes Gebäude dargestellt werden. Die Verträge unterschieden sich rechtlich von Sklaverei, schufen aber asymmetrische Arbeitsverhältnisse. Zugleich trugen Migrantinnen und Migranten eigene Kenntnisse, Religionen und soziale Bindungen in neue Gesellschaften. Der Eintrag verbindet Arbeitsgeschichte mit der Entstehung von Diasporas. Er reduziert die Betroffenen weder auf bloße Arbeitskräfte noch setzt er alle kolonialen Vertragsarbeitsregime gleich.",
+        "persons": [],
+        "institutions": [],
+        "source_ids": [
+          "S9098"
+        ],
+        "confidence": "high",
+        "notes": ""
+      },
+      "after": {
+        "id": "E9074",
+        "title": "Mauritius wird Ausgangspunkt einer neuen Vertragsarbeitsdiaspora",
+        "entry_type": "process",
+        "start_year": 1834,
+        "end_year": 1920,
+        "date_precision": "exact",
+        "date_label": "1834–1920",
+        "primary_discipline": "politics_society",
+        "secondary_disciplines": [],
+        "subdisciplines": [
+          "political_history"
+        ],
+        "topics": [
+          "work",
+          "mobility",
+          "trade"
+        ],
+        "geography": [
+          "Mauritius",
+          "India",
+          "Indian Ocean"
+        ],
+        "scope": "global",
+        "importance": 4,
+        "short_description": "Seit 1834 wurden in großem Umfang Arbeitskräfte unter mehrjährigen Verträgen nach Mauritius gebracht. Die Plantagenwirtschaft nach der Sklaverei verband neue Rechtsformen mit kolonialer Arbeitskontrolle und weitreichender Migration.",
+        "long_description": "Die britische Regierung wählte Mauritius für ein Experiment mit Vertragsarbeit im Zusammenhang mit der britischen Abschaffungsgesetzgebung. Über Jahrzehnte kamen vor allem Menschen aus Indien auf die Insel; weitere Migration führte in andere Kolonialgebiete. Das heute als Aapravasi Ghat bekannte erhaltene Depot wurde 1849 errichtet und darf nicht rückwirkend als bereits 1834 vorhandenes Gebäude dargestellt werden. Die Verträge unterschieden sich rechtlich von Sklaverei, schufen aber asymmetrische Arbeitsverhältnisse. Zugleich trugen Migrantinnen und Migranten eigene Kenntnisse, Religionen und soziale Bindungen in neue Gesellschaften. Der Eintrag verbindet Arbeitsgeschichte mit der Entstehung von Diasporas. Er reduziert die Betroffenen weder auf bloße Arbeitskräfte noch setzt er alle kolonialen Vertragsarbeitsregime gleich.",
+        "persons": [],
+        "institutions": [],
+        "source_ids": [
+          "S9098"
+        ],
+        "confidence": "high",
+        "notes": "Lokale Prüfung: Der Beginn der Vertragsarbeit 1834 wird nicht mit einer bereits überall abgeschlossenen Emanzipation gleichgesetzt; lokale Umsetzung und Apprenticeship sind zu unterscheiden."
+      }
+    },
+    {
+      "collection": "relationships",
+      "id": "R9013",
+      "before": {
+        "id": "R9013",
+        "source_id": "E0007",
+        "target_id": "E9027",
+        "relationship_type": "developed_from",
+        "strength": 4,
+        "confidence": "high",
+        "description": "Watts Verbesserung mit separatem Kondensator setzte bei der Newcomen-Maschine und deren Wärmeverlusten an. Die Richtung führt von der Weiterentwicklung zum technischen Vorläufer.",
+        "start_year": null,
+        "end_year": null,
+        "geography": [],
+        "source_ids": [
+          "S9036"
+        ]
+      },
+      "after": {
+        "id": "R9013",
+        "source_id": "E0007",
+        "target_id": "E9027",
+        "relationship_type": "developed_from",
+        "strength": 4,
+        "confidence": "high",
+        "description": "Watts Verbesserung mit separatem Kondensator setzte bei der Newcomen-Maschine und deren Wärmeverlusten an. Die Richtung führt von der Weiterentwicklung zum technischen Vorläufer.",
+        "start_year": null,
+        "end_year": null,
+        "geography": [],
+        "source_ids": [
+          "S9036",
+          "S0002"
+        ]
+      }
+    },
+    {
+      "collection": "relationships",
+      "id": "R9015",
+      "before": {
+        "id": "R9015",
+        "source_id": "E9030",
+        "target_id": "E9008",
+        "relationship_type": "developed_from",
+        "strength": 3,
+        "confidence": "medium",
+        "description": "Der Act von 1847 erweiterte eine bereits durch das Gesetz von 1833 geschaffene Fabrikregulierung. Gemeint ist eine gesetzgebungsgeschichtliche Fortentwicklung, keine alleinige Verursachung der späteren Reform.",
+        "start_year": null,
+        "end_year": null,
+        "geography": [],
+        "source_ids": [
+          "S9040"
+        ]
+      },
+      "after": {
+        "id": "R9015",
+        "source_id": "E9030",
+        "target_id": "E9008",
+        "relationship_type": "developed_from",
+        "strength": 3,
+        "confidence": "medium",
+        "description": "Der Act von 1847 setzte die mit dem Factory Act von 1833 verstärkte Fabrikregulierung fort, vermittelt unter anderem durch das Gesetz von 1844 und die Arbeitszeitkampagne. Die parlamentarische Darstellung ordnet diese Schritte ausdrücklich als Reformfolge ein. Gemeint ist eine gesetzgebungsgeschichtliche Fortentwicklung, keine direkte oder alleinige Verursachung.",
+        "start_year": null,
+        "end_year": null,
+        "geography": [],
+        "source_ids": [
+          "S9040",
+          "S9151"
+        ]
+      }
+    },
+    {
+      "collection": "relationships",
+      "id": "R9023",
+      "before": {
+        "id": "R9023",
+        "source_id": "E9046",
+        "target_id": "E9058",
+        "relationship_type": "accelerated",
+        "strength": 4,
+        "confidence": "high",
+        "description": "Der Great Stink erhöhte den unmittelbaren parlamentarischen Handlungsdruck und beschleunigte die Finanzierung und Durchführung des neuen Abwassersystems.",
+        "start_year": null,
+        "end_year": null,
+        "geography": [],
+        "source_ids": [
+          "S9080"
+        ]
+      },
+      "after": {
+        "id": "R9023",
+        "source_id": "E9046",
+        "target_id": "E9058",
+        "relationship_type": "accelerated",
+        "strength": 4,
+        "confidence": "high",
+        "description": "Der Great Stink erhöhte den unmittelbaren parlamentarischen Handlungsdruck und beschleunigte die Finanzierung und Durchführung des neuen Abwassersystems.",
+        "start_year": null,
+        "end_year": null,
+        "geography": [],
+        "source_ids": [
+          "S9080",
+          "S9064"
+        ]
+      }
+    },
+    {
+      "collection": "relationships",
+      "id": "R9026",
+      "before": {
+        "id": "R9026",
+        "source_id": "E9067",
+        "target_id": "E0025",
+        "relationship_type": "contributed_to",
+        "strength": 4,
+        "confidence": "high",
+        "description": "Das Attentat eröffnete die Krise, in der Österreich-Ungarns Vorgehen gegen Serbien und die Entscheidungen weiterer Mächte zum Krieg führten. Es war Anlass, nicht hinreichende Gesamterklärung.",
+        "start_year": null,
+        "end_year": null,
+        "geography": [],
+        "source_ids": [
+          "S9089"
+        ]
+      },
+      "after": {
+        "id": "R9026",
+        "source_id": "E9067",
+        "target_id": "E0025",
+        "relationship_type": "contributed_to",
+        "strength": 4,
+        "confidence": "high",
+        "description": "Das Attentat eröffnete die Krise, in der Österreich-Ungarns Vorgehen gegen Serbien und die Entscheidungen weiterer Mächte zum Krieg führten. Es war Anlass, nicht hinreichende Gesamterklärung.",
+        "start_year": null,
+        "end_year": null,
+        "geography": [],
+        "source_ids": [
+          "S9152"
+        ]
+      }
+    },
+    {
+      "collection": "relationships",
+      "id": "R9029",
+      "before": {
+        "id": "R9029",
+        "source_id": "E9070",
+        "target_id": "E9074",
+        "relationship_type": "contributed_to",
+        "strength": 4,
+        "confidence": "high",
+        "description": "Die Suche der kolonialen Plantagenwirtschaft nach Arbeitskräften nach der Abschaffung der Sklaverei war ein konkreter Anlass des mauritischen Vertragsarbeitsexperiments von 1834.",
+        "start_year": null,
+        "end_year": null,
+        "geography": [],
+        "source_ids": [
+          "S9098"
+        ]
+      },
+      "after": {
+        "id": "R9029",
+        "source_id": "E9070",
+        "target_id": "E9074",
+        "relationship_type": "contributed_to",
+        "strength": 4,
+        "confidence": "medium",
+        "description": "Im Zusammenhang mit der britischen Abschaffungsgesetzgebung sollte das mauritische Vertragsarbeitsexperiment von 1834 eine Alternative zur versklavten Plantagenarbeit schaffen. UNESCO stellt diesen Zweck ausdrücklich heraus. Die Verbindung bezeichnet den Umbau des kolonialen Arbeitssystems, nicht eine bereits überall abgeschlossene Emanzipation oder die Gleichheit beider Arbeitsregime.",
+        "start_year": null,
+        "end_year": null,
+        "geography": [],
+        "source_ids": [
+          "S9098"
+        ]
+      }
+    },
+    {
+      "collection": "sources",
+      "id": "S9051",
+      "before": {
+        "id": "S9051",
+        "title": "Haiti (Saint-Domingue) | Slavery and Remembrance",
+        "author": "",
+        "year": null,
+        "source_type": "reputable_website",
+        "publisher": "6il.slaveryandremembrance.org",
+        "url": "https://6il.slaveryandremembrance.org/articles/article/index.cfm?id=A0111",
+        "notes": "Online-Recherche 26.10.2026. Verwendet wurden die zugänglichen, inhaltlich einschlägigen Online-Passagen; keine vollständige Prüfung sämtlicher verlinkter Publikationen. Bibliografisch nicht gesicherte Angaben bleiben leer/null."
+      },
+      "after": {
+        "id": "S9051",
+        "title": "Haiti (Saint-Domingue) | Slavery and Remembrance",
+        "author": "",
+        "year": null,
+        "source_type": "reputable_website",
+        "publisher": "The Colonial Williamsburg Foundation / Slavery and Remembrance",
+        "url": "https://slaveryandremembrance.org/articles/article/index.cfm?id=A0111",
+        "notes": "Online-Recherche 26.10.2026. Verwendet wurden die zugänglichen, inhaltlich einschlägigen Online-Passagen; keine vollständige Prüfung sämtlicher verlinkter Publikationen. Bibliografisch nicht gesicherte Angaben bleiben leer/null. Lokale Prüfung 27.10.2026: Artikel auf der Hauptdomain gelesen; nicht erreichbare Subdomain ersetzt."
+      }
+    },
+    {
+      "collection": "sources",
+      "id": "S9089",
+      "before": {
+        "id": "S9089",
+        "title": "The",
+        "author": "",
+        "year": null,
+        "source_type": "reputable_website",
+        "publisher": "www.iwm.org.uk",
+        "url": "https://www.iwm.org.uk/sites/default/files/press-release/4_August_1914_Factsheet.pdf",
+        "notes": "Online-Recherche 26.10.2026. Verwendet wurden die zugänglichen, inhaltlich einschlägigen Online-Passagen; keine vollständige Prüfung sämtlicher verlinkter Publikationen. Bibliografisch nicht gesicherte Angaben bleiben leer/null."
+      },
+      "after": null
+    },
+    {
+      "collection": "sources",
+      "id": "S9103",
+      "before": {
+        "id": "S9103",
+        "title": "History | National Museum of American History",
+        "author": "",
+        "year": null,
+        "source_type": "reputable_website",
+        "publisher": "Smithsonian Institution",
+        "url": "https://americanhistory.si.edu/zh-hans/collections/object-groups/mexican-america/history?page=1",
+        "notes": "Online-Recherche 26.10.2026. Verwendet wurden die zugänglichen, inhaltlich einschlägigen Online-Passagen; keine vollständige Prüfung sämtlicher verlinkter Publikationen. Bibliografisch nicht gesicherte Angaben bleiben leer/null."
+      },
+      "after": {
+        "id": "S9103",
+        "title": "History | National Museum of American History",
+        "author": "",
+        "year": null,
+        "source_type": "reputable_website",
+        "publisher": "Smithsonian Institution",
+        "url": "https://americanhistory.si.edu/collections/object-groups/mexican-america/history",
+        "notes": "Online-Recherche 26.10.2026. Verwendet wurden die zugänglichen, inhaltlich einschlägigen Online-Passagen; keine vollständige Prüfung sämtlicher verlinkter Publikationen. Bibliografisch nicht gesicherte Angaben bleiben leer/null. Lokale Prüfung 27.10.2026: Abschnitt Christianization, Conquest, and Coexistence über indexierten Seitentext geprüft; Sprachpfad und Seitenparameter entfernt."
+      }
+    },
+    {
+      "collection": "sources",
+      "id": "S9110",
+      "before": {
+        "id": "S9110",
+        "title": "RKI - Robert Koch",
+        "author": "",
+        "year": null,
+        "source_type": "reputable_website",
+        "publisher": "Robert Koch-Institut",
+        "url": "https://www.rki.de/EN/Institute/The-RKI/History/Robert-Koch/robert-koch-node.html",
+        "notes": "Online-Recherche 26.10.2026. Verwendet wurden die zugänglichen, inhaltlich einschlägigen Online-Passagen; keine vollständige Prüfung sämtlicher verlinkter Publikationen. Bibliografisch nicht gesicherte Angaben bleiben leer/null."
+      },
+      "after": {
+        "id": "S9110",
+        "title": "Robert Koch: Der Mitbegründer der Mikrobiologie",
+        "author": "",
+        "year": null,
+        "source_type": "reputable_website",
+        "publisher": "Robert Koch-Institut",
+        "url": "https://www.rki.de/DE/Institut/Das-RKI/Geschichte/Robert-Koch/robert-koch-inhalt.html",
+        "notes": "Online-Recherche 26.10.2026. Verwendet wurden die zugänglichen, inhaltlich einschlägigen Online-Passagen; keine vollständige Prüfung sämtlicher verlinkter Publikationen. Bibliografisch nicht gesicherte Angaben bleiben leer/null. Lokale Prüfung 27.10.2026: deutschsprachige RKI-Fassung über indexierten Text geprüft; englischer Abruf lieferte 403."
+      }
+    },
+    {
+      "collection": "sources",
+      "id": "S9113",
+      "before": {
+        "id": "S9113",
+        "title": "The beginning and ending of a respiratory viral pandemic‐lessons from the Spanish flu - PMC",
+        "author": "",
+        "year": null,
+        "source_type": "academic_article",
+        "publisher": "pmc.ncbi.nlm.nih.gov",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9049621/",
+        "notes": "Online-Recherche 26.10.2026. Verwendet wurden die zugänglichen, inhaltlich einschlägigen Online-Passagen; keine vollständige Prüfung sämtlicher verlinkter Publikationen. Bibliografisch nicht gesicherte Angaben bleiben leer/null."
+      },
+      "after": {
+        "id": "S9113",
+        "title": "The beginning and ending of a respiratory viral pandemic‐lessons from the Spanish flu - PMC",
+        "author": "Harald Brüssow",
+        "year": 2022,
+        "source_type": "academic_article",
+        "publisher": "Microbial Biotechnology 15(5), 1301–1317",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9049621/",
+        "notes": "Online-Recherche 26.10.2026. Verwendet wurden die zugänglichen, inhaltlich einschlägigen Online-Passagen; keine vollständige Prüfung sämtlicher verlinkter Publikationen. Bibliografisch nicht gesicherte Angaben bleiben leer/null. Lokale Prüfung 27.10.2026: DOI 10.1111/1751-7915.14053; indexierten Volltext, insbesondere The outset, geprüft. Direkter Abruf zeigte CAPTCHA."
+      }
+    },
+    {
+      "collection": "sources",
+      "id": "S9147",
+      "before": {
+        "id": "S9147",
+        "title": "Haitian Revolution | Slavery and Remembrance",
+        "author": "",
+        "year": null,
+        "source_type": "reputable_website",
+        "publisher": "ww.slaveryandremembrance.org",
+        "url": "https://ww.slaveryandremembrance.org/articles/article/index.cfm?id=A0066",
+        "notes": "Online-Recherche 26.10.2026. Verwendet wurden die zugänglichen, inhaltlich einschlägigen Online-Passagen; keine vollständige Prüfung sämtlicher verlinkter Publikationen. Bibliografisch nicht gesicherte Angaben bleiben leer/null."
+      },
+      "after": {
+        "id": "S9147",
+        "title": "Haitian Revolution | Slavery and Remembrance",
+        "author": "",
+        "year": null,
+        "source_type": "reputable_website",
+        "publisher": "The Colonial Williamsburg Foundation / Slavery and Remembrance",
+        "url": "https://slaveryandremembrance.org/articles/article/index.cfm?id=A0066",
+        "notes": "Online-Recherche 26.10.2026. Verwendet wurden die zugänglichen, inhaltlich einschlägigen Online-Passagen; keine vollständige Prüfung sämtlicher verlinkter Publikationen. Bibliografisch nicht gesicherte Angaben bleiben leer/null. Lokale Prüfung 27.10.2026: Artikel auf der Hauptdomain gelesen; nicht erreichbare Subdomain ersetzt."
+      }
+    },
+    {
+      "collection": "sources",
+      "id": "S9151",
+      "before": null,
+      "after": {
+        "id": "S9151",
+        "title": "Later factory legislation",
+        "author": "",
+        "year": null,
+        "source_type": "official_source",
+        "publisher": "UK Parliament",
+        "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/laterfactoryleg/",
+        "notes": "Am 27.10.2026 gelesen. Einleitung und Safety legislation verbinden die Gesetze von 1833, 1844 und 1847 ausdrücklich; Beleg für R9015."
+      }
+    },
+    {
+      "collection": "sources",
+      "id": "S9152",
+      "before": null,
+      "after": {
+        "id": "S9152",
+        "title": "World War I and its Aftermath: Key Dates",
+        "author": "",
+        "year": null,
+        "source_type": "museum",
+        "publisher": "United States Holocaust Memorial Museum",
+        "url": "https://encyclopedia.ushmm.org/content/en/article/world-war-i-and-its-aftermath-key-dates?series=20",
+        "notes": "Am 27.10.2026 gelesen. Abschnitt The Outbreak of War belegt den Zusammenhang von Attentat, internationaler Krise und Kriegsausbruch. Ersetzt im geprüften Import den nicht prüfbaren IWM-Eintrag S9089 mit dem unvollständigen Titel The."
+      }
+    }
+  ]
+}

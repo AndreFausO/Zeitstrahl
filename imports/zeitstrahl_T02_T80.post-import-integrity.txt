@@ -1,0 +1,6 @@
+events: 62 + 84 = 146; existing values and order unchanged
+persons: 14 + 6 = 20; existing values and order unchanged
+institutions: 2 + 3 = 5; existing values and order unchanged
+relationships: 62 + 25 = 87; existing values and order unchanged
+sources: 30 + 116 = 146; existing values and order unchanged
+Vocabulary unchanged byte-for-byte. Import matches reviewed file exactly.

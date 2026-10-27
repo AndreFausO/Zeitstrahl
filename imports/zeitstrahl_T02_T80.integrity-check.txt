@@ -1,0 +1,8 @@
+events: existing records and order preserved in preview
+persons: existing records and order preserved in preview
+institutions: existing records and order preserved in preview
+relationships: existing records and order preserved in preview
+sources: existing records and order preserved in preview
+vocabularies: unchanged in preview
+No apply performed.
+PASS: ID conventions, subdiscipline parents, unordered endpoint pairs, complete evidence CSV, SHA256 unchanged for all data/*.json.
