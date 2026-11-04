@@ -38,5 +38,13 @@
     "dissolved_year": null,
     "place": "Paris",
     "short_description": "1865 gegründete zwischenstaatliche Organisation zur Koordination der Telegraphie; Vorgängerin der International Telecommunication Union."
+  },
+  {
+    "id": "I0006",
+    "name": "Fisk University",
+    "founded_year": 1866,
+    "dissolved_year": null,
+    "place": "Nashville, United States",
+    "short_description": "1866 eröffnete Hochschule in Nashville mit besonderer Bedeutung für afroamerikanische Bildung; ihre Studierenden bildeten 1871 die Fisk Jubilee Singers."
   }
 ]

@@ -11,11 +11,17 @@ node scripts/import-data.mjs preview imports/my-content.json
 node scripts/import-data.mjs apply imports/my-content.json
 ```
 
-Preview is read-only and reports counts and errors. Apply repeats validation, saves and verifies all six original files in a new `backups/import-…/` directory, then appends records only to affected files. Existing record values and order are preserved; affected files are formatted with two-space indentation. Unaffected files remain byte-for-byte unchanged. Reload the website after applying.
+Preview is read-only and reports counts and errors. Apply repeats validation, saves and verifies all six original content files and the import history in a new `backups/import-…/` directory, then appends records only to affected files. Existing record values and order are preserved; affected files are formatted with two-space indentation. Unaffected files remain byte-for-byte unchanged. Reload the website after applying.
 
 Use `imports/example.json` as a format template, not historical content: its fictional placeholder text must be replaced. The import is an object with any of `events`, `persons`, `institutions`, `relationships`, `sources`, each containing an array. Omitted collections mean no additions. Related records may reference existing records or other records in the same import, regardless of collection order. Vocabulary imports are not supported.
 
 All fields below are required, including those allowing null or empty arrays/text. Unknown fields, duplicate IDs (existing or incoming), duplicate relationship triples, invalid vocabulary values and missing references reject the entire batch. Repeating an applied import is rejected without changes; it never updates existing records. Different IDs with similar historical content are not automatically detected or merged: review titles and descriptions yourself.
+
+## Import history
+
+Successful `apply` runs prepend a timestamp, project-relative input filename and counts to `data/import-history.json`. The analysis page loads this history automatically on reload, newest first, independently of analysis filters. Preview, rejected, duplicate and empty imports do not add entries. History is written last within the same backup and rollback process as the content; a history write failure rolls back the content additions. Keep this file with the site when publishing. Direct edits or manual replacements of data files are not tracked.
+
+The initial history contains two previously documented imports. The older undated entry retains its known relative order without inventing a timestamp. Import history is required for applying imports; do not delete it or replace it with an import batch.
 
 ## IDs
 
@@ -69,7 +75,7 @@ Subdisciplines also have a `discipline_id` in the vocabulary file. Vocabulary re
 
 ## Safety and recovery
 
-Do not edit data files or run another importer while applying. `.import-data.lock` prevents simultaneous runs of this tool. Normal write failures trigger rollback using the original bytes. A process interruption or power failure can interrupt a multi-file write: keep the printed backup path. After confirming no import is running, restore the six `.json` files from that backup to `data/` if necessary, remove the leftover `.import-data.lock`, and preview again. `.pending` files are prepared new data, not backups. Backup folders are local recovery copies; they are not read by the website. Do not delete a backup until the result is checked.
+Do not edit data files or run another importer while applying. `.import-data.lock` prevents simultaneous runs of this tool. Normal write failures trigger rollback using the original bytes. A process interruption or power failure can interrupt a multi-file write: keep the printed backup path. After confirming no import is running, restore the six content `.json` files and `import-history.json` (when present) from that backup to `data/` if necessary, remove the leftover `.import-data.lock`, and preview again. `.pending` files are prepared new data, not backups. Backup folders are local recovery copies; they are not read by the website. Do not delete a backup until the result is checked.
 
 The Datenwerkstatt is unchanged. An older browser draft can still overwrite newer imports if exported and manually used to replace data files. Export any work you need first, then discard the old draft and reload the workshop after importing. The importer never modifies browser storage.
 

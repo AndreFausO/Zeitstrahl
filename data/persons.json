@@ -138,5 +138,19 @@
     "birth_year": 1772,
     "death_year": 1833,
     "short_description": "Bengalischer religiöser und gesellschaftlicher Reformer; Gründer der Brahma Sabha."
+  },
+  {
+    "id": "P0022",
+    "name": "Olaudah Equiano",
+    "birth_year": 1745,
+    "death_year": 1797,
+    "short_description": "Schwarzer Schriftsteller und Abolitionist; Autor der 1789 veröffentlichten Interesting Narrative. Geburtsjahr ungefähr (um 1745), Geburtsort umstritten."
+  },
+  {
+    "id": "P0023",
+    "name": "W. E. B. Du Bois",
+    "birth_year": 1868,
+    "death_year": 1963,
+    "short_description": "US-amerikanischer Soziologe, Historiker, Philosoph und Bürgerrechtsaktivist; Autor von The Souls of Black Folk (1903)."
   }
 ]

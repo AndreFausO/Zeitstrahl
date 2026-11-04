@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Local, append-only importer. No packages or changes to browser code required.
 import { readFile, writeFile, mkdir, mkdtemp, realpath, rename, unlink, open } from 'node:fs/promises';
-import { dirname, resolve, relative, isAbsolute, join } from 'node:path';
+import { basename, dirname, resolve, relative, isAbsolute, join } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { validateEvent, validateRelationship } from '../js/validation.js';
 
@@ -128,18 +128,30 @@ export async function applyImport(root, input, replace = rename) {
   try {
     plan = await preview(root, input);
     if (plan.errors.length || !Object.values(plan.counts).some(Boolean)) return plan;
+    // History is committed last, in the same rollback boundary as the records.
+    const historyName = 'import-history';
+    plan.paths[historyName] = await inside(root, join(root, 'data', `${historyName}.json`));
+    plan.originals[historyName] = await readFile(plan.paths[historyName], 'utf8');
+    const history = JSON.parse(plan.originals[historyName]);
+    if (!Array.isArray(history)) throw new Error('import-history.json must contain an array.');
+    const importFile = relative(root, await inside(root, resolve(root, input))).split('\\').join('/');
+    plan.data[historyName] = [{
+      title: basename(importFile), import_file: importFile,
+      applied_at: new Date().toISOString(), counts: plan.counts, log: null,
+    }, ...history];
+    const transactionNames = [...names, historyName];
     const backupParent = join(root, 'backups');
     await mkdir(backupParent, { recursive: true });
     await inside(root, backupParent);
     backup = await mkdtemp(join(backupParent, 'import-'));
-    for (const name of names) {
+    for (const name of transactionNames) {
       const path = join(backup, `${name}.json`);
       await writeFile(path, plan.originals[name], { flag: 'wx' });
       if (await readFile(path, 'utf8') !== plan.originals[name]) throw new Error(`Backup verification failed: ${name}.`);
     }
-    const changed = collections.filter(name => plan.counts[name]);
+    const changed = [...collections.filter(name => plan.counts[name]), historyName];
     for (const name of changed) await writeFile(join(backup, `${name}.pending`), JSON.stringify(plan.data[name], null, 2) + '\n', { flag: 'wx' });
-    for (const name of names) if (await readFile(plan.paths[name], 'utf8') !== plan.originals[name]) throw new Error('Data changed during preparation. Run preview again.');
+    for (const name of transactionNames) if (await readFile(plan.paths[name], 'utf8') !== plan.originals[name]) throw new Error('Data changed during preparation. Run preview again.');
     console.log(`Verified backup: ${relative(root, backup)}`);
     for (const name of changed) {
       await replace(join(backup, `${name}.pending`), plan.paths[name]);

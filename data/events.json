@@ -4999,5 +4999,131 @@
     ],
     "confidence": "high",
     "notes": ""
+  },
+  {
+    "id": "E9111",
+    "title": "Olaudah Equiano veröffentlicht seine Autobiografie gegen die Sklaverei",
+    "entry_type": "work_publication",
+    "start_year": 1789,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1789",
+    "primary_discipline": "art_culture",
+    "secondary_disciplines": [
+      "politics_society"
+    ],
+    "subdisciplines": [
+      "literature",
+      "social_history"
+    ],
+    "topics": [
+      "media",
+      "rights",
+      "trade"
+    ],
+    "geography": [
+      "London",
+      "Great Britain",
+      "Atlantic World"
+    ],
+    "scope": "continental",
+    "importance": 4,
+    "short_description": "Olaudah Equiano veröffentlichte 1789 in London seine Autobiografie The Interesting Narrative. Seine Darstellung von Versklavung und Freiheit erreichte ein breites Publikum und stärkte die britische Kampagne gegen den Handel mit versklavten Menschen.",
+    "long_description": "In The Interesting Narrative of the Life of Olaudah Equiano stellte ein ehemals versklavter Autor seine eigene Lebensgeschichte ins Zentrum der öffentlichen Auseinandersetzung mit Sklaverei. Das 1789 veröffentlichte Buch schildert Verschleppung, Arbeit, Reisen, christlichen Glauben und den Erwerb der Freiheit. Es verband persönliche Erfahrung mit moralischen und wirtschaftlichen Argumenten gegen den Sklavenhandel. Equiano verbreitete seine Position auch durch Vorträge, Reisen und Kontakte zu Parlamentariern. Mehrere Auflagen machten das Werk zu einem wichtigen Medium der abolitionistischen Öffentlichkeit. Damit wird Schwarze Autorschaft als eigenständige politische und literarische Handlung sichtbar. Der Beitrag zur späteren Gesetzgebung war mittelbar und Teil einer breiteren Bewegung. Einige Angaben zur frühen Lebensgeschichte, insbesondere zum Geburtsort, sind historisch umstritten; die erzählte afrikanische Kindheit wird deshalb nicht als zweifelsfrei rekonstruierte Biografie behandelt.",
+    "persons": [
+      "P0022"
+    ],
+    "institutions": [],
+    "source_ids": [
+      "S9153",
+      "S9154"
+    ],
+    "confidence": "high",
+    "notes": "Recherchevorschlag vom 28.10.2026; vor Veröffentlichung redaktionell prüfen. Vor Übernahme lokalen Import-Preview ausführen; kein automatischer Import und kein Deployment. Auswahlbegründung: Reichweite durch wiederholte Veröffentlichung, gesellschaftlicher Beitrag zur Abolitionsbewegung und Erklärungswert für das Verhältnis von Literatur und Emanzipation. Eigenständiges Werk, keine Dublette von E9005 (Gesetz 1807) oder E9003 (Haitianische Revolution). Publikation gesichert; einzelne autobiografische Herkunftsangaben umstritten. S9153 belegt auch die ungefähren Lebensdaten von P0022."
+  },
+  {
+    "id": "E9112",
+    "title": "Die Fisk Jubilee Singers beginnen ihre erste Konzertreise",
+    "entry_type": "event",
+    "start_year": 1871,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1871",
+    "primary_discipline": "art_culture",
+    "secondary_disciplines": [
+      "politics_society"
+    ],
+    "subdisciplines": [
+      "music",
+      "social_history"
+    ],
+    "topics": [
+      "education",
+      "religion",
+      "communication"
+    ],
+    "geography": [
+      "United States",
+      "Nashville"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "Am 6. Oktober 1871 begannen neun Studierende der Fisk University eine Konzertreise zur Finanzierung ihrer Hochschule. Ihre Aufführungen verbreiteten afroamerikanische Spirituals und machten musikalische Überlieferung aus der Sklaverei einem größeren Publikum zugänglich.",
+    "long_description": "Die 1866 in Nashville eröffnete Fisk University befand sich wenige Jahre nach ihrer Gründung in finanziellen Schwierigkeiten. George L. White stellte deshalb ein Ensemble aus neun Studierenden zusammen, das am 6. Oktober 1871 zu einer Konzertreise aufbrach. Die jungen Sängerinnen und Sänger begegneten zunächst auch Ablehnung und rassistischen Erwartungen an ihre Auftritte. Mit ihrem Repertoire gewannen sie zunehmend Anerkennung und sammelten Mittel für die Hochschule. Die weitere Konzerttätigkeit führte das Ensemble 1873 nach Europa. Gedruckte Liedsammlungen ergänzten die Aufführungen und verbreiteten Spirituals über die einzelnen Konzerte hinaus. So verbanden sich musikalische Überlieferung, öffentlicher Auftritt und der Ausbau von Bildungschancen. Die Singenden schufen die überlieferten Lieder nicht erst, sondern trugen wesentlich zu ihrer öffentlichen Verbreitung bei. Du Bois griff die Geschichte ihrer ersten Reise später ausdrücklich in The Souls of Black Folk auf.",
+    "persons": [],
+    "institutions": [
+      "I0006"
+    ],
+    "source_ids": [
+      "S9155",
+      "S9156",
+      "S9157",
+      "S9160"
+    ],
+    "confidence": "high",
+    "notes": "Recherchevorschlag vom 28.10.2026; vor Veröffentlichung redaktionell prüfen. Vor Übernahme lokalen Import-Preview ausführen; kein automatischer Import und kein Deployment. Auswahlbegründung: langfristige musikalische Überlieferung, transatlantische Rezeption und Verbindung von Kunst und Bildungsfinanzierung. Das Punktdatum bezeichnet den Tourneebeginn, nicht die Entstehung der Spirituals oder die gesamte Tourneegeschichte. Keine Dublette von E9037: kulturelles Handeln nach der Emanzipation ist ein eigener Gegenstand. S9155 und S9157 belegen das Gründungsjahr von I0006."
+  },
+  {
+    "id": "E9113",
+    "title": "Du Bois veröffentlicht The Souls of Black Folk",
+    "entry_type": "work_publication",
+    "start_year": 1903,
+    "end_year": null,
+    "date_precision": "exact",
+    "date_label": "1903",
+    "primary_discipline": "philosophy_religion",
+    "secondary_disciplines": [
+      "art_culture",
+      "politics_society"
+    ],
+    "subdisciplines": [
+      "philosophy",
+      "literature",
+      "social_history"
+    ],
+    "topics": [
+      "rights",
+      "knowledge",
+      "education",
+      "media"
+    ],
+    "geography": [
+      "United States"
+    ],
+    "scope": "national",
+    "importance": 4,
+    "short_description": "W. E. B. Du Bois veröffentlichte 1903 The Souls of Black Folk. Das Werk verband Gesellschaftsanalyse, autobiografische Erfahrung und kulturelle Deutung und untersuchte, wie rassistische Ausgrenzung Selbstwahrnehmung, Bildung und politische Teilhabe Schwarzer Amerikaner prägte.",
+    "long_description": "The Souls of Black Folk entstand im Kontext rassistischer Segregation und der unerfüllten Gleichheitsversprechen nach der Abschaffung der Sklaverei. Du Bois verband historische und gesellschaftliche Analyse mit autobiografischen Passagen und literarischer Darstellung. Sein Begriff des doppelten Bewusstseins beschreibt die Spannung, sich zugleich aus eigener Perspektive und durch den abwertenden Blick einer rassistischen Gesellschaft wahrzunehmen. Die entsprechende Formulierung hatte er bereits 1897 veröffentlicht; 1903 wurde sie Bestandteil des Buches. Du Bois diskutierte außerdem Bildungsziele und politische Strategien, darunter seine Kritik an Booker T. Washington. Im Schlusskapitel deutete er Spirituals als kulturelles Zeugnis und würdigte die Fisk Jubilee Singers. Das Werk blieb ein Bezugspunkt politischer Philosophie und Debatten über Schwarze Identität. Seine Aussagen sind als historisch situierte Deutungen zu lesen; die Forschung diskutiert ihre Reichweite und auch die elitären Annahmen seines politischen Programms.",
+    "persons": [
+      "P0023"
+    ],
+    "institutions": [],
+    "source_ids": [
+      "S9158",
+      "S9159",
+      "S9160"
+    ],
+    "confidence": "high",
+    "notes": "Recherchevorschlag vom 28.10.2026; vor Veröffentlichung redaktionell prüfen. Vor Übernahme lokalen Import-Preview ausführen; kein automatischer Import und kein Deployment. Auswahlbegründung: langfristige intellektuelle Rezeption und Erklärungswert für das Verhältnis von formaler Freiheit, rassistischer Herrschaft und Selbstwahrnehmung. Philosophische Hauptzuordnung folgt dem analytischen Schwerpunkt; das Werk ist zugleich literarisch. Keine belegte direkte Einflussbeziehung zu E9102 (Césaire) angesetzt. Doppeltes Bewusstsein ist keine erstmals 1903 entstandene Formulierung. S9158 belegt die Lebensdaten von P0023."
   }
 ]

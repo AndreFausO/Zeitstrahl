@@ -1,0 +1,18 @@
+import assert from 'node:assert/strict';
+import { readFile } from 'node:fs/promises';
+import { historyRows } from '../js/import-history.js';
+const history = JSON.parse(await readFile(new URL('../data/import-history.json', import.meta.url), 'utf8'));
+const html = historyRows(history);
+assert.ok(html.indexOf('T02–T80') < html.indexOf('Pilot'));
+assert.match(html, /Nicht protokolliert/);
+assert.match(historyRows([]), /Noch keine Importe/);
+const recent = { title: '<script>bad</script>', import_file: 'javascript:alert(1)', applied_at: '2026-10-29T12:00:00.000Z', counts: { events: 1, persons: 0, institutions: 0, relationships: 0, sources: 0 }, log: null };
+const rows = historyRows([recent, ...history]);
+assert.ok(rows.startsWith('<tr><th scope="row">&lt;script&gt;'));
+assert.ok(!rows.includes('href="javascript:'));
+assert.match(rows, /13:00/);
+assert.match(rows, /Automatisch protokolliert/);
+assert.throws(() => historyRows({}));
+assert.throws(() => historyRows([{ ...recent, counts: {} }]));
+assert.throws(() => historyRows([{ ...recent, applied_at: 'invalid' }]));
+console.log('Import history rendering checks passed.');

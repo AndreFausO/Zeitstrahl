@@ -707,6 +707,7 @@ dialog::backdrop {
     font-size:25px;
   }
   .site-header nav {
+    flex-wrap:wrap;
     order:2;
     width:100%;
     justify-content:space-between;

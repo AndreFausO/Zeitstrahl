@@ -7,7 +7,7 @@ import { collections, preview, applyImport } from '../scripts/import-data.mjs';
 // All test writes stay in a disposable folder inside this project.
 const project = fileURLToPath(new URL('../', import.meta.url));
 const root = await mkdtemp(join(project, '.import-test-'));
-const names = [...collections, 'vocabularies'];
+const names = [...collections, 'vocabularies', 'import-history'];
 const fixture = JSON.parse(await readFile(new URL('../imports/example.json', import.meta.url), 'utf8'));
 // Template IDs are not reserved; real content may use them after an import.
 const fixtureIds = {};
@@ -69,8 +69,12 @@ try {
     for (const name of names) {
       assert.equal(await readFile(join(result.backup, `${name}.json`), 'utf8'), original[name]);
       const current = JSON.parse(await readFile(join(root, 'data', `${name}.json`), 'utf8'));
-      assert.deepEqual(current, name === 'vocabularies' ? JSON.parse(original[name]) : [...JSON.parse(original[name]), ...fixture[name]]);
+      assert.deepEqual(current, ['vocabularies', 'import-history'].includes(name) ? (name === 'import-history' ? [current[0], ...JSON.parse(original[name])] : JSON.parse(original[name])) : [...JSON.parse(original[name]), ...fixture[name]]);
     }
+    const history = JSON.parse(await readFile(join(root, 'data/import-history.json'), 'utf8'));
+    assert.equal(history[0].import_file, 'input.json');
+    assert.deepEqual(history[0].counts, result.counts);
+    assert.ok(Number.isFinite(Date.parse(history[0].applied_at)));
     const before = await Promise.all(names.map(name => readFile(join(root, 'data', `${name}.json`), 'utf8')));
     assert.ok((await applyImport(root, 'input.json')).errors.some(error => error.includes('duplicate ID')));
     assert.deepEqual(await Promise.all(names.map(name => readFile(join(root, 'data', `${name}.json`), 'utf8'))), before);
@@ -98,7 +102,7 @@ try {
   await test('Omitted collections are allowed; untouched files retain their exact bytes', async () => {
     await setup({ persons: fixture.persons });
     const result = await applyImport(root, 'input.json'); assert.deepEqual(result.errors, []);
-    for (const name of names.filter(name => name !== 'persons')) assert.equal(await readFile(join(root, 'data', `${name}.json`), 'utf8'), original[name]);
+    for (const name of names.filter(name => !['persons', 'import-history'].includes(name))) assert.equal(await readFile(join(root, 'data', `${name}.json`), 'utf8'), original[name]);
   });
   await test('Write failure rolls back files already replaced', async () => {
     await setup(); let writes = 0;
@@ -108,6 +112,21 @@ try {
     }), /Original data restored/);
     await unchanged();
     assert.ok(!(await readdir(root)).includes('.import-data.lock'));
+  });
+  await test('History write failure rolls back every collection and preserves history', async () => {
+    await setup();
+    await assert.rejects(applyImport(root, 'input.json', async (from, to) => {
+      if (to.endsWith('import-history.json')) throw new Error('history write failed');
+      await rename(from, to);
+    }), /Original data restored/);
+    await unchanged();
+  });
+  await test('Malformed history prevents any data changes', async () => {
+    await setup();
+    await writeFile(join(root, 'data/import-history.json'), '{}');
+    original['import-history'] = '{}';
+    await assert.rejects(applyImport(root, 'input.json'), /must contain an array/);
+    await unchanged();
   });
   await test('Backup failure prevents changes', async () => {
     await setup(); await writeFile(join(root, 'backups'), 'blocked');

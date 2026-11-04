@@ -1458,5 +1458,85 @@
     "publisher": "United States Holocaust Memorial Museum",
     "url": "https://encyclopedia.ushmm.org/content/en/article/world-war-i-and-its-aftermath-key-dates?series=20",
     "notes": "Am 27.10.2026 gelesen. Abschnitt The Outbreak of War belegt den Zusammenhang von Attentat, internationaler Krise und Kriegsausbruch. Ersetzt im geprüften Import den nicht prüfbaren IWM-Eintrag S9089 mit dem unvollständigen Titel The."
+  },
+  {
+    "id": "S9153",
+    "title": "Olaudah Equiano: Writer & abolitionist",
+    "author": "",
+    "year": null,
+    "source_type": "museum",
+    "publisher": "London Museum",
+    "url": "https://www.londonmuseum.org.uk/collections/london-stories/olaudah-equiano-writer-abolitionist/",
+    "notes": "Geprüft am 28.10.2026. Gelesen: Lebensdaten, Veröffentlichung 1789, Auflagen, abolitionistische Wirkung und Streit um den Geburtsort. Belege für E9111 und P0022; unterstützt den in R9038 erläuterten mittelbaren Beitrag."
+  },
+  {
+    "id": "S9154",
+    "title": "The Transatlantic Slave Trade",
+    "author": "",
+    "year": null,
+    "source_type": "official_source",
+    "publisher": "UK Parliament – Heritage Collections",
+    "url": "https://heritagecollections.parliament.uk/stories/the-transatlantic-slave-trade/",
+    "notes": "Geprüft am 28.10.2026. Gelesen: Einleitung und Abschnitt Olaudah Equiano. Verbindet Buch, öffentliche Meinungsbildung, parlamentarische Kontakte und Abolitionsbewegung; Grundlage der vorsichtigen Synthese in R9038."
+  },
+  {
+    "id": "S9155",
+    "title": "History",
+    "author": "",
+    "year": null,
+    "source_type": "official_source",
+    "publisher": "Fisk Jubilee Singers",
+    "url": "https://www.fiskjubileesingers.org/history",
+    "notes": "Geprüft am 28.10.2026. Institutionelle Selbstdarstellung: Hochschuleröffnung 1866, neun Studierende, Abreise 6. Oktober 1871, anfängliche Ablehnung, Europa 1873 und Bildungsfinanzierung. Die unbelegte Prioritätsbehauptung zur ersten liberal-arts-Hochschule wird nicht übernommen."
+  },
+  {
+    "id": "S9156",
+    "title": "The African American Odyssey: A Quest for Full Citizenship – Reconstruction and Its Aftermath",
+    "author": "",
+    "year": null,
+    "source_type": "archive",
+    "publisher": "Library of Congress",
+    "url": "https://loc.gov/exhibits/african-american-odyssey/reconstruction.html",
+    "notes": "Geprüft am 28.10.2026. Ausstellung, insbesondere Abschnitt The Fisk Jubilee Singers: erste Tour 1871, Verbreitung der Spirituals durch Aufführungen und gedruckte Sammlungen ab 1872. Kein pauschaler Schluss auf eine direkte Verursachung durch den 13. Verfassungszusatz."
+  },
+  {
+    "id": "S9157",
+    "title": "The Fisk Jubilee Singers",
+    "author": "",
+    "year": 2022,
+    "source_type": "official_source",
+    "publisher": "National Park Service – James A. Garfield National Historic Site",
+    "url": "https://www.nps.gov/articles/000/the-fisk-jubilee-singers.htm",
+    "notes": "Geprüft am 28.10.2026. Datum ist der angegebene Aktualisierungsstand 29. Juli 2022. Einleitung bestätigt Hochschuleröffnung 1866, neun Mitglieder, Tourneebeginn 6. Oktober 1871 und Finanzierungszweck."
+  },
+  {
+    "id": "S9158",
+    "title": "W.E.B. Du Bois",
+    "author": "Robert Gooding-Williams",
+    "year": 2023,
+    "source_type": "reference_work",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/dubois/",
+    "notes": "Geprüft am 28.10.2026. Erstveröffentlichung 2017, substanzielle Revision 20. Dezember 2023. Herangezogen: Lebensdaten und Publikationschronologie sowie Abschnitte 4 und 4.1 zur politischen Philosophie von Souls, ihrer Rezeption und ihren elitären Annahmen."
+  },
+  {
+    "id": "S9159",
+    "title": "Double Consciousness",
+    "author": "John P. Pittman",
+    "year": 2023,
+    "source_type": "reference_work",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/ENTRiES/double-consciousness/",
+    "notes": "Geprüft am 28.10.2026. Jahr nach ausgewiesenem Copyright der Fassung. Herangezogen: Abschnitte 1 und 2; Formulierung 1897 und Wiederaufnahme 1903, Verhältnis von Selbstwahrnehmung und rassistischer Fremdwahrnehmung sowie Interpretationsvielfalt."
+  },
+  {
+    "id": "S9160",
+    "title": "The Souls of Black Folk",
+    "author": "W. E. B. Du Bois",
+    "year": 1903,
+    "source_type": "book",
+    "publisher": "Digitale Textfassung: Yale Law School, Avalon Project",
+    "url": "https://avalon.law.yale.edu/20th_century/dubois_01.asp",
+    "notes": "Geprüft am 28.10.2026. Jahr bezeichnet das historische Werk, nicht die Digitalisierung. Gelesen: Vorwort sowie einschlägige Passagen aus Kapitel I und XIV (Of the Sorrow Songs). Kapitel XIV nennt die Reise von 1871 und deutet ihre kulturelle Bedeutung ausdrücklich; Primärbeleg für R9039. Wertungen des Autors sind keine neutralen Tatsachenbeschreibungen."
   }
 ]

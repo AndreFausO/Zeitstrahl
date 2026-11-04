@@ -1217,5 +1217,41 @@
     "source_ids": [
       "S9133"
     ]
+  },
+  {
+    "id": "R9038",
+    "source_id": "E9111",
+    "target_id": "E9005",
+    "relationship_type": "contributed_to",
+    "strength": 2,
+    "confidence": "medium",
+    "description": "Equianos Autobiografie stärkte nach London Museum und UK Parliament die öffentliche Kampagne gegen den Sklavenhandel; Buchreisen und parlamentarische Kontakte trugen zur Mobilisierung bei. Diese Bewegung war ein Faktor auf dem Weg zum Handelsverbot von 1807. Die Beziehung bezeichnet eine quellenübergreifend rekonstruierte, mittelbare Wirkung über die Kampagne, keinen nachgewiesenen ausschlaggebenden Einfluss des Buches auf die Schlussabstimmung. S9004 dokumentiert weitere parlamentarische und politische Schritte.",
+    "start_year": 1789,
+    "end_year": 1807,
+    "geography": [
+      "Great Britain"
+    ],
+    "source_ids": [
+      "S9153",
+      "S9154",
+      "S9004"
+    ]
+  },
+  {
+    "id": "R9039",
+    "source_id": "E9112",
+    "target_id": "E9113",
+    "relationship_type": "influenced",
+    "strength": 2,
+    "confidence": "high",
+    "description": "In Kapitel XIV von The Souls of Black Folk schildert Du Bois ausdrücklich den Aufbruch der Fisk Jubilee Singers 1871 und ihre spätere Verbreitung der Spirituals. Er verbindet ihre Geschichte und die aus Konzerterlösen entstandene Jubilee Hall mit seiner Würdigung Schwarzer Musik. Belegt ist damit die konkrete Aufnahme dieser Konzertgeschichte in die kulturelle Argumentation des Buches; eine Verursachung seines gesamten philosophischen Programms wird nicht behauptet.",
+    "start_year": 1903,
+    "end_year": null,
+    "geography": [
+      "United States"
+    ],
+    "source_ids": [
+      "S9160"
+    ]
   }
 ]

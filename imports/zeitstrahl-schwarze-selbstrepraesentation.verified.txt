@@ -1,0 +1,12 @@
+Bestandsprüfung: 2026-10-29
+Datei: imports/zeitstrahl-schwarze-selbstrepraesentation.json
+
+Alle 16 Datensätze sind mit identischen IDs und Feldwerten im aktuellen Datenbestand vorhanden.
+events: 3
+persons: 2
+institutions: 1
+relationships: 2
+sources: 8
+
+Der Eintrag im Importverlauf wurde nachträglich aufgrund dieses Abgleichs ergänzt.
+Das ursprüngliche Importdatum ist nicht dokumentiert. Diese Prüfung hat keine historischen Datensätze importiert oder verändert.

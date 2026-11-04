@@ -1,0 +1,276 @@
+{
+  "events": [
+    {
+      "id": "E9111",
+      "title": "Olaudah Equiano veröffentlicht seine Autobiografie gegen die Sklaverei",
+      "entry_type": "work_publication",
+      "start_year": 1789,
+      "end_year": null,
+      "date_precision": "exact",
+      "date_label": "1789",
+      "primary_discipline": "art_culture",
+      "secondary_disciplines": [
+        "politics_society"
+      ],
+      "subdisciplines": [
+        "literature",
+        "social_history"
+      ],
+      "topics": [
+        "media",
+        "rights",
+        "trade"
+      ],
+      "geography": [
+        "London",
+        "Great Britain",
+        "Atlantic World"
+      ],
+      "scope": "continental",
+      "importance": 4,
+      "short_description": "Olaudah Equiano veröffentlichte 1789 in London seine Autobiografie The Interesting Narrative. Seine Darstellung von Versklavung und Freiheit erreichte ein breites Publikum und stärkte die britische Kampagne gegen den Handel mit versklavten Menschen.",
+      "long_description": "In The Interesting Narrative of the Life of Olaudah Equiano stellte ein ehemals versklavter Autor seine eigene Lebensgeschichte ins Zentrum der öffentlichen Auseinandersetzung mit Sklaverei. Das 1789 veröffentlichte Buch schildert Verschleppung, Arbeit, Reisen, christlichen Glauben und den Erwerb der Freiheit. Es verband persönliche Erfahrung mit moralischen und wirtschaftlichen Argumenten gegen den Sklavenhandel. Equiano verbreitete seine Position auch durch Vorträge, Reisen und Kontakte zu Parlamentariern. Mehrere Auflagen machten das Werk zu einem wichtigen Medium der abolitionistischen Öffentlichkeit. Damit wird Schwarze Autorschaft als eigenständige politische und literarische Handlung sichtbar. Der Beitrag zur späteren Gesetzgebung war mittelbar und Teil einer breiteren Bewegung. Einige Angaben zur frühen Lebensgeschichte, insbesondere zum Geburtsort, sind historisch umstritten; die erzählte afrikanische Kindheit wird deshalb nicht als zweifelsfrei rekonstruierte Biografie behandelt.",
+      "persons": [
+        "P0022"
+      ],
+      "institutions": [],
+      "source_ids": [
+        "S9153",
+        "S9154"
+      ],
+      "confidence": "high",
+      "notes": "Recherchevorschlag vom 28.10.2026; vor Veröffentlichung redaktionell prüfen. Vor Übernahme lokalen Import-Preview ausführen; kein automatischer Import und kein Deployment. Auswahlbegründung: Reichweite durch wiederholte Veröffentlichung, gesellschaftlicher Beitrag zur Abolitionsbewegung und Erklärungswert für das Verhältnis von Literatur und Emanzipation. Eigenständiges Werk, keine Dublette von E9005 (Gesetz 1807) oder E9003 (Haitianische Revolution). Publikation gesichert; einzelne autobiografische Herkunftsangaben umstritten. S9153 belegt auch die ungefähren Lebensdaten von P0022."
+    },
+    {
+      "id": "E9112",
+      "title": "Die Fisk Jubilee Singers beginnen ihre erste Konzertreise",
+      "entry_type": "event",
+      "start_year": 1871,
+      "end_year": null,
+      "date_precision": "exact",
+      "date_label": "1871",
+      "primary_discipline": "art_culture",
+      "secondary_disciplines": [
+        "politics_society"
+      ],
+      "subdisciplines": [
+        "music",
+        "social_history"
+      ],
+      "topics": [
+        "education",
+        "religion",
+        "communication"
+      ],
+      "geography": [
+        "United States",
+        "Nashville"
+      ],
+      "scope": "national",
+      "importance": 4,
+      "short_description": "Am 6. Oktober 1871 begannen neun Studierende der Fisk University eine Konzertreise zur Finanzierung ihrer Hochschule. Ihre Aufführungen verbreiteten afroamerikanische Spirituals und machten musikalische Überlieferung aus der Sklaverei einem größeren Publikum zugänglich.",
+      "long_description": "Die 1866 in Nashville eröffnete Fisk University befand sich wenige Jahre nach ihrer Gründung in finanziellen Schwierigkeiten. George L. White stellte deshalb ein Ensemble aus neun Studierenden zusammen, das am 6. Oktober 1871 zu einer Konzertreise aufbrach. Die jungen Sängerinnen und Sänger begegneten zunächst auch Ablehnung und rassistischen Erwartungen an ihre Auftritte. Mit ihrem Repertoire gewannen sie zunehmend Anerkennung und sammelten Mittel für die Hochschule. Die weitere Konzerttätigkeit führte das Ensemble 1873 nach Europa. Gedruckte Liedsammlungen ergänzten die Aufführungen und verbreiteten Spirituals über die einzelnen Konzerte hinaus. So verbanden sich musikalische Überlieferung, öffentlicher Auftritt und der Ausbau von Bildungschancen. Die Singenden schufen die überlieferten Lieder nicht erst, sondern trugen wesentlich zu ihrer öffentlichen Verbreitung bei. Du Bois griff die Geschichte ihrer ersten Reise später ausdrücklich in The Souls of Black Folk auf.",
+      "persons": [],
+      "institutions": [
+        "I0006"
+      ],
+      "source_ids": [
+        "S9155",
+        "S9156",
+        "S9157",
+        "S9160"
+      ],
+      "confidence": "high",
+      "notes": "Recherchevorschlag vom 28.10.2026; vor Veröffentlichung redaktionell prüfen. Vor Übernahme lokalen Import-Preview ausführen; kein automatischer Import und kein Deployment. Auswahlbegründung: langfristige musikalische Überlieferung, transatlantische Rezeption und Verbindung von Kunst und Bildungsfinanzierung. Das Punktdatum bezeichnet den Tourneebeginn, nicht die Entstehung der Spirituals oder die gesamte Tourneegeschichte. Keine Dublette von E9037: kulturelles Handeln nach der Emanzipation ist ein eigener Gegenstand. S9155 und S9157 belegen das Gründungsjahr von I0006."
+    },
+    {
+      "id": "E9113",
+      "title": "Du Bois veröffentlicht The Souls of Black Folk",
+      "entry_type": "work_publication",
+      "start_year": 1903,
+      "end_year": null,
+      "date_precision": "exact",
+      "date_label": "1903",
+      "primary_discipline": "philosophy_religion",
+      "secondary_disciplines": [
+        "art_culture",
+        "politics_society"
+      ],
+      "subdisciplines": [
+        "philosophy",
+        "literature",
+        "social_history"
+      ],
+      "topics": [
+        "rights",
+        "knowledge",
+        "education",
+        "media"
+      ],
+      "geography": [
+        "United States"
+      ],
+      "scope": "national",
+      "importance": 4,
+      "short_description": "W. E. B. Du Bois veröffentlichte 1903 The Souls of Black Folk. Das Werk verband Gesellschaftsanalyse, autobiografische Erfahrung und kulturelle Deutung und untersuchte, wie rassistische Ausgrenzung Selbstwahrnehmung, Bildung und politische Teilhabe Schwarzer Amerikaner prägte.",
+      "long_description": "The Souls of Black Folk entstand im Kontext rassistischer Segregation und der unerfüllten Gleichheitsversprechen nach der Abschaffung der Sklaverei. Du Bois verband historische und gesellschaftliche Analyse mit autobiografischen Passagen und literarischer Darstellung. Sein Begriff des doppelten Bewusstseins beschreibt die Spannung, sich zugleich aus eigener Perspektive und durch den abwertenden Blick einer rassistischen Gesellschaft wahrzunehmen. Die entsprechende Formulierung hatte er bereits 1897 veröffentlicht; 1903 wurde sie Bestandteil des Buches. Du Bois diskutierte außerdem Bildungsziele und politische Strategien, darunter seine Kritik an Booker T. Washington. Im Schlusskapitel deutete er Spirituals als kulturelles Zeugnis und würdigte die Fisk Jubilee Singers. Das Werk blieb ein Bezugspunkt politischer Philosophie und Debatten über Schwarze Identität. Seine Aussagen sind als historisch situierte Deutungen zu lesen; die Forschung diskutiert ihre Reichweite und auch die elitären Annahmen seines politischen Programms.",
+      "persons": [
+        "P0023"
+      ],
+      "institutions": [],
+      "source_ids": [
+        "S9158",
+        "S9159",
+        "S9160"
+      ],
+      "confidence": "high",
+      "notes": "Recherchevorschlag vom 28.10.2026; vor Veröffentlichung redaktionell prüfen. Vor Übernahme lokalen Import-Preview ausführen; kein automatischer Import und kein Deployment. Auswahlbegründung: langfristige intellektuelle Rezeption und Erklärungswert für das Verhältnis von formaler Freiheit, rassistischer Herrschaft und Selbstwahrnehmung. Philosophische Hauptzuordnung folgt dem analytischen Schwerpunkt; das Werk ist zugleich literarisch. Keine belegte direkte Einflussbeziehung zu E9102 (Césaire) angesetzt. Doppeltes Bewusstsein ist keine erstmals 1903 entstandene Formulierung. S9158 belegt die Lebensdaten von P0023."
+    }
+  ],
+  "persons": [
+    {
+      "id": "P0022",
+      "name": "Olaudah Equiano",
+      "birth_year": 1745,
+      "death_year": 1797,
+      "short_description": "Schwarzer Schriftsteller und Abolitionist; Autor der 1789 veröffentlichten Interesting Narrative. Geburtsjahr ungefähr (um 1745), Geburtsort umstritten."
+    },
+    {
+      "id": "P0023",
+      "name": "W. E. B. Du Bois",
+      "birth_year": 1868,
+      "death_year": 1963,
+      "short_description": "US-amerikanischer Soziologe, Historiker, Philosoph und Bürgerrechtsaktivist; Autor von The Souls of Black Folk (1903)."
+    }
+  ],
+  "institutions": [
+    {
+      "id": "I0006",
+      "name": "Fisk University",
+      "founded_year": 1866,
+      "dissolved_year": null,
+      "place": "Nashville, United States",
+      "short_description": "1866 eröffnete Hochschule in Nashville mit besonderer Bedeutung für afroamerikanische Bildung; ihre Studierenden bildeten 1871 die Fisk Jubilee Singers."
+    }
+  ],
+  "relationships": [
+    {
+      "id": "R9038",
+      "source_id": "E9111",
+      "target_id": "E9005",
+      "relationship_type": "contributed_to",
+      "strength": 2,
+      "confidence": "medium",
+      "description": "Equianos Autobiografie stärkte nach London Museum und UK Parliament die öffentliche Kampagne gegen den Sklavenhandel; Buchreisen und parlamentarische Kontakte trugen zur Mobilisierung bei. Diese Bewegung war ein Faktor auf dem Weg zum Handelsverbot von 1807. Die Beziehung bezeichnet eine quellenübergreifend rekonstruierte, mittelbare Wirkung über die Kampagne, keinen nachgewiesenen ausschlaggebenden Einfluss des Buches auf die Schlussabstimmung. S9004 dokumentiert weitere parlamentarische und politische Schritte.",
+      "start_year": 1789,
+      "end_year": 1807,
+      "geography": [
+        "Great Britain"
+      ],
+      "source_ids": [
+        "S9153",
+        "S9154",
+        "S9004"
+      ]
+    },
+    {
+      "id": "R9039",
+      "source_id": "E9112",
+      "target_id": "E9113",
+      "relationship_type": "influenced",
+      "strength": 2,
+      "confidence": "high",
+      "description": "In Kapitel XIV von The Souls of Black Folk schildert Du Bois ausdrücklich den Aufbruch der Fisk Jubilee Singers 1871 und ihre spätere Verbreitung der Spirituals. Er verbindet ihre Geschichte und die aus Konzerterlösen entstandene Jubilee Hall mit seiner Würdigung Schwarzer Musik. Belegt ist damit die konkrete Aufnahme dieser Konzertgeschichte in die kulturelle Argumentation des Buches; eine Verursachung seines gesamten philosophischen Programms wird nicht behauptet.",
+      "start_year": 1903,
+      "end_year": null,
+      "geography": [
+        "United States"
+      ],
+      "source_ids": [
+        "S9160"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "S9153",
+      "title": "Olaudah Equiano: Writer & abolitionist",
+      "author": "",
+      "year": null,
+      "source_type": "museum",
+      "publisher": "London Museum",
+      "url": "https://www.londonmuseum.org.uk/collections/london-stories/olaudah-equiano-writer-abolitionist/",
+      "notes": "Geprüft am 28.10.2026. Gelesen: Lebensdaten, Veröffentlichung 1789, Auflagen, abolitionistische Wirkung und Streit um den Geburtsort. Belege für E9111 und P0022; unterstützt den in R9038 erläuterten mittelbaren Beitrag."
+    },
+    {
+      "id": "S9154",
+      "title": "The Transatlantic Slave Trade",
+      "author": "",
+      "year": null,
+      "source_type": "official_source",
+      "publisher": "UK Parliament – Heritage Collections",
+      "url": "https://heritagecollections.parliament.uk/stories/the-transatlantic-slave-trade/",
+      "notes": "Geprüft am 28.10.2026. Gelesen: Einleitung und Abschnitt Olaudah Equiano. Verbindet Buch, öffentliche Meinungsbildung, parlamentarische Kontakte und Abolitionsbewegung; Grundlage der vorsichtigen Synthese in R9038."
+    },
+    {
+      "id": "S9155",
+      "title": "History",
+      "author": "",
+      "year": null,
+      "source_type": "official_source",
+      "publisher": "Fisk Jubilee Singers",
+      "url": "https://www.fiskjubileesingers.org/history",
+      "notes": "Geprüft am 28.10.2026. Institutionelle Selbstdarstellung: Hochschuleröffnung 1866, neun Studierende, Abreise 6. Oktober 1871, anfängliche Ablehnung, Europa 1873 und Bildungsfinanzierung. Die unbelegte Prioritätsbehauptung zur ersten liberal-arts-Hochschule wird nicht übernommen."
+    },
+    {
+      "id": "S9156",
+      "title": "The African American Odyssey: A Quest for Full Citizenship – Reconstruction and Its Aftermath",
+      "author": "",
+      "year": null,
+      "source_type": "archive",
+      "publisher": "Library of Congress",
+      "url": "https://loc.gov/exhibits/african-american-odyssey/reconstruction.html",
+      "notes": "Geprüft am 28.10.2026. Ausstellung, insbesondere Abschnitt The Fisk Jubilee Singers: erste Tour 1871, Verbreitung der Spirituals durch Aufführungen und gedruckte Sammlungen ab 1872. Kein pauschaler Schluss auf eine direkte Verursachung durch den 13. Verfassungszusatz."
+    },
+    {
+      "id": "S9157",
+      "title": "The Fisk Jubilee Singers",
+      "author": "",
+      "year": 2022,
+      "source_type": "official_source",
+      "publisher": "National Park Service – James A. Garfield National Historic Site",
+      "url": "https://www.nps.gov/articles/000/the-fisk-jubilee-singers.htm",
+      "notes": "Geprüft am 28.10.2026. Datum ist der angegebene Aktualisierungsstand 29. Juli 2022. Einleitung bestätigt Hochschuleröffnung 1866, neun Mitglieder, Tourneebeginn 6. Oktober 1871 und Finanzierungszweck."
+    },
+    {
+      "id": "S9158",
+      "title": "W.E.B. Du Bois",
+      "author": "Robert Gooding-Williams",
+      "year": 2023,
+      "source_type": "reference_work",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/dubois/",
+      "notes": "Geprüft am 28.10.2026. Erstveröffentlichung 2017, substanzielle Revision 20. Dezember 2023. Herangezogen: Lebensdaten und Publikationschronologie sowie Abschnitte 4 und 4.1 zur politischen Philosophie von Souls, ihrer Rezeption und ihren elitären Annahmen."
+    },
+    {
+      "id": "S9159",
+      "title": "Double Consciousness",
+      "author": "John P. Pittman",
+      "year": 2023,
+      "source_type": "reference_work",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/ENTRiES/double-consciousness/",
+      "notes": "Geprüft am 28.10.2026. Jahr nach ausgewiesenem Copyright der Fassung. Herangezogen: Abschnitte 1 und 2; Formulierung 1897 und Wiederaufnahme 1903, Verhältnis von Selbstwahrnehmung und rassistischer Fremdwahrnehmung sowie Interpretationsvielfalt."
+    },
+    {
+      "id": "S9160",
+      "title": "The Souls of Black Folk",
+      "author": "W. E. B. Du Bois",
+      "year": 1903,
+      "source_type": "book",
+      "publisher": "Digitale Textfassung: Yale Law School, Avalon Project",
+      "url": "https://avalon.law.yale.edu/20th_century/dubois_01.asp",
+      "notes": "Geprüft am 28.10.2026. Jahr bezeichnet das historische Werk, nicht die Digitalisierung. Gelesen: Vorwort sowie einschlägige Passagen aus Kapitel I und XIV (Of the Sorrow Songs). Kapitel XIV nennt die Reise von 1871 und deutet ihre kulturelle Bedeutung ausdrücklich; Primärbeleg für R9039. Wertungen des Autors sind keine neutralen Tatsachenbeschreibungen."
+    }
+  ]
+}

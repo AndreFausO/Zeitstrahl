@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Schwarze Selbstrepräsentation",
+    "import_file": "imports/zeitstrahl-schwarze-selbstrepraesentation.json",
+    "applied_at": null,
+    "counts": {
+      "events": 3,
+      "persons": 2,
+      "institutions": 1,
+      "relationships": 2,
+      "sources": 8
+    },
+    "log": "imports/zeitstrahl-schwarze-selbstrepraesentation.verified.txt"
+  },
+  {
+    "title": "T02–T80 · Selektive Ergänzungsrunde",
+    "import_file": "imports/zeitstrahl_T02_T80_import.reviewed.json",
+    "applied_at": null,
+    "counts": {
+      "events": 84,
+      "persons": 6,
+      "institutions": 3,
+      "relationships": 25,
+      "sources": 116
+    },
+    "log": "imports/zeitstrahl_T02_T80.applied.txt"
+  },
+  {
+    "title": "Pilot · Industrialisierung 1750–1900",
+    "import_file": "imports/zeitstrahl_pilot_industrialisierung_1750-1900.reviewed.json",
+    "applied_at": "2026-10-26",
+    "counts": {
+      "events": 18,
+      "persons": 0,
+      "institutions": 0,
+      "relationships": 2,
+      "sources": 21
+    },
+    "log": "imports/zeitstrahl_pilot_industrialisierung_1750-1900.applied.txt"
+  }
+]

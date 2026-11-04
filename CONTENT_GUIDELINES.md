@@ -76,6 +76,22 @@ Apply the following rules:
 - Prefer fewer well-supported relationships over speculative networks.
 - Events may initially have no relationships if none can be reliably established.
 
+### Evidence requirements for relationships
+
+A historical relationship may only be included when credible evidence supports the specific connection between the two referenced events.
+
+Sources that merely establish the existence, significance or general historical context of both events are insufficient to justify a relationship.
+
+The following rules apply:
+
+1. **Specific evidence:** Sources must substantiate the claimed relationship between the actual source and target events.
+2. **Causal precision:** Do not infer direct causation from broad historical developments, thematic similarities or chronological proximity.
+3. **Interpretative connections:** Relationships derived from a synthesis of multiple sources are acceptable if the reasoning is explicitly explained, the sources support that interpretation, and the confidence level reflects the uncertainty.
+4. **Insufficient evidence:** If a specific relationship cannot be adequately supported, omit it rather than introduce a speculative connection.
+5. **Quality over quantity:** A smaller network of well-supported relationships is preferable to a dense network of weak or speculative connections.
+
+The objective is not to maximize the number of connections, but to explain historically meaningful relationships accurately and transparently.
+
 ## 5. Sources and evidence
 
 Prefer:

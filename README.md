@@ -212,3 +212,31 @@ Die Anwendung speichert keine Daten auf dem Server. Pflege die JSON-Dateien loka
 ## Zusätzliche JSON-Daten importieren
 
 Für neue Datensätze gibt es einen lokalen Import mit separater Vorschau und Anwendung, ohne bestehende Datensätze zu überschreiben. Format, Befehle und Sicherung: [DATA_MODEL.md](DATA_MODEL.md). Vorlage: [imports/example.json](imports/example.json). Die Website und Datenwerkstatt funktionieren unverändert.
+
+## Datenanalyse & Rechercheplanung
+
+Die Hauptnavigation verlinkt auf `analysis.html`. Das lokale Dashboard lädt die sechs bestehenden JSON-Dateien bei jedem Seitenaufruf ohne Browsercache; „Daten neu laden“ aktualisiert nach einem Import. Es liest keine Werkstattentwürfe und verändert keine Daten. Zusätzliche Dienste, Pakete oder ein Build sind nicht erforderlich.
+
+- Übersicht, Hauptdisziplinen, Unterdisziplinen, Themenkombinationen, Zeitverteilung, geografische Schlagwörter sowie Quellen- und Beziehungsabdeckung.
+- Kombinierbare Filter nach Hauptdisziplin, Unterdisziplin, Thema, Zeitraum, geografischem Schlagwort und Bedeutung. Zeitfilter berücksichtigen Intervallüberschneidungen. Diagramme lassen sich anklicken; Tabellen werden über ihre Spaltenköpfe sortiert.
+- Rechercheprioritäten verwenden immer den Gesamtbestand und unterscheiden quantitative Orientierung, Datenqualität und qualitative Prüfanlässe. „Übernehmen“ füllt den Rechercheauftrag aus. Dieser wird ausschließlich lokal erzeugt und kann kopiert werden.
+- JSON- und Markdown-Berichte enthalten globale Verteilungen, die aktuelle Auswahl, Berechnungsgrenzen und Rechercheprioritäten. Der JSON-Bericht enthält außerdem Zielkonfiguration und Ereignisindex. Für spätere Recherche müssen die aktuellen Quelldateien und Inhaltsrichtlinien zusätzlich bereitgestellt werden.
+
+Die redaktionellen Zielgewichte stehen separat in `js/analysis-config.js`. Die Klassifikationen und Beschriftungen stammen aus `data/vocabularies.json`; neue Kategorien ohne konfigurierten Zielwert bleiben sichtbar und erhalten keinen erfundenen Zielwert. Die Ziele sind keine empirischen Geschichtsanteile oder Auffüllquoten. Gefilterte Ansichten enthalten keine Zielabweichungen, auch nicht im JSON-Export.
+
+Berechnungsregeln:
+
+- Hauptdisziplin: genau eine Zuordnung je Ereignis. Themen: eindeutige Themenzuordnungen geteilt durch Ereigniszahl.
+- Unterdisziplin: eindeutige Zuordnungen geteilt durch sämtliche Unterdisziplin-Zuordnungen desselben Vokabular-Elternbereichs, unabhängig von der primären Disziplin des Ereignisses. Ereignisse können so mehrere Bereiche berühren. Ereignis- und Zuordnungszahl je einzelner Unterdisziplin sind identisch; die Gesamtsummen sind es nicht.
+- Zeit: jedes Ereignis einmal nach Startjahr, getrennt nach Punkt und Zeitraum. Numerische 100-Jahresintervalle werden für große Zeitspannen vergröbert (höchstens 80 Abschnitte). Leere Zwischenabschnitte bleiben sichtbar; eine historische Sollverteilung wird nicht behauptet.
+- Geografie: unveränderte freie Schlagwörter, pro Schlagwort einmal je Ereignis. Keine automatische Länder-/Kontinenthierarchie; Zeilen sind nicht addierbar. Nicht erfasste Regionen lassen sich ohne zusätzliche Ontologie nicht vollständig erkennen. Der Europa-Hinweis ist ein Prüfanlass, kein berechneter vollständiger Europa-Anteil.
+- Quellen: mindestens eine existierende Quellenreferenz zählt als Abdeckung, nicht als wissenschaftliche Verifikation. Beziehungen mit ungültigen Endpunkten oder Selbstbezug werden ausgeschlossen und gemeldet. Im Filter zählen auch Verbindungen zu Ereignissen außerhalb der Auswahl.
+- Leere Bezugsgrößen ergeben „–“, nicht 0 %. Beschädigte Datensätze ohne IDs und doppelte IDs werden mit sichtbarer Warnung ausgeschlossen. Unbekannte Klassifikationen und fehlende Referenzen werden als Qualitätsprobleme ausgewiesen. Ausfall einer Datei bricht die Analyse sichtbar ab, statt eine unvollständige Datenbasis als vollständig darzustellen.
+
+Zusätzliche Tests ohne Bibliotheken:
+
+```sh
+node tests/analysis.mjs
+```
+
+Bei laufendem lokalem Server: `tests/analysis-browser.html`. Diese Tests bedienen das Dashboard in einem eigenen iframe, prüfen Filter, Sortierung, Matrix, Tastaturbedienung, Rechercheprompts, beide Exporte und eine schmale Ansicht. Sie ändern weder Daten noch Werkstattentwürfe.
